@@ -8,4 +8,4 @@
 
 But it won't be answering them until some time after exams :)
 
-![lillekat logo](images/lillekatmanglerbord.png)
+![lillekat logo](images/animated-lillekat.gif)
