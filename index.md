@@ -6,21 +6,21 @@ The events aim to be fun and challenging for programmers of every skill level. E
 
 Oh.. and there’ll be snacks!
 
+## When?
+
+Lille Kat will be held on the first Friday of every month starting on the 7th of February. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.
+
 ## Where..
 
 ### .. do we meet?
 
-The tables 2G01-2G12 will be reserved for Lille Kat events.
+The tables 2G01-2G12 will be reserved for Lille Kat events. We'll set up a main base on one of these tables.
 
 ### .. are the problems?
 
 The problems for the next event will be made available on [this](https://open.kattis.com/contests/ncvy89) Kattis contest.
 
-## When?
-
-Lille Kat will be held on the first Friday of every month starting on the 7th of feb. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.
-
-## Should I prepare?
+## Do I have to prepare?
 
 No formal preparation is required, you can show up at the last minute.
 However:
@@ -29,3 +29,7 @@ However:
 * One of you should bring a computer for programming, and you’ll need pen and paper for problem solving and collaborative thinking. Bring a charger or make sure your batteries are full.
 * If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the events, you can try to solve some easy problems on Open Kattis, such as [hello](https://open.kattis.com/problems/hello), [babybites](https://open.kattis.com/problems/babybites), or [guess](https://open.kattis.com/problems/guess).
 This is particularly useful for learning how to read and write input and output. But don’t stress out over this beforehand – we’ll help during the event.
+
+## Where do I ask additional questions?
+
+Ask questions and join the conversation [here.](https://talk.itu.dk/channel/lillekat)
