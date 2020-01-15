@@ -18,7 +18,9 @@ The tables 2G01-2G12 will be reserved for Lille Kat events. We'll set up a main 
 
 ### .. are the problems?
 
-The problems for the next event will be made available on [this](https://open.kattis.com/contests/ncvy89) Kattis contest.
+The problems for the next event will be made available on Kattis. Next event:
+
+* Friday, 7 February 2020, 15–18. [Kattis link](https://open.kattis.com/contests/ncvy89).
 
 ## Do I have to prepare?
 
