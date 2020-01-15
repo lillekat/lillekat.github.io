@@ -34,4 +34,13 @@ This is particularly useful for learning how to read and write input and output.
 
 ## Where do I ask additional questions?
 
-Ask questions and join the conversation [here.](https://talk.itu.dk/channel/lillekat)
+Ask questions and join the conversation at the [lillekat channel on Talk@ITU](https://talk.itu.dk/channel/lillekat)
+
+## People
+
+The people behind Lille Kat are
+
+* Poppy Jones (organisation)
+* Thore Husfeldt (chair of problem committee)
+* Troels Lund
+* Martin Aumüller
