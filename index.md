@@ -16,7 +16,7 @@ The next event will be held on Friday the 6th of March: [Facebook event](https:/
 
 ### .. do we meet?
 
-The tables 2G01-2G12 will be reserved for Lille Kat events. We'll set up a main base on one of these tables.
+The tables **2R01-2R12** will be reserved for Lille Kat events. We'll set up a main base on one of these tables.
 
 ### .. are the problems?
 
