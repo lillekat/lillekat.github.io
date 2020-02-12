@@ -16,7 +16,7 @@ The next event will be held on Friday the 6th of March: [Facebook event](https:/
 
 ### .. do we meet?
 
-The tables **2R01-2R12** will be reserved for Lille Kat events. We'll set up a main base on one of these tables.
+The tables 2R01-2R12 will be reserved for Lille Kat events. We'll set up a main base on one of these tables.
 
 ### .. are the problems?
 
@@ -24,7 +24,7 @@ The problems for the next event will be made available on Kattis before the even
 
 Previous problem set:
 
-* Friday, 7 February 2020, 15–18. [Kattis link](https://open.kattis.com/contests/ncvy89).
+* Friday, 7th February 2020. [Kattis link](https://open.kattis.com/contests/ncvy89).
 
 ## Do I have to prepare?
 
