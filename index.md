@@ -8,9 +8,9 @@ Oh... and there’ll be snacks!
 
 ## When?
 
-Lille Kat will be held on the first Friday of every month starting on the 7th of February. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.
+Lille Kat will be held on the first Friday of every month. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
-[Join the event here!](https://www.facebook.com/events/186820732391901/)
+The next event will be held on Friday the 6th of March: [Facebook event](https://www.facebook.com/events/196388161475613/)
 
 ## Where..
 
@@ -20,7 +20,9 @@ The tables 2G01-2G12 will be reserved for Lille Kat events. We'll set up a main 
 
 ### .. are the problems?
 
-The problems for the next event will be made available on Kattis. Next event:
+The problems for the next event will be made available on Kattis before the event.
+
+Previous problem set:
 
 * Friday, 7 February 2020, 15–18. [Kattis link](https://open.kattis.com/contests/ncvy89).
 
