@@ -25,7 +25,7 @@ The tables 2R01-2R12 will be reserved for Lille Kat events. We'll set up a main 
 
 ### .. are the problems?
 
-The problems for the next event will be made available on Kattis before the event.
+The problems for the next event can be found [here!](https://open.kattis.com/contests/j6b33t)
 
 Previous problem set:
 
