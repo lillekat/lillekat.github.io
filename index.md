@@ -8,11 +8,16 @@ Oh... and there’ll be snacks!
 
 ## When?
 
-Lille Kat will be held on the first Friday of every month. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
+Lille Kat will be held on the first *or last* Friday of every month. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
-The next event will be held on Friday the 6th of March: [Facebook event](https://www.facebook.com/events/196388161475613/)
+The next events will be held:
 
-## Where..
+- 6th of March ([join the event](https://www.facebook.com/events/196388161475613/))
+- 27th of March
+- 24th of April ([d-pop](https://d-pop.github.io/))
+- 29th of May
+
+## Where..  
 
 ### .. do we meet?
 
