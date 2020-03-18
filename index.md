@@ -16,16 +16,16 @@ The next events will be held:
 - 24th of April ([d-pop](https://d-pop.github.io/), *very preliminary*)
 - 29th of May
 
-## Lille Kat and Coronavirus 
+## Lille Kat and Coronavirus
 
-Lille Kat herself is an introvert. 
-However, she understands humans well enough to acknowledge their psychological craving for social interaction. 
+Lille Kat herself is an introvert and has been staying inside catching mice a receiving belly rubs.
+However, she understands humans well enough to acknowledge their psychological craving for social interaction.
 
-Thus, Lille Kat insists we’re having fun and continue with social events *in particular* during challenging times, even though it takes more commitment. 
-There will be Zoom meeting at https://itucph.zoom.us/j/153110293 for Lille Kat 3. 
+Thus, Lille Kat insists we continue having fun and continue with social events *in particular* during challenging times, even though it takes more commitment.
+There will be Zoom meeting [here](https://itucph.zoom.us/j/153110293) for Lille Kat 3.
 Participants are invited to join this meeting, preferably with a webcam turned on, so that we *see faces*, and *see humans eating snacks or drinking beverages* and *see friends* or even *meet new people*.
-During the event, teams can go into their own virtual “breakout rooms”. 
-In principle, teams may be able to meet up physically, but this should be done only if they’re meeting regularly anyway – Lille Kat dislikes the virus and does not want to help it. 
+During the event, teams can go into their own virtual “breakout rooms”.
+In principle, teams may be able to meet up physically, but this should be done only if they’re meeting regularly anyway – Lille Kat dislikes the virus and does not want to help it.
 
 If you’re meeting physically, please join the zoom meeting anyway, so that the rest of us have the feeling of a *shared social event*.
 
@@ -42,7 +42,6 @@ Previous problem sets:
 
 * Friday, 7th February 2020. [Kattis link](https://open.kattis.com/contests/ncvy89).
 * Friday, 6th March 2919. [Kattis link](https://open.kattis.com/contests/j6b33t)
-
 
 ## Do I have to prepare?
 
