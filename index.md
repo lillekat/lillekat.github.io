@@ -12,7 +12,7 @@ Lille Kat will be held on the first *or last* Friday of every month. The Kattis 
 
 The next events will be held:
 
-- 27th of March ([Facebook event](https://www.facebook.com/events/621618751736757/) • [Zoom meeting](https://itucph.zoom.us/j/153110293) • [Kattis event](https://open.kattis.com/contests/oj3c3u)
+- 27th of March ([Facebook event](https://www.facebook.com/events/621618751736757/) • [Zoom meeting 153-110-293](https://itucph.zoom.us/j/153110293) • [Kattis event oj3c3u](https://open.kattis.com/contests/oj3c3u))
 - 24th of April ([d-pop](https://d-pop.github.io/), *very preliminary*)
 - 29th of May
 
