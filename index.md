@@ -12,7 +12,9 @@ Lille Kat will be held on the last Friday of every month. The Kattis server open
 
 The next events will be held:
 
-- 24th of April ([Kattis event](https://open.kattis.com/contests/bwarvf))
+- 24th of April
+  - :calendar: [Facebook event](https://www.facebook.com/events/798522163973531/)
+  - :smiley_cat: [Kattis event](https://open.kattis.com/contests/bwarvf))
 - 29th of May
 
 ## Lille Kat and Coronavirus
