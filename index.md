@@ -10,9 +10,11 @@ The events aim to be fun and challenging for programmers of every skill level. E
 
 Lille Kat will be held on the last Friday of every month. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
+> Next event will be held in collaboration with [ScrollBar](https://www.facebook.com/ScrollBar/) on the ScrollBar Discord server. ScrollBar will set up a few dedicated channels for Lille Kat teams as well as a common area where you can ask for help or share cat gifs.
+
 The next events will be held:
 
-- 24th of April ([Kattis event](https://open.kattis.com/contests/bwarvf))
+- 24th of April ([Kattis Event](https://open.kattis.com/contests/bwarvf) - [Facebook Event](https://www.facebook.com/events/798522163973531/) - [ScrollBar Discord](https://discord.gg/Nvue332))
 - 29th of May
 
 ## Lille Kat and Coronavirus
