@@ -43,9 +43,9 @@ In these times we meet online, next event will presumably be held on the ScrollB
 The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
 Previous problem sets:
 
-- Friday, 7th February 2020. [Kattis link](https://open.kattis.com/contests/ncvy89).
-- Friday, 6th March 2919. [Kattis link](https://open.kattis.com/contests/j6b33t)
-- 27th of March ([Kattis event](https://open.kattis.com/contests/oj3c3u)
+- Friday, 7th February 2020.([Kattis link](https://open.kattis.com/contests/ncvy89))
+- Friday, 6th March 2919.([Kattis link](https://open.kattis.com/contests/j6b33t))
+- 27th of March ([Kattis event](https://open.kattis.com/contests/oj3c3u))
 - 24th of April ([Kattis event](https://open.kattis.com/contests/bwarvf))
 
 ## Do I have to prepare?
