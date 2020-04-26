@@ -14,10 +14,6 @@ Lille Kat will be held on the last Friday of every month. The Kattis server open
 
 The next events will be held:
 
-- 24th of April
-  - [Facebook event](https://www.facebook.com/events/798522163973531/)
-  - [Kattis event](https://open.kattis.com/contests/bwarvf))
-  - [ScrollBar Discord](https://discord.gg/Nvue332)
 - 29th of May
 
 ## Lille Kat and Coronavirus
@@ -26,7 +22,6 @@ Lille Kat herself is an introvert and has been staying inside catching mice a re
 However, she understands humans well enough to acknowledge their psychological craving for social interaction.
 
 Thus, Lille Kat insists we continue having fun and continue with social events *in particular* during challenging times, even though it takes more commitment.
-The *location* of lillekat 4 will be announced shortly.
 <!---
 There will be Zoom meeting [here](https://itucph.zoom.us/j/153110293) for Lille Kat 3.
 Participants are invited to join this meeting, preferably with a webcam turned on, so that we *see faces*, and *see humans eating snacks or drinking beverages* and *see friends* or even *meet new people*.
@@ -41,6 +36,8 @@ If you’re meeting physically, please join the zoom meeting anyway, so that the
 
 When there is no pandemic, the tables 2R01-2R12 will be reserved for Lille Kat events. We'll set up a main base on one of these tables.
 
+In these times we meet online, next event will presumably be held on the ScrollBar server.
+
 ### … are the problems?
 
 The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
@@ -49,6 +46,7 @@ Previous problem sets:
 - Friday, 7th February 2020. [Kattis link](https://open.kattis.com/contests/ncvy89).
 - Friday, 6th March 2919. [Kattis link](https://open.kattis.com/contests/j6b33t)
 - 27th of March ([Kattis event](https://open.kattis.com/contests/oj3c3u)
+- 24th of April ([Kattis event](https://open.kattis.com/contests/bwarvf))
 
 ## Do I have to prepare?
 
