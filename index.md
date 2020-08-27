@@ -12,9 +12,9 @@ During the start of this semester Lille Kat will be held twice a month, hopefull
 
 The next events will be held:
 
-- 4th of September
-- 18th of September
-- 2nd of October
+- Friday, 4th of September ([Kattis link](https://open.kattis.com/contests/mhyj7h))
+- Friday, 18th of September ([Kattis link](https://open.kattis.com/contests/dbup4b))
+- Friday, 2nd of October ([Kattis link](https://open.kattis.com/contests/g6grqf))
 
 ## Lille Kat and Coronavirus
 
@@ -45,10 +45,10 @@ The tables 2R01-2R12 will be reserved for Lille Kat events. We'll set out snacks
 The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
 Previous problem sets:
 
-- Friday, 7th February 2020.([Kattis link](https://open.kattis.com/contests/ncvy89))
-- Friday, 6th March 2919.([Kattis link](https://open.kattis.com/contests/j6b33t))
-- 27th of March ([Kattis event](https://open.kattis.com/contests/oj3c3u))
-- 24th of April ([Kattis event](https://open.kattis.com/contests/bwarvf))
+- 7th February 2020.([Kattis link](https://open.kattis.com/contests/ncvy89))
+- 6th March 2020.([Kattis link](https://open.kattis.com/contests/j6b33t))
+- 27th of March 2020. ([Kattis event](https://open.kattis.com/contests/oj3c3u))
+- 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
 
 ## Do I have to prepare?
 
