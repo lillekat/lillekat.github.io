@@ -12,9 +12,9 @@ During the start of this semester Lille Kat will be held twice a month, hopefull
 
 The next events will be held:
 
-- Friday, 4th of September ([Kattis link](https://open.kattis.com/contests/mhyj7h))
-- Friday, 18th of September ([Kattis link](https://open.kattis.com/contests/dbup4b))
-- Friday, 2nd of October ([Kattis link](https://open.kattis.com/contests/g6grqf))
+- Friday, 4th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/mhyj7h))
+- Friday, 18th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/dbup4b))
+- Friday, 2nd of October 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/g6grqf))
 
 ## Lille Kat and Coronavirus
 
