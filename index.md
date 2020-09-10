@@ -12,7 +12,6 @@ During the start of this semester Lille Kat will be held twice a month, hopefull
 
 The next events will be held:
 
-- Friday, 4th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/mhyj7h))
 - Friday, 18th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/dbup4b))
 - Friday, 2nd of October 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/g6grqf))
 
@@ -49,6 +48,7 @@ Previous problem sets:
 - 6th March 2020.([Kattis link](https://open.kattis.com/contests/j6b33t))
 - 27th of March 2020. ([Kattis event](https://open.kattis.com/contests/oj3c3u))
 - 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
+- 4th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/mhyj7h))
 
 ## Do I have to prepare?
 
