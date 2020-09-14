@@ -62,7 +62,7 @@ This is particularly useful for learning how to read and write input and output.
 
 ## Where do I ask additional questions?
 
-Ask questions and join the conversation at the [lillekat channel on Talk@ITU](https://talk.itu.dk/channel/lillekat)
+Ask questions and join the conversation at the [Lille Kat channel on ITU’s Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
 
 ## People
 
