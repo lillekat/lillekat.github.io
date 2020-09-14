@@ -8,12 +8,12 @@ Oh... and there’ll be snacks!
 
 ## When?
 
-During the start of this semester Lille Kat will be held twice a month, hopefully on location at ITU. The Kattis server opens at 15:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
+During the start of this semester Lille Kat will be held twice a month, hopefully on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
 The next events will be held:
 
-- Friday, 18th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/dbup4b))
-- Friday, 2nd of October 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/g6grqf))
+- Friday, 18th of September 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/dbup4b))
+- Friday, 2nd of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/g6grqf))
 
 ## Lille Kat and Coronavirus
 
@@ -36,7 +36,7 @@ If you’re meeting physically, please join the zoom meeting anyway, so that the
 
 ### … do we meet?
 
-The tables 2R01-2R12 will be reserved for Lille Kat events. We'll set out snacks on all of these tables.
+The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set out snacks on all of these tables.
 
 
 ### … are the problems?
