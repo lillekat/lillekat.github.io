@@ -44,7 +44,7 @@ The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set out
 The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
 Previous problem sets:
 
-- 7th February 2020.([Kattis link](https://open.kattis.com/contests/ncvy89))
+- 7th February 2020.([Kattis link](https://open.kattis.com/contests/ncvy89) • [Tri](https://open.kattis.com/contests/ncvy89/problems/tri) • [Soylent](https://open.kattis.com/contests/ncvy89/problems/soylent) • [Awkward Party](https://open.kattis.com/contests/ncvy89/problems/awkwardparty) • [Backpack Buddies](https://open.kattis.com/contests/ncvy89/problems/backpackbuddies) • [Expecting Rain](https://open.kattis.com/contests/ncvy89/problems/expectingrain) • [Fishmongers](https://open.kattis.com/contests/ncvy89/problems/fishmongers) • [Joint Attack](https://open.kattis.com/contests/ncvy89/problems/jointattack) • [Keyboard in Concert](https://open.kattis.com/contests/ncvy89/problems/keyboardconcert) • [License to Launch](https://open.kattis.com/contests/ncvy89/problems/licensetolaunch))
 - 6th March 2020.([Kattis link](https://open.kattis.com/contests/j6b33t))
 - 27th of March 2020. ([Kattis event](https://open.kattis.com/contests/oj3c3u))
 - 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
