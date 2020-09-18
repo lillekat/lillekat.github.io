@@ -44,11 +44,16 @@ The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set out
 The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
 Previous problem sets:
 
-- 7th February 2020.([Kattis link](https://open.kattis.com/contests/ncvy89) • [Tri](https://open.kattis.com/contests/ncvy89/problems/tri) • [Soylent](https://open.kattis.com/contests/ncvy89/problems/soylent) • [Awkward Party](https://open.kattis.com/contests/ncvy89/problems/awkwardparty) • [Backpack Buddies](https://open.kattis.com/contests/ncvy89/problems/backpackbuddies) • [Expecting Rain](https://open.kattis.com/contests/ncvy89/problems/expectingrain) • [Fishmongers](https://open.kattis.com/contests/ncvy89/problems/fishmongers) • [Joint Attack](https://open.kattis.com/contests/ncvy89/problems/jointattack) • [Keyboard in Concert](https://open.kattis.com/contests/ncvy89/problems/keyboardconcert) • [License to Launch](https://open.kattis.com/contests/ncvy89/problems/licensetolaunch))
+- 7th February 2020.[Kattis link](https://open.kattis.com/contests/ncvy89): [Tri](https://open.kattis.com/contests/ncvy89/problems/tri) • [Soylent](https://open.kattis.com/contests/ncvy89/problems/soylent) • [Awkward Party](https://open.kattis.com/contests/ncvy89/problems/awkwardparty) • [Backpack Buddies](https://open.kattis.com/contests/ncvy89/problems/backpackbuddies) • [Expecting Rain](https://open.kattis.com/contests/ncvy89/problems/expectingrain) • [Fishmongers](https://open.kattis.com/contests/ncvy89/problems/fishmongers) • [Joint Attack](https://open.kattis.com/contests/ncvy89/problems/jointattack) • [Keyboard in Concert](https://open.kattis.com/contests/ncvy89/problems/keyboardconcert) • [License to Launch](https://open.kattis.com/contests/ncvy89/problems/licensetolaunch))
 - 6th March 2020.([Kattis link](https://open.kattis.com/contests/j6b33t))
 - 27th of March 2020. ([Kattis event](https://open.kattis.com/contests/oj3c3u))
 - 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
-- 4th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/mhyj7h))
+- 4th of September 2020, 15–18. [Kattis link](https://open.kattis.com/contests/mhyj7h):
+[The Last Problem](https://open.kattis.com/problems/thelastproblem) • [Spavanac	](https://open.kattis.com/problems/spavanac) • [Triple Texting](https://open.kattis.com/problems/tripletexting) • [Digit Product](https://open.kattis.com/problems/sifferprodukt) • [Dodecaphony](https://open.kattis.com/problems/dodecaphony) • [Sticky Situation](https://open.kattis.com/problems/stickysituation) • [Pyramid Construction](https://open.kattis.com/problems/pyramidkonstruktion) • [Fountain	](https://open.kattis.com/problems/fontan) • [Variable Names](https://open.kattis.com/problems/variabelnamn) • [Rhyme Power](https://open.kattis.com/problems/rimstyrka) • [Minesweeper Squared](https://open.kattis.com/problems/minrojikvadrat) • [Travel Planning](https://open.kattis.com/problems/reseplanering)
+
+J	Rhyme Power	4/11 (36%)	1.57	1.00
+K	Minesweeper Squared	3/5 (60%)	1.67	1.67
+L	Travel Planning
 
 ## Do I have to prepare?
 
