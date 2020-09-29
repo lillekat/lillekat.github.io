@@ -12,8 +12,8 @@ During the start of this semester Lille Kat will be held twice a month, hopefull
 
 The next events will be held:
 
-- Friday, 18th of September 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/dbup4b))
 - Friday, 2nd of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/g6grqf))
+- Friday, 30th of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/zpsg5t)
 
 ## Lille Kat and Coronavirus
 
@@ -50,10 +50,7 @@ Previous problem sets:
 - 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
 - 4th of September 2020, 15–18. [Kattis link](https://open.kattis.com/contests/mhyj7h):
 [The Last Problem](https://open.kattis.com/problems/thelastproblem) • [Spavanac	](https://open.kattis.com/problems/spavanac) • [Triple Texting](https://open.kattis.com/problems/tripletexting) • [Digit Product](https://open.kattis.com/problems/sifferprodukt) • [Dodecaphony](https://open.kattis.com/problems/dodecaphony) • [Sticky Situation](https://open.kattis.com/problems/stickysituation) • [Pyramid Construction](https://open.kattis.com/problems/pyramidkonstruktion) • [Fountain	](https://open.kattis.com/problems/fontan) • [Variable Names](https://open.kattis.com/problems/variabelnamn) • [Rhyme Power](https://open.kattis.com/problems/rimstyrka) • [Minesweeper Squared](https://open.kattis.com/problems/minrojikvadrat) • [Travel Planning](https://open.kattis.com/problems/reseplanering)
-
-J	Rhyme Power	4/11 (36%)	1.57	1.00
-K	Minesweeper Squared	3/5 (60%)	1.67	1.67
-L	Travel Planning
+- Friday, 18th of September 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/dbup4b))
 
 ## Do I have to prepare?
 
