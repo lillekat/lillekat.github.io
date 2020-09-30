@@ -14,7 +14,7 @@ The next events will be held:
 
 - Friday, 2nd of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/g6grqf))
 - Friday, 30th of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/zpsg5t))
-- Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc20.md) in 5A14-16, 5A60. Registration required. 
+- Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc2020.md) in 5A14-16, 5A60. Registration required. 
 
 ## Lille Kat and Coronavirus
 
