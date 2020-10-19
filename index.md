@@ -12,8 +12,9 @@ During the start of this semester Lille Kat will be held twice a month, hopefull
 
 The next events will be held:
 
-- Friday, 18th of September 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/dbup4b))
 - Friday, 2nd of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/g6grqf))
+- Friday, 30th of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/zpsg5t))
+- Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc2020.md) in 5A14-16, 5A60. Registration required. 
 
 ## Lille Kat and Coronavirus
 
@@ -44,11 +45,13 @@ The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set out
 The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
 Previous problem sets:
 
-- 7th February 2020.([Kattis link](https://open.kattis.com/contests/ncvy89))
+- 7th February 2020.[Kattis link](https://open.kattis.com/contests/ncvy89): [Tri](https://open.kattis.com/contests/ncvy89/problems/tri) • [Soylent](https://open.kattis.com/contests/ncvy89/problems/soylent) • [Awkward Party](https://open.kattis.com/contests/ncvy89/problems/awkwardparty) • [Backpack Buddies](https://open.kattis.com/contests/ncvy89/problems/backpackbuddies) • [Expecting Rain](https://open.kattis.com/contests/ncvy89/problems/expectingrain) • [Fishmongers](https://open.kattis.com/contests/ncvy89/problems/fishmongers) • [Joint Attack](https://open.kattis.com/contests/ncvy89/problems/jointattack) • [Keyboard in Concert](https://open.kattis.com/contests/ncvy89/problems/keyboardconcert) • [License to Launch](https://open.kattis.com/contests/ncvy89/problems/licensetolaunch))
 - 6th March 2020.([Kattis link](https://open.kattis.com/contests/j6b33t))
 - 27th of March 2020. ([Kattis event](https://open.kattis.com/contests/oj3c3u))
 - 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
-- 4th of September 2020, 15–18. ([Kattis link](https://open.kattis.com/contests/mhyj7h))
+- 4th of September 2020, 15–18. [Kattis link](https://open.kattis.com/contests/mhyj7h):
+[The Last Problem](https://open.kattis.com/problems/thelastproblem) • [Spavanac	](https://open.kattis.com/problems/spavanac) • [Triple Texting](https://open.kattis.com/problems/tripletexting) • [Digit Product](https://open.kattis.com/problems/sifferprodukt) • [Dodecaphony](https://open.kattis.com/problems/dodecaphony) • [Sticky Situation](https://open.kattis.com/problems/stickysituation) • [Pyramid Construction](https://open.kattis.com/problems/pyramidkonstruktion) • [Fountain	](https://open.kattis.com/problems/fontan) • [Variable Names](https://open.kattis.com/problems/variabelnamn) • [Rhyme Power](https://open.kattis.com/problems/rimstyrka) • [Minesweeper Squared](https://open.kattis.com/problems/minrojikvadrat) • [Travel Planning](https://open.kattis.com/problems/reseplanering)
+- Friday, 18th of September 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/dbup4b))
 
 ## Do I have to prepare?
 
@@ -62,7 +65,7 @@ This is particularly useful for learning how to read and write input and output.
 
 ## Where do I ask additional questions?
 
-Ask questions and join the conversation at the [lillekat channel on Talk@ITU](https://talk.itu.dk/channel/lillekat)
+Ask questions and join the conversation at the [Lille Kat channel on ITU’s Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
 
 ## People
 
