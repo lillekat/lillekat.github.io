@@ -6,7 +6,7 @@ The events aim to be fun and challenging for programmers of every skill level. E
 
 Oh... and there’ll be snacks!
 
-## When?
+## When
 
 During the start of this semester Lille Kat will be held twice a month, hopefully on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
@@ -14,7 +14,9 @@ The next events will be held:
 
 - Friday, 2nd of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/g6grqf))
 - Friday, 30th of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/zpsg5t))
-- Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc2020.md) in 5A14-16, 5A60. Registration required. 
+- Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc2020.md) in 5A14-16, 5A60. Registration required.
+- Friday, 13th of November 2020, 16-19
+- Friday, 27th of November 2020, 16-19
 
 ## Lille Kat and Coronavirus
 
@@ -33,14 +35,13 @@ In principle, teams may be able to meet up physically, but this should be done o
 If you’re meeting physically, please join the zoom meeting anyway, so that the rest of us have the feeling of a *shared social event*.
 -->
 
-## Where..  
+## Where  
 
-### … do we meet?
+### … do we meet
 
 The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set out snacks on all of these tables.
 
-
-### … are the problems?
+### … are the problems
 
 The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
 Previous problem sets:
@@ -50,10 +51,10 @@ Previous problem sets:
 - 27th of March 2020. ([Kattis event](https://open.kattis.com/contests/oj3c3u))
 - 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
 - 4th of September 2020, 15–18. [Kattis link](https://open.kattis.com/contests/mhyj7h):
-[The Last Problem](https://open.kattis.com/problems/thelastproblem) • [Spavanac	](https://open.kattis.com/problems/spavanac) • [Triple Texting](https://open.kattis.com/problems/tripletexting) • [Digit Product](https://open.kattis.com/problems/sifferprodukt) • [Dodecaphony](https://open.kattis.com/problems/dodecaphony) • [Sticky Situation](https://open.kattis.com/problems/stickysituation) • [Pyramid Construction](https://open.kattis.com/problems/pyramidkonstruktion) • [Fountain	](https://open.kattis.com/problems/fontan) • [Variable Names](https://open.kattis.com/problems/variabelnamn) • [Rhyme Power](https://open.kattis.com/problems/rimstyrka) • [Minesweeper Squared](https://open.kattis.com/problems/minrojikvadrat) • [Travel Planning](https://open.kattis.com/problems/reseplanering)
+[The Last Problem](https://open.kattis.com/problems/thelastproblem) • [Spavanac ](https://open.kattis.com/problems/spavanac) • [Triple Texting](https://open.kattis.com/problems/tripletexting) • [Digit Product](https://open.kattis.com/problems/sifferprodukt) • [Dodecaphony](https://open.kattis.com/problems/dodecaphony) • [Sticky Situation](https://open.kattis.com/problems/stickysituation) • [Pyramid Construction](https://open.kattis.com/problems/pyramidkonstruktion) • [Fountain ](https://open.kattis.com/problems/fontan) • [Variable Names](https://open.kattis.com/problems/variabelnamn) • [Rhyme Power](https://open.kattis.com/problems/rimstyrka) • [Minesweeper Squared](https://open.kattis.com/problems/minrojikvadrat) • [Travel Planning](https://open.kattis.com/problems/reseplanering)
 - Friday, 18th of September 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/dbup4b))
 
-## Do I have to prepare?
+## Do I have to prepare
 
 No formal preparation is required, you can show up at the last minute.
 However:
@@ -63,7 +64,7 @@ However:
 - If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the events, you can try to solve some easy problems on Open Kattis, such as [hello](https://open.kattis.com/problems/hello), [babybites](https://open.kattis.com/problems/babybites), or [guess](https://open.kattis.com/problems/guess).
 This is particularly useful for learning how to read and write input and output. But don’t stress out over this beforehand – we’ll help during the event.
 
-## Where do I ask additional questions?
+## Where do I ask additional questions
 
 Ask questions and join the conversation at the [Lille Kat channel on ITU’s Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb)
 
