@@ -13,7 +13,7 @@ Lille Kat events will be held twice a month, on location at ITU. The Kattis serv
 The next events will be held:
 
 - Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc2020.md) in 5A14-16, 5A60. ***Registration required***.
-- Friday, 13th of November 2020, 16-19 ([FB event](https://fb.me/e/3605G4d3v))
+- Friday, 13th of November 2020, 16-19 ([Kattis link](https://open.kattis.com/contests/n5c57y/edit), [FB event](https://fb.me/e/3605G4d3v))
 - Friday, 27th of November 2020, 16-19 (*Final Lille Kat of the semester*)
 
 ## Lille Kat and Coronavirus
