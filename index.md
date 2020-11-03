@@ -1,6 +1,6 @@
 Lille Kat is a social programming initiative at [ITU](https://www.itu.dk).
 
-Lille Kat events will be held monthly and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment to practice collaborative problem solving; participants are encouraged to help each other and have fun.
+Lille Kat events will be every other week and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment to practice collaborative problem solving; participants are encouraged to help each other and have fun.
 
 The events aim to be fun and challenging for programmers of every skill level. Each event will feature a selection of problems from the [Kattis](https://www.open.kattis.com ) archive. The selected problems will range in difficulty so all participants can solve at least one question, while even the most experienced participants will be challenged by the harder problems.
 
@@ -8,13 +8,13 @@ Oh... and there’ll be snacks!
 
 ## When
 
-During the start of this semester Lille Kat will be held twice a month, hopefully on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
+Lille Kat events will be held twice a month, on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
 The next events will be held:
 
-- Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc2020.md) in 5A14-16, 5A60. Registration required.
-- Friday, 13th of November 2020, 16-19
-- Friday, 27th of November 2020, 16-19
+- Saturday, 7 November 2020, 10:30-16:30: [Nordic Collegiate Programming Championships at ITU](ncpc2020.md) in 5A14-16, 5A60. ***Registration required***.
+- Friday, 13th of November 2020, 16-19 ([FB event](https://fb.me/e/3605G4d3v))
+- Friday, 27th of November 2020, 16-19 (*Final Lille Kat of the semester*)
 
 ## Lille Kat and Coronavirus
 
