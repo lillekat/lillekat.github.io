@@ -77,7 +77,7 @@ Problems: [The Last Problem](https://open.kattis.com/problems/thelastproblem)
 ### 13 Nov 2020
 
 ![](images/20201113.jpg)             
-[Kattis even](https://open.kattis.com/contests/n5c57y)
+[Kattis event](https://open.kattis.com/contests/n5c57y)
 
 ### 27 Nov 2020
 

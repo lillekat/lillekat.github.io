@@ -10,10 +10,13 @@ Oh... and there’ll be snacks!
 
 Lille Kat events will be held twice a month, on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
-The next events will be held:
-
-- Friday, 13th of November 2020, 16-19 ([Kattis link](https://open.kattis.com/contests/n5c57y/edit), [FB event](https://fb.me/e/3605G4d3v))
+- Friday, 13th of November 2020, 16-19 ([Kattis link](https://open.kattis.com/contests/n5c57y), [FB event](https://fb.me/e/3605G4d3v))
 - Friday, 27th of November 2020, 16-19 (*Final Lille Kat of the semester*)
+
+
+[Past Lille Kat events](events2020.md)
+
+
 
 ## Lille Kat and Coronavirus
 
@@ -37,42 +40,6 @@ If you’re meeting physically, please join the zoom meeting anyway, so that the
 ### … do we meet
 
 The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set out snacks on all of these tables.
-
-### … are the problems
-
-The problems for Lille Kat events are taken from [Open Kattis](https://open.kattis.com/contests/), typically grabbed from various programming contests.
-Previous problem sets:
-
-- 7th February 2020.[Kattis link](https://open.kattis.com/contests/ncvy89):
-  - [Tri](https://open.kattis.com/contests/ncvy89/problems/tri)
-  - [Soylent](https://open.kattis.com/contests/ncvy89/problems/soylent)
-  - [Awkward Party](https://open.kattis.com/contests/ncvy89/problems/awkwardparty)
-  - [Backpack Buddies](https://open.kattis.com/contests/ncvy89/problems/backpackbuddies)
-  - [Expecting Rain](https://open.kattis.com/contests/ncvy89/problems/expectingrain)
-  - [Fishmongers](https://open.kattis.com/contests/ncvy89/problems/fishmongers)
-  - [Joint Attack](https://open.kattis.com/contests/ncvy89/problems/jointattack)
-  - [Keyboard in Concert](https://open.kattis.com/contests/ncvy89/problems/keyboardconcert)
-  - [License to Launch](https://open.kattis.com/contests/ncvy89/problems/licensetolaunch))
-- 6th March 2020.([Kattis link](https://open.kattis.com/contests/j6b33t))
-- 27th of March 2020. ([Kattis event](https://open.kattis.com/contests/oj3c3u))
-- 24th of April 2020. ([Kattis event](https://open.kattis.com/contests/bwarvf))
-- 4th of September 2020, 15–18. [Kattis link](https://open.kattis.com/contests/mhyj7h):
-  - [The Last Problem](https://open.kattis.com/problems/thelastproblem)
-  - [Spavanac](https://open.kattis.com/problems/spavanac)
-  - [Triple Texting](https://open.kattis.com/problems/tripletexting)
-  - [Digit Product](https://open.kattis.com/problems/sifferprodukt)
-  - [Dodecaphony](https://open.kattis.com/problems/dodecaphony)
-  - [Sticky Situation](https://open.kattis.com/problems/stickysituation)
-  - [Pyramid Construction](https://open.kattis.com/problems/pyramidkonstruktion)
-  - [Fountain](https://open.kattis.com/problems/fontan)
-  - [Variable Names](https://open.kattis.com/problems/variabelnamn)
-  - [Rhyme Power](https://open.kattis.com/problems/rimstyrka)
-  - [Minesweeper Squared](https://open.kattis.com/problems/minrojikvadrat)
-  - [Travel Planning](https://open.kattis.com/problems/reseplanering)
-- Friday, 18th of September 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/dbup4b))
-- Friday, 2nd of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/g6grqf))
-- Friday, 30th of October 2020, 16–19. ([Kattis link](https://open.kattis.com/contests/zpsg5t))
-- Saturday, 7 November 2020, 10:30-16:30. Lille Kat organised a local hub for the [Nordic Collegiate Programming Championships at ITU](ncpc2020.md).
 
 ## Do I have to prepare
 
