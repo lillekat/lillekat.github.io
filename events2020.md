@@ -80,5 +80,4 @@ Problems: [The Last Problem](https://open.kattis.com/problems/thelastproblem)
 [Kattis event](https://open.kattis.com/contests/n5c57y)
 
 ### 27 Nov 2020
-
-TBA
+[Kattis event](https://open.kattis.com/contests/jebstc/)
