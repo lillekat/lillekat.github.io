@@ -2,7 +2,7 @@ Lille Kat is a social programming initiative at [ITU](https://www.itu.dk).
 
 Lille Kat events will be every other week and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment to practice collaborative problem solving; participants are encouraged to help each other and have fun.
 
-The events aim to be fun and challenging for programmers of every skill level. Each event will feature a selection of problems from the [Kattis](https://www.open.kattis.com ) archive. The selected problems will range in difficulty so all participants can solve at least one question, while even the most experienced participants will be challenged by the harder problems.
+The events aim to be fun and challenging for programmers of every skill level. Each event will feature a selection of problems from the [Kattis](https://open.kattis.com ) archive. The selected problems will range in difficulty so all participants can solve at least one question, while even the most experienced participants will be challenged by the harder problems.
 
 Oh... and there’ll be snacks!
 
