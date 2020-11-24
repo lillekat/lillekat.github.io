@@ -10,7 +10,7 @@ Oh... and there’ll be snacks!
 
 Lille Kat events will be held twice a month, on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
-- Friday, 27th of November 2020, 16-19, *Final Lille Kat of the semester*. [Kattis link](https://open.kattis.com/contests/jebstc/)
+- Friday, 27th of November 2020, 16-19, *Final Lille Kat of the semester*. [Kattis link](https://open.kattis.com/contests/jebstc/), [Facebook event](https://fb.me/e/1KcvTeX86)
 - For December, Lille Kat joins [Advent of Code](https://adventofcode.com/2020/) with a shared leaderboard. Check the ITU Teams channel for Lille Kat for the link.  
 
 
