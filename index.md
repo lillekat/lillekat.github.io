@@ -1,5 +1,11 @@
 Lille Kat is a social programming initiative at [ITU](https://www.itu.dk).
 
+🐱🎁🎄🐱🎁🎄
+
+> Lille Kat has an [Advent of Code](https://adventofcode.com/) leader board! Join us with the code `968368-a0814c46`
+
+🐱🎁🎄🐱🎁🎄
+
 Lille Kat events will be every other week and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment to practice collaborative problem solving; participants are encouraged to help each other and have fun.
 
 The events aim to be fun and challenging for programmers of every skill level. Each event will feature a selection of problems from the [Kattis](https://www.open.kattis.com ) archive. The selected problems will range in difficulty so all participants can solve at least one question, while even the most experienced participants will be challenged by the harder problems.
@@ -10,13 +16,9 @@ Oh... and there’ll be snacks!
 
 Lille Kat events will be held twice a month, on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
-- Friday, 27th of November 2020, 16-19, *Final Lille Kat of the semester*. [Kattis link](https://open.kattis.com/contests/jebstc/), [Facebook event](https://fb.me/e/1KcvTeX86)
-- For December, Lille Kat joins [Advent of Code](https://adventofcode.com/2020/) with a shared leaderboard. Check the ITU Teams channel for Lille Kat for the link.  
-
+- For December, Lille Kat joins [Advent of Code](https://adventofcode.com/2020/) with a shared leaderboard: `968368-a0814c46`.
 
 [Past Lille Kat events](events2020.md)
-
-
 
 ## Lille Kat and Coronavirus
 
