@@ -1,9 +1,5 @@
 Lille Kat is a social programming initiative at [ITU](https://www.itu.dk).
 
-> 🐱🎁🎄🐱🎁🎄
-> Lille Kat has an [Advent of Code](https://adventofcode.com/) leader board! Join us with the code `968368-a0814c46`
-> 🐱🎁🎄🐱🎁🎄
-
 > 🎈🎈🎈
 > NWERC information can be found [here](https://lillkat.github.io/nwerc2020)
 > 🎈🎈🎈
@@ -18,26 +14,13 @@ Oh... and there’ll be snacks!
 
 Lille Kat events will be held twice a month, on location at ITU. The Kattis server opens at 16:00 so be sure to show up before then to find a seat, grab some snacks, and solve any set up issues before we start.  
 
-- For December, Lille Kat joins [Advent of Code](https://adventofcode.com/2020/) with a shared leaderboard: `968368-a0814c46`.
+- Lille Kat will be back in 2021!
 
 [Past Lille Kat events](events2020.md)
 
 ## Lille Kat and Coronavirus
 
 We are working to figure out the best solution for Lille Kat events this semester, currently we expect to meet in person, but with some changes. This means keeping a reasonable distance from other participants and no keyboard sharing (we can recommend looking into [Live Share](https://visualstudio.microsoft.com/services/live-share/)), it also means Lille Kat will provide individual snacks for everyone rather than having a big pile of shared pizza and chips the way we did it pre-pandemic.
-
-<!---
-Lille Kat herself is an introvert and has been staying inside catching mice a receiving belly rubs.
-However, she understands humans well enough to acknowledge their psychological craving for social interaction.
-
-Thus, Lille Kat insists we continue having fun and continue with social events *in particular* during challenging times, even though it takes more commitment.
-
-There will be Zoom meeting [here](https://itucph.zoom.us/j/153110293) for Lille Kat 3.
-Participants are invited to join this meeting, preferably with a webcam turned on, so that we *see faces*, and *see humans eating snacks or drinking beverages* and *see friends* or even *meet new people*.
-During the event, teams can go into their own virtual “breakout rooms”.
-In principle, teams may be able to meet up physically, but this should be done only if they’re meeting regularly anyway – Lille Kat dislikes the virus and does not want to help it.
-If you’re meeting physically, please join the zoom meeting anyway, so that the rest of us have the feeling of a *shared social event*.
--->
 
 ## Where  
 

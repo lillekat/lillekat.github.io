@@ -136,6 +136,8 @@
 
 ### 7 Nov 2020
 
+![NCPC 2020](images/NCPC-2020-1920x1080px.jpg)
+
 [Nordic Collegiate Programming Championships at ITU](ncpc2020.md).
 
 - [Array of Discord](https://open.kattis.com/problems/arrayofdiscord)
