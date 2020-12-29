@@ -1,7 +1,5 @@
-# input: contest url
-# output: url to first problem
-
 import requests
+import re
 from bs4 import BeautifulSoup
 
 
@@ -11,15 +9,17 @@ page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
 
 title = soup.find('h2', class_='title')
-date = soup.find('div', class_="col-md-3 text-left no-pad")
-prob_elems = soup.find('table', id='standings').find_next('tr').find_all('th', class_='problemcolheader-standings')
+prob_elems = soup.find('table', id='standings').find_next('tr').find_all('a')
 
-print("## {} ({})\n".format(title.text, "datestring"))
+print("[*Kattis event*]({}) \n".format(url))
+# alt title
+#print("## {} \n".format(title.text))
+
+list_elem = "- [{}]({})"
 
 for prob_elem in prob_elems:
-    print(prob_elem.attrs)
-    break
-    list_elem = "- [{} ({})]({})"
-    print(list_elem.format("name", "id", "url.kattis.com"))
+    name = prob_elem['title']
+    id = re.findall("/([^/]*)$",prob_elem['href'])[0]
+    print(list_elem.format(name, "https://open.kattis.com/problems/"+id))
 
 print("\n")
