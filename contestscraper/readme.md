@@ -24,4 +24,4 @@ https://open.kattis.com/contests/exampleContestID
   - [x] find the name of the problem
   - [x] format url
 - [ ] add option to append to existing markdown file
-- [ ] add formatting to automatically add photos based on date and yyyymmdd.png naming convention
+- [ ] add formatting to automatically add photos based on date and yyyymmdd.jpg naming convention

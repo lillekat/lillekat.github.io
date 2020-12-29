@@ -172,7 +172,7 @@
 
 ### 27 Nov 2020
 
-![27 Nov 2020](images/20201127.jpg)
+![27 Nov 2020](images/20201127.png)
 
 [*Kattis event*](https://open.kattis.com/contests/jebstc/)
 
