@@ -1,7 +1,7 @@
 Lille Kat is a social programming initiative at [ITU](https://www.itu.dk).
 
 > 🎈🎈🎈
-> NWERC information can be found [here](https://lillkat.github.io/nwerc2020)
+> NWERC information can be found [here](https://lillekat.github.io/nwerc2020)
 > 🎈🎈🎈
 
 Lille Kat events will be held every other week and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment to practice collaborative problem solving; participants are encouraged to help each other and have fun.
