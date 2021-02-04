@@ -12,7 +12,7 @@ The Kattis server is open from 16:00 till 19:00, so be sure to be ready before t
 
 ### Upcoming events
 
-- 21.02.2021 -
+- 21.02.2021 - [Kattis](https://open.kattis.com/contests/acv2uq) - [Facebook](https://fb.me/e/1bEzip9i9)
 
 [Past Lille Kat events](events2020.md)
 
