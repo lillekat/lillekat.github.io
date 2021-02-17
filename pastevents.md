@@ -186,3 +186,24 @@
 - [Secret Santa Cycles](https://open.kattis.com/problems/secretsantacycles)
 - [Catmas Gifts](https://open.kattis.com/problems/catmasgifts)
 - [Shovelling Snow](https://open.kattis.com/problems/shovellingcost)
+
+- 12 February 2021 - [Kattis](https://open.kattis.com/contests/acv2uq) - [Facebook](https://fb.me/e/1bEzip9i9)
+
+### 11 Feb 2021
+
+![11 feb 2021](images/20210212.png)
+
+[*Kattis event*](https://open.kattis.com/contests/acv2uq)
+
+- [Greetings!](https://open.kattis.com/problems/greetings2)
+- [Pet](https://open.kattis.com/problems/pet)
+- [Right-of-Way](https://open.kattis.com/problems/vajningsplikt)
+- [Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy)
+- [Shopping List](https://open.kattis.com/problems/shoppinglist)
+- [Even Up Solitaire](https://open.kattis.com/problems/evenup)
+- [Reconstructing Tape Art](https://open.kattis.com/problems/reconstructingtapeart)
+- [Virtual Friends](https://open.kattis.com/problems/virtualfriends)
+- [Match Game](https://open.kattis.com/problems/matchgame)
+- [Random Digital Exponentiation](https://open.kattis.com/problems/randomdigitalexponentiation)
+- [Minecraft Dungeons](https://open.kattis.com/problems/minecraftdungeons)
+- [Blacksmith Training](https://open.kattis.com/problems/blacksmithtraining)

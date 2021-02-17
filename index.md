@@ -1,6 +1,6 @@
 Lille Kat is a social programming initiative at [ITU](https://www.itu.dk).
 
-Lille Kat events are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment to practice collaborative problem solving; participants are encouraged to help each other and have fun.
+Lille Kat events will be held every other week and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment to practice collaborative problem solving; participants are encouraged to help each other and have fun.
 
 The events aim to be fun and challenging for programmers of every skill level. Each event will feature a selection of problems from the [Kattis](https://open.kattis.com ) archive. The selected problems will range in difficulty so all participants can solve at least one question, while even the most experienced participants will be challenged by the harder problems.
 
@@ -8,13 +8,18 @@ Oh... and there’ll be snacks!
 
 ## When
 
-The Kattis server is open from 16:00 till 19:00, so be sure to be ready before then. Join the discord server, grab some snacks, and solve any set up issues before we start (people on discord can help if you have any issues).  
+Lille Kat will be held online every other week.  The Kattis server is open from 16:00 till 19:00, so be sure to be ready before then. Join the discord server, grab some snacks, and solve any set up issues before we start (people on discord can help if you have any issues).  
 
 ### Upcoming events
 
-- 12 February 2021 - [Kattis](https://open.kattis.com/contests/acv2uq) - [Facebook](https://fb.me/e/1bEzip9i9)
+- 26 February 2021 - [Kattis](https://open.kattis.com/contests/ebyjzj) - [Facebook](https://fb.me/e/2bzeefQEV)
+- 12 March 2021
+- 26 March 2021
+- 9 April 2021
+- 23 April 2021
+- (7 Maj 2021)
 
-[Past Lille Kat events](events2020.md)
+[Past Lille Kat events](pastevents.md)
 
 ## Where  
 
