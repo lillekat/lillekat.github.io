@@ -10,6 +10,7 @@ soup = BeautifulSoup(page.content, 'html.parser')
 
 title = soup.find('h2', class_='title')
 prob_elems = soup.find('table', id='standings').find_next('tr').find_all('a')
+total_solved = len(soup.find_all('td', class_='solved team_problem_cell'))
 
 print("[*Kattis event*]({}) \n".format(url))
 # alt title
@@ -23,3 +24,4 @@ for prob_elem in prob_elems:
     print(list_elem.format(name, "https://open.kattis.com/problems/"+id))
 
 print("\n")
+print(total_solved)
