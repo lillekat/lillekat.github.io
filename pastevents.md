@@ -189,6 +189,8 @@
 
 - 12 February 2021 - [Kattis](https://open.kattis.com/contests/acv2uq) - [Facebook](https://fb.me/e/1bEzip9i9)
 
+## 2021
+
 ### 11 Feb 2021
 
 ![11 feb 2021](images/20210212.png)
@@ -207,3 +209,23 @@
 - [Random Digital Exponentiation](https://open.kattis.com/problems/randomdigitalexponentiation)
 - [Minecraft Dungeons](https://open.kattis.com/problems/minecraftdungeons)
 - [Blacksmith Training](https://open.kattis.com/problems/blacksmithtraining)
+
+### 26 Feb 2021
+
+![26 feb 2021](images/20210226.png)
+
+[*Kattis event*](https://open.kattis.com/contests/ebyjzj)
+
+- [Roaming Romans](https://open.kattis.com/problems/romans)
+- [Falling Mugs](https://open.kattis.com/problems/falling)
+- [Ocean's Anti-11](https://open.kattis.com/problems/anti11)
+- [Tajna](https://open.kattis.com/problems/tajna)
+- [Intergalactic Bidding](https://open.kattis.com/problems/intergalacticbidding)
+- [The Calculus of Ada](https://open.kattis.com/problems/ada)
+- [Reactivity Series](https://open.kattis.com/problems/reactivity)
+- [Getting Gold](https://open.kattis.com/problems/gold)
+- [Brexit](https://open.kattis.com/problems/brexit)
+- [DA-Sort](https://open.kattis.com/problems/dasort)
+- [Appeal to the Audience](https://open.kattis.com/problems/appealtotheaudience)
+- [Russian Dolls](https://open.kattis.com/problems/russiandolls)
+- [Ocean's Anti-11 (Hard)](https://open.kattis.com/problems/anti11hard)
