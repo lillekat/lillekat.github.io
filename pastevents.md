@@ -191,9 +191,9 @@
 
 ## 2021
 
-### 11 Feb 2021
+### 12 Feb 2021
 
-![11 feb 2021](images/20210212.png)
+![12 feb 2021](images/20210212.png)
 
 [*Kattis event*](https://open.kattis.com/contests/acv2uq)
 
@@ -229,3 +229,20 @@
 - [Appeal to the Audience](https://open.kattis.com/problems/appealtotheaudience)
 - [Russian Dolls](https://open.kattis.com/problems/russiandolls)
 - [Ocean's Anti-11 (Hard)](https://open.kattis.com/problems/anti11hard)
+
+## 12 Mar 2021
+
+![12 mar 2021](images/20210312.jpg)
+
+[*Kattis event*](https://open.kattis.com/contests/gp2uo8)
+
+- [Reverse](https://open.kattis.com/problems/ofugsnuid)
+- [Homework](https://open.kattis.com/problems/heimavinna)
+- [Ninety-nine](https://open.kattis.com/problems/ninetynine)
+- [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)
+- [Fluortanten](https://open.kattis.com/problems/fluortanten)
+- [Saunas](https://open.kattis.com/problems/bastubad)
+- [Paths](https://open.kattis.com/problems/paths)
+- [Snowball Fight 2](https://open.kattis.com/problems/snobollskrig2)
+- [Forest Fire](https://open.kattis.com/problems/skogsbrand)
+- [House Building](https://open.kattis.com/problems/husbygge)
