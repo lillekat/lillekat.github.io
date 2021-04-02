@@ -246,3 +246,20 @@
 - [Snowball Fight 2](https://open.kattis.com/problems/snobollskrig2)
 - [Forest Fire](https://open.kattis.com/problems/skogsbrand)
 - [House Building](https://open.kattis.com/problems/husbygge)
+
+## 26 Mar 2021
+
+![26 mar 2021](images/20210326.png)
+
+[*Kattis event*](https://open.kattis.com/contests/rxd4tt)
+
+- [Arrangement](https://open.kattis.com/problems/upprodun)
+- [Graduation](https://open.kattis.com/problems/skolavslutningen)
+- [Keystrokes](https://open.kattis.com/problems/lyklagangriti)
+- [Mars-DNA](https://open.kattis.com/problems/martiandna)
+- [Bridges](https://open.kattis.com/problems/bryr)
+- [Letter Optimization](https://open.kattis.com/problems/brevoptimering)
+- [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic)
+- [Citations](https://open.kattis.com/problems/citations)
+- [Liebespolygon](https://open.kattis.com/problems/lovepolygon)
+- [Wurmprobleme](https://open.kattis.com/problems/worm)
