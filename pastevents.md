@@ -263,3 +263,24 @@
 - [Citations](https://open.kattis.com/problems/citations)
 - [Liebespolygon](https://open.kattis.com/problems/lovepolygon)
 - [Wurmprobleme](https://open.kattis.com/problems/worm)
+
+## 9 Apr 2021
+
+![9 apr 2021](images/20210409.png)
+
+[*Kattis event*](https://open.kattis.com/contests/edxm23)
+
+- [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)
+- [Chanukah Challenge](https://open.kattis.com/problems/chanukah)
+- [Forced Choice](https://open.kattis.com/problems/forcedchoice)
+- [Stopwatch](https://open.kattis.com/problems/stopwatch)
+- [Weak Vertices](https://open.kattis.com/problems/weakvertices)
+- [Missing Numbers](https://open.kattis.com/problems/missingnumbers)
+- [Transit Woes](https://open.kattis.com/problems/transitwoes)
+- [Build Dependencies](https://open.kattis.com/problems/builddeps)
+- [Running MoM](https://open.kattis.com/problems/runningmom)
+- [Sheba's Amoebas](https://open.kattis.com/problems/amoebas)
+- [Lifting Walls](https://open.kattis.com/problems/walls)
+- [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2)
+- [Teque](https://open.kattis.com/problems/teque)
+- [Bumped!](https://open.kattis.com/problems/bumped)
