@@ -12,8 +12,7 @@ Lille Kat will be held online every other week.  The Kattis server is open from 
 
 ### Upcoming events
 
-- 23 April 2021 🎶[D-Pop](<https://d-pop.github.io/>)🎶 - [Kattis](https://dpop21.kattis.com/standings) - [Facebook](https://www.facebook.com/events/192295292509512/)
-- 7 May 2021 - Kattis (coming soon) - [Facebook](https://fb.me/e/2gjsAByLU)
+- 7 May 2021 - [Kattis](https://open.kattis.com/contests/vxp2yh) - [Facebook](https://fb.me/e/2gjsAByLU)
 
 [Past Lille Kat events](pastevents.md)
 
