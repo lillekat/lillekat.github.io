@@ -284,3 +284,21 @@
 - [A Rational Sequence 2](https://open.kattis.com/problems/rationalsequence2)
 - [Teque](https://open.kattis.com/problems/teque)
 - [Bumped!](https://open.kattis.com/problems/bumped)
+
+## 7 May 2021
+
+![7 may 2021](images/20210507.png)
+
+[*Kattis event*](https://open.kattis.com/contests/vxp2yh)
+
+- [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)  
+- [Laptop Sticker](https://open.kattis.com/problems/laptopsticker)
+- [FizzBuzz](https://open.kattis.com/problems/fizzbuzz2)
+- [Zyxab](https://open.kattis.com/problems/zyxab)
+- [Damaged Equation](https://open.kattis.com/problems/damagedequation)
+- [Bootstrapping Number](https://open.kattis.com/problems/bootstrappingnumber)
+- [Simple Cron Spec](https://open.kattis.com/problems/simplecronspec)
+- [Investigating Imposters](https://open.kattis.com/problems/investigatingimposters)
+- [Dragon Balls](https://open.kattis.com/problems/dragonballs)
+- [Alien Microwave](https://open.kattis.com/problems/alienmicrowave)
+- [Captured by Aliens](https://open.kattis.com/problems/capturedbyaliens)
