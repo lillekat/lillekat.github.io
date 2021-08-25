@@ -19,9 +19,8 @@ We have a busy semester ahead of us! Here is the current schedule for the semest
 - **24 September**
 - 8 October [NCPC](https://nordic.icpc.io/) warm up
 - 9 October NCPC
-- 15 October Will Code For Drinks
-- **29 October**
-- **12 November**
+- **29 October** (lan)
+- 12 November Will Code For Drinks
 - **26 November**
 - 1 - 25 December [Advent of Code](https://adventofcode.com/)
 
