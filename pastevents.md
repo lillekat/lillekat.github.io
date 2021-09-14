@@ -302,3 +302,19 @@
 - [Dragon Balls](https://open.kattis.com/problems/dragonballs)
 - [Alien Microwave](https://open.kattis.com/problems/alienmicrowave)
 - [Captured by Aliens](https://open.kattis.com/problems/capturedbyaliens)
+
+## 10 September 2021
+
+![10 september 2021](images/20210910.png)
+
+[*Kattis event*](https://open.kattis.com/contests/wnc9sa)
+
+- [Aaah!](https://open.kattis.com/problems/aaah)
+- [SMIL](https://open.kattis.com/problems/smil)
+- [Blåtand](https://open.kattis.com/problems/bluetooth)
+- [Tastelogger](https://open.kattis.com/problems/keylogger)
+- [Shopaholic](https://open.kattis.com/problems/shopaholic)
+- [Distraheret](https://open.kattis.com/problems/distracted)
+- [Aa](https://open.kattis.com/problems/aa)
+- [Ligatures](https://open.kattis.com/problems/ligatures)
+- [Orteste vej](https://open.kattis.com/problems/ortestpath)

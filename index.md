@@ -15,8 +15,7 @@ This semester Lille Kat will be held on campus! The Kattis server is open from 1
 We have a busy semester ahead of us! Here is the current schedule for the semester with Lille Kat event marked in bold.
 
 - 13 September  - 8 October [Programmeringshøst](https://itu.dk/hoest)
-- **10 September** - [Kattis](https://open.kattis.com/contests/wnc9sa) [Facebook](https://fb.me/e/KadxKxkt) (please sign up on facebook so we know how many snacks to buy)
-- **24 September**
+- **24 September** - [Kattis](https://open.kattis.com/contests/ckdb8z) [Facebook](https://fb.me/e/Ew5u9Ccq) (please sign up on facebook so we know how many snacks to buy)
 - 8 October [NCPC](https://nordic.icpc.io/) warm up
 - 9 October NCPC
 - **29 October** (lan)
@@ -28,11 +27,11 @@ We have a busy semester ahead of us! Here is the current schedule for the semest
 
 ## Lille Kat and Coronavirus
 
-Currently we expect to meet in person for all events this semester, but with some changes. This means keeping a reasonable distance from other participants and no keyboard sharing (we can recommend looking into [Live Share](https://visualstudio.microsoft.com/services/live-share/)), it also means Lille Kat will provide individual snacks for everyone rather than having a big pile of shared pizza and chips the way we did it pre-pandemic. Of course, if you are ill or for some other reason would rather stay at home, you can always join virtually on the some kattis contest as the rest of us.
+Currently, we expect to meet in person for all events this semester, but with some changes. This means keeping a reasonable distance from other participants and no keyboard sharing (we can recommend looking into [Live Share](https://visualstudio.microsoft.com/services/live-share/)), it also means Lille Kat will provide individual snacks for everyone rather than having a big pile of shared pizza and chips the way we did it pre-pandemic. Of course, if you are ill or for some other reason would rather stay at home, you can always join virtually on the some kattis contest as the rest of us.
 
 ## Where  
 
-The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set up a snack station on one of these tables (take a look at the facebook event just before the event to find out which table).
+The 2nd floor Atrium tables will be reserved for Lille Kat events. We'll set up a snack station on one of these tables (take a look at the Facebook event just before the event to find out which table).
 
 ## Do I have to prepare?
 
@@ -40,7 +39,7 @@ No formal preparation is required, you can show up at the last minute.
 However:
 
 - It’s more fun if you find some friends to team up with. Especially if you think of a good team name!
-- You should a computer for programming, and you’ll need pen and paper for problem solving and collaborative thinking.
+- You should bring a computer for programming, and you’ll need pen and paper for problem solving and collaborative thinking.
 - If you enjoy writing code together we can recommend looking into [Live Share](https://visualstudio.microsoft.com/services/live-share/).
 - If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the events, you can try to solve some easy problems on Open Kattis, such as [hello](https://open.kattis.com/problems/hello), [babybites](https://open.kattis.com/problems/babybites), or [guess](https://open.kattis.com/problems/guess). This is particularly useful for learning how to read and write input and output. But don’t stress out over this beforehand – we’ll help during the event.
 
