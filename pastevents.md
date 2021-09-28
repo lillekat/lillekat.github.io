@@ -318,3 +318,19 @@
 - [Aa](https://open.kattis.com/problems/aa)
 - [Ligatures](https://open.kattis.com/problems/ligatures)
 - [Orteste vej](https://open.kattis.com/problems/ortestpath)
+
+## 24 September 2021
+
+![24 september 2021](images/20210924.png)
+
+[*Kattis event*](https://open.kattis.com/contests/ckdb8z)
+
+- [Sok](https://open.kattis.com/problems/sok)
+- [Guessing Game](https://open.kattis.com/problems/guessinggame)
+- [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea)
+- [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores)
+- [Button Bashing](https://open.kattis.com/problems/buttonbashing)
+- [Exact Change](https://open.kattis.com/problems/exactchange2)
+- [Breaking Bad](https://open.kattis.com/problems/breakingbad)
+- [Can of Worms](https://open.kattis.com/problems/canofworms)
+- [3-Sided Dice](https://open.kattis.com/problems/3sideddice)
