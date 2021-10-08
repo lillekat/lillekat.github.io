@@ -15,7 +15,7 @@ This semester Lille Kat will be held on campus! The Kattis server is open from 1
 We have a busy semester ahead of us! Here is the current schedule for the semester with Lille Kat event marked in bold.
 
 - 13 September  - 8 October [Programmeringshøst](https://itu.dk/hoest)
-- **8 October NCPC warm up** [Facebook event](https://fb.me/e/e57EQEcxN)
+- **8 October NCPC warm up** [Facebook event](https://fb.me/e/e57EQEcxN) - [Kattis event](https://open.kattis.com/contests/msvksy)
 - 9 October NCPC (Registration required. Read more [here](ncpc2021.md)) - [Facebook event](https://fb.me/e/48VKkFpzv)
 - 29 October? (lan)
 - 12 November Will Code For Drinks
