@@ -334,3 +334,54 @@
 - [Breaking Bad](https://open.kattis.com/problems/breakingbad)
 - [Can of Worms](https://open.kattis.com/problems/canofworms)
 - [3-Sided Dice](https://open.kattis.com/problems/3sideddice)
+
+## 8 October 2021
+
+![8 October 2021](images/20211008.png)
+
+[*Kattis event*](https://open.kattis.com/contests/msvksy)
+> Note that the event simply uses the problems from NCPC 2017
+
+- [Judging Moose](https://open.kattis.com/problems/judgingmoose)
+- [Best Relay Team](https://open.kattis.com/problems/bestrelayteam)
+- [Kayaking Trip](https://open.kattis.com/problems/kayaking)
+- [Import Spaghetti](https://open.kattis.com/problems/importspaghetti)
+- [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc)
+- [Emptying the Baltic](https://open.kattis.com/problems/emptyingbaltic)
+- [Distinctive Character](https://open.kattis.com/problems/distinctivecharacter)
+- [Airport Coffee](https://open.kattis.com/problems/airportcoffee)
+- [Compass Card Sales](https://open.kattis.com/problems/compasscard)
+- [Hubtown](https://open.kattis.com/problems/hubtown)
+
+## 9 October 2021
+
+![NCPC 2021](images/NCPC-2021-1920x1080px.jpg)
+
+[*Kattis event*](https://ncpc21.kattis.com/standings)
+
+- [Antenna Analysis](https://open.kattis.com/problems/antennaanalysis)
+- [Breaking Bars](https://open.kattis.com/problems/breakingbars)
+- [Customs Controls](https://open.kattis.com/problems/customscontrols)
+- [Deceptive Directions](https://open.kattis.com/problems/deceptivedirections)
+- [Eavesdropper Evasion](https://open.kattis.com/problems/eavesdropperevasion)
+- [Fortune From Folly](https://open.kattis.com/problems/fortunefromfolly)
+- [Grazed Grains](https://open.kattis.com/problems/grazedgrains)
+- [Hiring Help](https://open.kattis.com/problems/hiringhelp)
+- [Intact Intervals](https://open.kattis.com/problems/intactintervals)
+- [Joint Jog Jam](https://open.kattis.com/problems/jointjogjam)
+- [Knot Knowledge](https://open.kattis.com/problems/knotknowledge)
+- [Locust Locus](https://open.kattis.com/problems/locustlocus)
+- [Marvelous Marathon](https://open.kattis.com/problems/marvelousmarathon)
+
+## 12 Nov 2021
+
+[*Kattis event*](https://wcfd21.kattis.com/standings)
+
+- [Åboulevarden](https://open.kattis.com/problems/wcfd21.aaboulevarden)
+- [Bottle Opening](https://open.kattis.com/problems/wcfd21.bottleopening)
+- [Checkout](https://open.kattis.com/problems/wcfd21.checkout)
+- [John Dillermand](https://open.kattis.com/problems/wcfd21.johndillermand)
+- [Equal Shots](https://open.kattis.com/problems/wcfd21.equalshots)
+- [Fitting Cans](https://open.kattis.com/problems/wcfd21.fittingcans)
+- [Game of Dice](https://open.kattis.com/problems/wcfd21.gameofdice)
+- [Handy Beer](https://open.kattis.com/problems/wcfd21.handybeer)
