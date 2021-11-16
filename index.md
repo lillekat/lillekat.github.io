@@ -14,9 +14,15 @@ This semester Lille Kat will be held on campus! The Kattis server is open from 1
 
 We have a busy semester ahead of us! Here is the current schedule for the semester with Lille Kat event marked in bold.
 
+<<<<<<< HEAD
 - **26 November** - Kattis event (coming soon) - [Facebook event](https://fb.me/e/1sHuQD1zs)
 - 1 - 25 December [Advent of Code](https://adventofcode.com) - join with the code `968368-0c287283`
 - **10 December** - Kattis event (coming soon) - Facebook event
+=======
+- 12 November [Will Code For Drinks 2021](https://thorehusfeldt.github.io/wcfd/)
+- **26 November**
+- 1 - 25 December [Advent of Code](https://adventofcode.com/)
+>>>>>>> ed195e83a7f9c21512efdda7b08abe2907cb9fe0
 
 [Past Lille Kat events](pastevents.md)
 
