@@ -14,9 +14,9 @@ This semester Lille Kat will be held on campus! The Kattis server is open from 1
 
 We have a busy semester ahead of us! Here is the current schedule for the semester with Lille Kat event marked in bold.
 
-- **26 November** - [Kattis event](https://open.kattis.com/contests/g5r8pu) - [Facebook event](https://fb.me/e/1sHuQD1zs)
-- 1 - 25 December [Advent of Code](https://adventofcode.com) - daily tasks, Lille Kat has joint leaderboard. Join with the code `968368-7136f90c`. Daily discussion on Lille Kat’s MS Teams channel.
-- **10 December** - [Kattis event](https://open.kattis.com/contests/qtqoc4/) - [Facebook event](https://fb.me/e/QuoywbWD)
+- **26 November** - Lille Kat 2021:9. [Kattis event](https://open.kattis.com/contests/g5r8pu) - [Facebook event](https://fb.me/e/1sHuQD1zs)
+- 1-25 December [Advent of Code](https://adventofcode.com), a global event with daily tasks. Lille Kat has a joint leaderboard (click `[Leaderboard]` in line 2). Join with the code `968368-7136f90c`. Folly daily discussion on Lille Kat’s MS Teams channel.
+- **10 December** - Lille Kat 2021:10. [Kattis event](https://open.kattis.com/contests/qtqoc4/) - [Facebook event](https://fb.me/e/QuoywbWD)
 
 [Past Lille Kat events](pastevents.md)
 
