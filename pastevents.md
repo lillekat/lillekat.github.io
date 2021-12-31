@@ -385,3 +385,39 @@
 - [Fitting Cans](https://open.kattis.com/problems/wcfd21.fittingcans)
 - [Game of Dice](https://open.kattis.com/problems/wcfd21.gameofdice)
 - [Handy Beer](https://open.kattis.com/problems/wcfd21.handybeer)
+
+## 26 Nov 2021
+
+![26 November 2021](images/20211126.png)
+
+[*Kattis event*](https://open.kattis.com/contests/g5r8pu)
+
+- [Digit Swap](https://open.kattis.com/problems/digitswap)
+- [Cinema Crowds](https://open.kattis.com/problems/cinema)
+- [Cinema Crowds 2](https://open.kattis.com/problems/cinema2)
+- [Arm Coordination](https://open.kattis.com/problems/armcoordination)
+- [UTF-8](https://open.kattis.com/problems/utf8)
+- [Quickscope](https://open.kattis.com/problems/quickscope)
+- [Tic Tac Toe](https://open.kattis.com/problems/tictactoe2)
+- [Royal Family Tree](https://open.kattis.com/problems/royalfamilytree)
+- [BnPC](https://open.kattis.com/problems/bnpc)
+- [Largest Hoarding](https://open.kattis.com/problems/largesthoarding)
+- [Tic Tac Toe](https://open.kattis.com/problems/tictactoe)
+- [Jail or Joyride](https://open.kattis.com/problems/jailorjoyride)
+
+## 10 Dec 2021
+
+![10 December 2021](images/20211210.png)
+
+
+[*Kattis event*](https://open.kattis.com/contests/qtqoc4/)
+
+- [Odd Echo](https://open.kattis.com/problems/oddecho)
+- [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)
+- [License to Launch](https://open.kattis.com/problems/licensetolaunch)
+- [Knitpicking](https://open.kattis.com/problems/knitpicking)
+- [Mr. Plow King](https://open.kattis.com/problems/plowking)
+- [Cocoa Coalition](https://open.kattis.com/problems/cocoacoalition)
+- [Breaking Bars](https://open.kattis.com/problems/breakingbars)
+- [Catmas Gifts](https://open.kattis.com/problems/catmasgifts)
+- [Shovelling Snow](https://open.kattis.com/problems/shovelling)
