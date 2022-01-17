@@ -4,13 +4,8 @@ En Kattepasser kan passe på Lille Kat lige som de selv vil, men her er et par r
 
 ## TODO
 
-- [ ] Tilføj til fb
-- [x] Tilføj til teams
-- [ ] Tilføj til discord
-- [ ] Tilføj til github
-- [ ] Tilføj til email
-- [ ] ibistic
-- [ ] mtime
+- [ ] ibistic: skriv til finance@itu.dk
+- [ ] mtime: skriv til mtime@itu.dk
 - [ ] scraper
 
 ## Platforme
