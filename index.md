@@ -12,7 +12,14 @@ This semester Lille Kat will be held on campus! The Kattis server is open from 1
 
 ### Upcoming events
 
-Events in spring 2022 will be announced soon!
+Lille Kat will be held the following dates in the **Spring 2022 semester**:
+
+11.02.2022 - LilleKat 2022-01
+25.02.2022 - LilleKat 2022-02
+11.03.2022 - LilleKat 2022-03
+25.03.2022 - LilleKat 2022-04
+
+Make sure to reserve these dates!
 
 [Past Lille Kat events](pastevents.md)
 
