@@ -16,7 +16,7 @@ Lille Kat will be held the following dates in the Spring 2022 semester:
 11.02.2022 - LilleKat 2022:01. Register on Kattis [here](https://open.kattis.com/contests/xagu76?fbclid=IwAR0psIOhRMNmXCnrnOlB7-t-Sv1ex5I9xnvVnMkewba97_b4CYFwn76rvRo) \
 25.02.2022 - LilleKat 2022:02 \
 11.03.2022 - LilleKat 2022:03 \
-25.03.2022 - LilleKat 2022:04 \
+25.03.2022 - LilleKat 2022:04 
 
 Make sure to reserve these dates!
 
