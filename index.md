@@ -12,12 +12,12 @@ This semester Lille Kat will be held on campus! The Kattis server is open from 1
 
 ### Upcoming events
 
-Lille Kat will be held the following dates in the **Spring 2022 semester**:
+Lille Kat will be held the following dates in the Spring 2022 semester:
 
-<p>11.02.2022 - LilleKat 2022-01<br>
-25.02.2022 - LilleKat 2022-02<br>
-11.03.2022 - LilleKat 2022-03<br>
-25.03.2022 - LilleKat 2022-04</p>
+<p>11.02.2022 - LilleKat 2022:01. Register on Kattis [here](https://open.kattis.com/contests/xagu76?fbclid=IwAR0psIOhRMNmXCnrnOlB7-t-Sv1ex5I9xnvVnMkewba97_b4CYFwn76rvRo)<br>
+25.02.2022 - LilleKat 2022:02<br>
+11.03.2022 - LilleKat 2022:03<br>
+25.03.2022 - LilleKat 2022:04</p>
 
 Make sure to reserve these dates!
 
