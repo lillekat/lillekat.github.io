@@ -3,7 +3,7 @@
 To use the contest-problem-to-markdown-list-generator you will need to install python as well as the libraries `BeautifulSoup` and `requests`.
 
 ```
-pip3 install BeautifulSoup
+pip3 install BeautifulSoup4
 pip3 install requests
 ```
 
