@@ -426,7 +426,7 @@
 
 ## 11 Feb 2022
 
-![11 Februar 2022](images/20221102fb.png)
+![11 Februar 2022](images/20220211fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/xagu76) 
 
