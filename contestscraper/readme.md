@@ -1,6 +1,6 @@
 # read me
 
-To use the contest-problem-to-markdown-list-generator you will need to install python as well as the libraries `BeautifulSoup` and `requests`.
+To use the contest-problem-to-markdown-list-generator you will need to install python as well as the libraries `BeautifulSoup4` and `requests`.
 
 ```
 pip3 install BeautifulSoup4
