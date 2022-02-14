@@ -421,3 +421,25 @@
 - [Breaking Bars](https://open.kattis.com/problems/breakingbars)
 - [Catmas Gifts](https://open.kattis.com/problems/catmasgifts)
 - [Shovelling Snow](https://open.kattis.com/problems/shovelling)
+
+# 2022
+
+## 11 Feb 2022
+
+![11 Februar 2022](images/20221102fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/xagu76) 
+
+- [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)
+- [Greetings!](https://open.kattis.com/problems/greetings2)
+- [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)
+- [Mult!](https://open.kattis.com/problems/mult)
+- [The Grand Adventure](https://open.kattis.com/problems/thegrandadventure)
+- [Bridges and Tunnels](https://open.kattis.com/problems/bridgesandtunnels)
+- [MrCodeFormatGrader](https://open.kattis.com/problems/mrcodeformatgrader)
+- [Tic-Tac State](https://open.kattis.com/problems/tictacstate)
+- [Interval Scheduling](https://open.kattis.com/problems/intervalscheduling)
+- [Stamp Combinations](https://open.kattis.com/problems/stampcombinations)
+- [Pizza Party!](https://open.kattis.com/problems/pizzaparty)
+- [Sword Counting](https://open.kattis.com/problems/swordcounting)
+
