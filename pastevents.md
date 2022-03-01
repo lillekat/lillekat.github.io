@@ -443,3 +443,18 @@
 - [Pizza Party!](https://open.kattis.com/problems/pizzaparty)
 - [Sword Counting](https://open.kattis.com/problems/swordcounting)
 
+## 25 Feb 2022
+
+![25 Februar 1011](images/20220225fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/rspo2h) 
+
+- [Skru op!](https://open.kattis.com/problems/skruop)
+- [Cpr-nummer](https://open.kattis.com/problems/cprnummer)
+- [Popkorn](https://open.kattis.com/problems/popkorn)
+- [Kapløb](https://open.kattis.com/problems/kaploeb)
+- [Prinsessen på ærten](https://open.kattis.com/problems/prinsesse)
+- [Bakke snagvendt](https://open.kattis.com/problems/bakkesnagvendt)
+- [Olympus Måns](https://open.kattis.com/problems/olympusmans)
+- [Gule gummistøvler](https://open.kattis.com/problems/gulegummistoevler)
+
