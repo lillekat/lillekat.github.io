@@ -21,7 +21,7 @@ Make sure to reserve these dates!
 
 ## Lille Kat and Coronavirus
 
-Currently, we expect to meet in person for all events this semester, but with some changes. This means keeping a reasonable distance from other participants and no keyboard sharing (we can recommend looking into [Live Share](https://visualstudio.microsoft.com/services/live-share/)), it also means Lille Kat will provide individual snacks for everyone rather than having a big pile of shared pizza and chips the way we did it pre-pandemic. Of course, if you are ill or for some other reason would rather stay at home, you can always join virtually on the some kattis contest as the rest of us.
+Currently, we expect to meet in person for all events this semester. We still encourage everyone to keep a reasonable distance from other participants and no keyboard sharing (we can recommend looking into [Live Share](https://visualstudio.microsoft.com/services/live-share/)). It also means Lille Kat will provide individual snacks for everyone. Of course, if you are ill or for some other reason would rather stay at home, you can always join virtually on the some kattis contest as the rest of us.
 
 ## Where  
 
