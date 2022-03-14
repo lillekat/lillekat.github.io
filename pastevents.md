@@ -445,7 +445,7 @@
 
 ## 25 Feb 2022
 
-![25 Februar 1011](images/20220225fb.png)
+![25 Februar 2022](images/20220225fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/rspo2h) 
 
@@ -457,4 +457,23 @@
 - [Bakke snagvendt](https://open.kattis.com/problems/bakkesnagvendt)
 - [Olympus Måns](https://open.kattis.com/problems/olympusmans)
 - [Gule gummistøvler](https://open.kattis.com/problems/gulegummistoevler)
+
+## 11 Mar 2022
+
+![11 March 2022](images/20220311fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/fc9wgt) 
+
+- [Tower Construction](https://open.kattis.com/problems/tornbygge)
+- [Nine Knights](https://open.kattis.com/problems/nineknights)
+- [Falling Apart](https://open.kattis.com/problems/fallingapart)
+- [Room Painting](https://open.kattis.com/problems/roompainting)
+- [Game of Throwns](https://open.kattis.com/problems/throwns)
+- [Dominoes 2](https://open.kattis.com/problems/dominoes2)
+- [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople)
+- [Supercomputer](https://open.kattis.com/problems/supercomputer)
+- [Safest Taxi](https://open.kattis.com/problems/safesttaxi)
+- [Bless You Autocorrect!](https://open.kattis.com/problems/autocorrect)
+- [Ski Resort](https://open.kattis.com/problems/skiresort)
+- [Prospecting](https://open.kattis.com/problems/prospecting)
 
