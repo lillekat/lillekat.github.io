@@ -13,7 +13,7 @@ This semester Lille Kat will be held on campus! The Kattis server is open from 1
 ### Upcoming events
 Lille Kat will be held the following dates in the Spring 2022 semester:
 
-25.03.2022 - LilleKat 2022.04 [Facebook event](https://www.facebook.com/events/339686511412319?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D).
+25.03.2022 - LilleKat 2022.04 [Facebook event](https://www.facebook.com/events/339686511412319?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D). [Kattis event](https://open.kattis.com/contests/radfdp).
 
 Make sure to reserve these dates!
 
