@@ -481,3 +481,22 @@
 
 ![25 Mar 2022](images/20220325fb.png)
 
+[*Kattis event*](https://open.kattis.com/contests/radfdp) 
+
+- [Finding An A](https://open.kattis.com/problems/findingana)
+- [Double Password](https://open.kattis.com/problems/doublepassword)
+- [Average Character](https://open.kattis.com/problems/averagecharacter)
+- [Overdraft](https://open.kattis.com/problems/overdraft)
+- [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe)
+- [Circle Bounce](https://open.kattis.com/problems/circlebounce)
+- [Who Goes There?](https://open.kattis.com/problems/whogoesthere)
+- [Tournament Seeding](https://open.kattis.com/problems/tournamentseeding)
+- [Black and White](https://open.kattis.com/problems/blackandwhite)
+- [Tetris Generation](https://open.kattis.com/problems/tetrisgeneration)
+- [Square Bounce](https://open.kattis.com/problems/squarebounce)
+- [Rise and Fall](https://open.kattis.com/problems/riseandfall)
+- [Tree Hopping](https://open.kattis.com/problems/treehopping)
+- [Diagonals](https://open.kattis.com/problems/diagonals)
+- [Dorm Room Divide](https://open.kattis.com/problems/dormroomdivide)
+
+
