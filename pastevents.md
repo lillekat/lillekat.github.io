@@ -501,7 +501,7 @@
 
 ## 06 May 2022
 
-![06 May 2022](images/20220605fb.png)
+![06 May 2022](images/20220506fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/sqdq7r) 
 
