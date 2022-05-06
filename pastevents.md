@@ -477,3 +477,44 @@
 - [Ski Resort](https://open.kattis.com/problems/skiresort)
 - [Prospecting](https://open.kattis.com/problems/prospecting)
 
+## 25 Mar 2022
+
+![25 Mar 2022](images/20220325fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/radfdp) 
+
+- [Finding An A](https://open.kattis.com/problems/findingana)
+- [Double Password](https://open.kattis.com/problems/doublepassword)
+- [Average Character](https://open.kattis.com/problems/averagecharacter)
+- [Overdraft](https://open.kattis.com/problems/overdraft)
+- [Scaling Recipe](https://open.kattis.com/problems/scalingrecipe)
+- [Circle Bounce](https://open.kattis.com/problems/circlebounce)
+- [Who Goes There?](https://open.kattis.com/problems/whogoesthere)
+- [Tournament Seeding](https://open.kattis.com/problems/tournamentseeding)
+- [Black and White](https://open.kattis.com/problems/blackandwhite)
+- [Tetris Generation](https://open.kattis.com/problems/tetrisgeneration)
+- [Square Bounce](https://open.kattis.com/problems/squarebounce)
+- [Rise and Fall](https://open.kattis.com/problems/riseandfall)
+- [Tree Hopping](https://open.kattis.com/problems/treehopping)
+- [Diagonals](https://open.kattis.com/problems/diagonals)
+- [Dorm Room Divide](https://open.kattis.com/problems/dormroomdivide)
+
+## 05 May 2022
+
+![05 May 2022](images/20220505fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/sqdq7r) 
+
+- [Which is Greater?](https://open.kattis.com/problems/whichisgreater)
+- [GCVWR](https://open.kattis.com/problems/gcvwr)
+- [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)
+- [Square Peg](https://open.kattis.com/problems/squarepeg)
+- [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)
+- [Bitmask](https://open.kattis.com/problems/bitmask)
+- [Snakes and Masters](https://open.kattis.com/problems/snakesandmasters)
+- [Associative Exponents](https://open.kattis.com/problems/associativeexponents)
+- [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns)
+- [Fire](https://open.kattis.com/problems/fire2)
+- [Diagonals](https://open.kattis.com/problems/diagonals)
+- [Dorm Room Divide](https://open.kattis.com/problems/dormroomdivide)
+
