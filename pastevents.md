@@ -499,4 +499,22 @@
 - [Diagonals](https://open.kattis.com/problems/diagonals)
 - [Dorm Room Divide](https://open.kattis.com/problems/dormroomdivide)
 
+## 05 May 2022
+
+![05 May 2022](images/20220505fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/sqdq7r) 
+
+- [Which is Greater?](https://open.kattis.com/problems/whichisgreater)
+- [GCVWR](https://open.kattis.com/problems/gcvwr)
+- [Saving For Retirement](https://open.kattis.com/problems/savingforretirement)
+- [Square Peg](https://open.kattis.com/problems/squarepeg)
+- [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)
+- [Bitmask](https://open.kattis.com/problems/bitmask)
+- [Snakes and Masters](https://open.kattis.com/problems/snakesandmasters)
+- [Associative Exponents](https://open.kattis.com/problems/associativeexponents)
+- [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns)
+- [Fire](https://open.kattis.com/problems/fire2)
+- [Diagonals](https://open.kattis.com/problems/diagonals)
+- [Dorm Room Divide](https://open.kattis.com/problems/dormroomdivide)
 
