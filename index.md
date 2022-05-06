@@ -11,11 +11,8 @@ Oh... and there’ll be snacks!
 This semester Lille Kat will be held on campus! The Kattis server is open from 16:00 till 19:00, so be sure to be ready before then. Join the discord server, grab some snacks, and solve any set up issues before we start (people on discord can help if you have any issues).  
 
 ### Upcoming events
-Lille Kat will be held the following dates in the Spring 2022 semester:
-
-06.05.2022 - LilleKat 2022.05 **SEMESTER FINALE**. [Facebook Event](https://fb.me/e/18lkGeXSA). [Kattis Event](https://open.kattis.com/contests/sqdq7r).
-
-Make sure to reserve these dates!
+Lille Kat is done for this spring semester. We thank you all who have attended to our events - without you, there would be no Lille Kat.
+We're looking forward to seeing you again in the autumn semester. The dates will be announced in august. Until then, enjoy exams and summer vacation!
 
 [Past Lille Kat events](pastevents.md)
 
