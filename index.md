@@ -1,4 +1,4 @@
-Lille Kat is a social club at ITU [ITU](https://www.itu.dk) about collaborative programming.
+Lille Kat is a social club at [ITU](https://www.itu.dk) about collaborative programming.
 
 Lille Kat events are held roughly every other week on Friday afternoons and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment for practicing collaborative problem solving. 
 Participants are encouraged to help each other and have fun.
