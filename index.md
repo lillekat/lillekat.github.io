@@ -9,23 +9,27 @@ Each event will feature a selection of problems from the [Kattis](https://open.k
 
 There are free snacks and sodas at each event, and – depending on third-party funding – sometimes pizzas.
 
-
 ## When and where?
+
+Lille Kat take place at the 2nd floor Atrium tables in the (main) RLV building of ITU.
+There is usually a snack station on one of these tables.
+Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up or leave at any time.
+
+### Upcoming events
+
 The dates for Lille Kat 2022 autumn are as follows:
-- Lille Kat 2022.07 - 09.09.2022 SEMESTERSTART
-- Lille Kat 2022.08 - 23.09.2022
-- Lille Kat 2022.09 - 07.10.2022
-- Lille Kat 2022.10 - 28.10.2022
-- Lille Kat 2022.11 - 11.11.2022
-- Lille Kat 2022.12 - 25.11.2022 SEMESTERFINALE
+- **Lille Kat 2022.07** - 09.09.2022 SEMESTERSTART
+- **Lille Kat 2022.08** - 23.09.2022
+- **Lille Kat 2022.09** - 07.10.2022
+- **Lille Kat 2022.10** - 28.10.2022
+- **Lille Kat 2022.11** - 11.11.2022
+- **Lille Kat 2022.12** - 25.11.2022 SEMESTERFINALE
 
 Please note that dates may be changed throughout the semester,
 depending on special events that might occour. To keep yourself updated,
 join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU)
 
-Lille Kat take place at the 2nd floor Atrium tables in the (main) RLV building of ITU.
-There is usually a snack station on one of these tables.
-Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up or leave at any time.
+[Past Lille Kat events](pastevents.md)
 
 ## Why?
 
@@ -37,13 +41,6 @@ Lille Kat works very well as a social lubricant to meet other people.
 - Become much, much better at **programming**. No matter whether you’re still struggling with **while** or already understand that a monad is just a monoid in the category of endofunctors: solving a number of Kattis exercises every week is one of the most satisfying and accessible ways to increasing your programming skills.
 - Become much, much better at **problem solving**. No matter whether you’re still struggling with list traversal or mainly worry about how to optimise your hand-crafted FFT implementation: solving a number of Kattis exercises every week turns you into a monster in basic algorithms, data structures, computational thinking, problem solving, and graph algorithms.
 - **Team building.** You can bring your existing reading group to Lille Kat and focus on the collaborative aspect. You learn a lot about each other and yourself, and you can establish a team identity with a painful team name, mascot, or hoodie. We’re not judging.
-
-### Upcoming events
-
-Lille Kat is done for the Spring semester of 2022. We thank you all who have attended to our events - without you, there would be no Lille Kat.
-We're looking forward to seeing you again in the autumn semester. The dates will be announced in August. Until then, enjoy exams and summer vacation!
-
-[Past Lille Kat events](pastevents.md)
 
 ## Do I have to prepare?
 
