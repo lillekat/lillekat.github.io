@@ -11,6 +11,17 @@ There are free snacks and sodas at each event, and – depending on third-party 
 
 
 ## When and where?
+The dates for Lille Kat 2022 autumn are as follows:
+- Lille Kat 2022.07 - 09.09.2022 SEMESTERSTART
+- Lille Kat 2022.08 - 23.09.2022
+- Lille Kat 2022.09 - 07.10.2022
+- Lille Kat 2022.10 - 28.10.2022
+- Lille Kat 2022.11 - 11.11.2022
+- Lille Kat 2022.12 - 25.11.2022 SEMESTERFINALE
+
+Please note that dates may be changed throughout the semester,
+depending on special events that might occour. To keep yourself updated,
+join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU)
 
 Lille Kat take place at the 2nd floor Atrium tables in the (main) RLV building of ITU.
 There is usually a snack station on one of these tables.
