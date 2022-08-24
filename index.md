@@ -1,11 +1,11 @@
-Lille Kat is a social club at [ITU](https://www.itu.dk) about collaborative programming.
+# Lille Kat
 
-Lille Kat events are held roughly every other week on Friday afternoons and are aimed at ITU students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat aims to create a friendly and relaxed environment for practicing collaborative problem solving. 
-Participants are encouraged to help each other and have fun.
+Lille Kat events are held every two to three weeks on Friday afternoons at [ITU](http://www.itu.dk) and aimed at students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat is held in a friendly and relaxed environment for practicing collaborative problem solving; 
+participants are encouraged to help each other and have fun.
 
 The events aim to be fun and challenging for programmers of every skill level.
 Students who are just learning programming are particularly welcome.
-Each event will feature a selection of problems from the [Kattis](https://open.kattis.com ) archive. The selected problems will range in difficulty so all participants can solve at least one question.
+Each event will feature a selection of problems from the [Kattis](https://open.kattis.com ) archive. The selected problems range in difficulty so all participants can solve at least one question.
 
 There are free snacks and sodas at each event, and – depending on third-party funding – sometimes pizzas.
 
@@ -44,7 +44,7 @@ Lille Kat works very well as a social lubricant to meet other people.
 
 ## Do I have to prepare?
 
-No formal preparation is required, you can show up at any time.
+No formal preparation is required, and you can show up at any time.
 However:
 
 - It’s more fun if you find some friends to team up with. Especially if you think of a good team name!
@@ -65,15 +65,4 @@ The people behind Lille Kat are
 - Troels Lund
 - Martin Aumüller
 
-## Related events
-
-The staff and students connected to Lille Kat constitute an informal social hub for various programming-related events at ITU. 
-Lille Kat itself aims to be harmless, accessible, social, and cute.
-The other events range in atmosphere from loud and silly to ultra-competitive and serious:
-
-* [Nordic Collegiate Programming Contest](https://nordic.icpc.io), sometimes known as _Danmarksmesterskaberne i programmering_. 
-This is the “official” yearly Nordic programming contest for universities, the first step on a series of events culminating in world finals. Next event: 8 October 2022; Kantinen i Biocenteret, Copenhagen University, Ole Maaløes Vej 5, 2200 København N. Five hours, teams of three, registration required (to be announced). Extremely high quality problems; easiest problems are like easy Lille Kat, super atmosphere, so everybody should participate.
-* [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/). Athmosphere is crazy. Held in the ITU Scrollbar, typically in November. Difficulty comparable to Lille Kat; but even more focussed on having fun. By now, one of the largest programming events in Scandinavia.
-Hopefully takes place in November 2022.
-* [Advent of Code](https://adventofcode.com). A world-wide daily _julekalender_ in December; ITU participants maintain a shared leaderboard and an [Advent of Code channel on ITU Teams](https://teams.microsoft.com/l/channel/19%3a35ac58a2e8344a80b326c01f3fab6ded%40thread.tacv2/Advent%2520of%2520Code?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) to talk about today’s problem. Quite difficult on some days.
-
+The [Friends of Lille Kat](/frolik.html) arrange many related events.
