@@ -15,12 +15,12 @@ Some of them we arrange ourselves, others we participate in jointly.
 ### [NCPC – Nordic Collegiate Programming Contest](https://nordic.icpc.io)
 
 
-NPCP, sometimes known as _Danmarksmesterskaberne i programmering_, is the “official” yearly Nordic programming contest for universities.
+NPCP, sometimes known as _Danmarksmesterskaberne i programmering_, is the “official” yearly Nordic programming contest for universities with a few hundred participants in the Nordic countries.
 NCPC is the first step on a series of events culminating in the ICPC world finals.
 
-* Next event: 8 October 2022; Kantinen i Biocenteret, Copenhagen University, Ole Maaløes Vej 5, 2200 København N. 
+* Next event: 8 October 2022; Copenhagen event is organised by _Netcompany_ and held in Kantinen i Biocenteret, Copenhagen University (Nørre Campus), Ole Maaløes Vej 5, 2200 København N. [NCPC 2022 Website](https://nordic.icpc.io/ncpc2022/) 
 
-Five hours, teams of three, registration required (to be announced). Extremely high quality problems; easiest problems are like easy Lille Kat, super atmosphere, so everybody should participate.
+Five hours, teams of three, registration required (to be announced). Extremely high quality problems; the easiest problems are like easy Lille Kat, the atmosphere is super, so _everybody_ should participate.
 
 
 ### [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
@@ -28,6 +28,15 @@ Five hours, teams of three, registration required (to be announced). Extremely h
 Atmosphere is crazy. Held in the ITU Scrollbar, typically in November. Difficulty comparable to Lille Kat; but even more focussed on having fun. By now, one of the largest programming events in Scandinavia.
 
 * Next event: hopefully November 2022.
+
+### [NWERC –  Northwestern European Regional Contest](https://nwerc.eu)
+
+NWERC is a highly competitive annual event – the next next step above NCPC, and a qualifier for the World finals.
+ITU sponsors two teams to participate. (Maybe three if we can find the money.)
+
+* Next event: 25 to 27 November 2022, Delft, Netherlands.
+
+Team selection and coaching for NWERC is done by FroLiK.
 
 ### [Advent of Code](https://adventofcode.com)
 
