@@ -27,7 +27,7 @@ Five hours, teams of three, registration required (to be announced). Extremely h
 
 Atmosphere is crazy. Held in the ITU Scrollbar, typically in November. Difficulty comparable to Lille Kat; but even more focussed on having fun. By now, one of the largest programming events in Scandinavia.
 
-* Next event: hopefully November 2022.
+* Next event: 11 November 2022.
 
 ### [NWERC –  Northwestern European Regional Contest](https://nwerc.eu)
 
