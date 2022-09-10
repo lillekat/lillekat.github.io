@@ -18,10 +18,13 @@ Some of them we arrange ourselves, others we participate in jointly.
 NPCP, sometimes known as _Danmarksmesterskaberne i programmering_, is the “official” yearly Nordic programming contest for universities with a few hundred participants in the Nordic countries.
 NCPC is the first step on a series of events culminating in the ICPC world finals.
 
-* Next event: 8 October 2022; Copenhagen event is organised by _Netcompany_ and held in Kantinen i Biocenteret, Copenhagen University (Nørre Campus), Ole Maaløes Vej 5, 2200 København N. [NCPC 2022 Website](https://nordic.icpc.io/ncpc2022/) 
+* Next event: 8 October 2022, 10:00–19:00; Copenhagen event is organised by _Netcompany_ and held at the University Library of Copenhagen University, Nørre Allé 49, 2200 København N. [NCPC 2022 Website](https://nordic.icpc.io/ncpc2022/) 
 
-Five hours, teams of three, registration required (to be announced). Extremely high quality problems; the easiest problems are like easy Lille Kat, the atmosphere is super, so _everybody_ should participate.
+Five hours of programming, teams of three, registration required (to be announced at the NCPC website). Extremely high quality problems; the easiest problems are like easy Lille Kat, the atmosphere is super, so _everybody_ should participate.
 
+If you’ve done this before and want to actually _train_ for this (you don’t need to):
+* [NPCP practice contests online every weekend (5 hours)](http://nordic.icpc.io/ncpc2022/#registration) announced at the NCPC website.
+* [NPCP training on site at ITU every Tuesday (2 hours)](https://teams.microsoft.com/l/channel/19%3a953ea0c97d904839a4895b975c1524ca%40thread.tacv2/NCPC%25202022%2520Training?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) announced at an ITU-internal MS Teams channel.
 
 ### [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
 
