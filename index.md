@@ -20,7 +20,7 @@ Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up 
 The dates for Lille Kat 2022 autumn are as follows:
 
 - **Lille Kat 2022.08** - 23.09.2022
-- **Lille Kat 2022.09** - 07.10.2022
+- **Lille Kat 2022.09** - 07.10.2022 _Co-lab with Novo Nordisk Digital Innovation Hub_
 - **Lille Kat 2022.10** - 28.10.2022
 - **Lille Kat 2022.11** - 11.11.2022 [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
 - **Lille Kat 2022.12** - 02.12.2022 SEMESTERFINALE
