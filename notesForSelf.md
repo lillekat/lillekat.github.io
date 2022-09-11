@@ -7,7 +7,7 @@ The dates are following:
 The dates for Lille Kat 2022 autumn are as follows:
 * Lille Kat 2022.07 - 09.09.2022 SEMESTERSTART. 
 * Lille Kat 2022.08 - 23.09.2022
-* Lille Kat 2022.09 - 07.10.2022
+* Lille Kat 2022.09 - 07.10.2022 - COLAB WITH NOVONORDISK HUB
 * Lille Kat 2022.10 - 28.10.2022
 * Lille Kat 2022.11 - 11.11.2022 [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
 * Lille Kat 2022.12 - 25.11.2022 SEMESTERFINALE
