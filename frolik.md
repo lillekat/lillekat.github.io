@@ -18,7 +18,7 @@ Some of them we arrange ourselves, others we participate in jointly.
 NPCP, sometimes known as _Danmarksmesterskaberne i programmering_, is the “official” yearly Nordic programming contest for universities with a few hundred participants in the Nordic countries.
 NCPC is the first step on a series of events culminating in the ICPC world finals.
 
-* Next event: 8 October 2022, 10:00–19:00; Copenhagen event is organised by _Netcompany_ and held at the University Library of Copenhagen University, Nørre Allé 49, 2200 København N. [NCPC 2022 Website](https://nordic.icpc.io/ncpc2022/) 
+* Next event: 8 October 2022, 10:00–19:00. The Copenhagen event is organised by _Netcompany_ and held at the University Library of Copenhagen University, Nørre Allé 49, 2200 København N. More information at the websites for [NCPC 2022](https://nordic.icpc.io/ncpc2022/) and [DM i Programmering 2022](https://www.netcompany.com/da/Events/2022/DM-i-programmering-2022).
 
 Five hours of programming, teams of three, registration required (to be announced at the NCPC website). Extremely high quality problems; the easiest problems are like easy Lille Kat, the atmosphere is super, so _everybody_ should participate.
 
