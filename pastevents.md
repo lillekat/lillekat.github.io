@@ -523,3 +523,17 @@
 ![09 Sep 2022](images/20220909fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/h3zkgt).
+
+- [FYI](https://open.kattis.com/contests/h3zkgt/problems/fyi)
+- [Turn It Up!](https://open.kattis.com/contests/h3zkgt/problems/skruop)
+- [Count the Vowels](https://open.kattis.com/contests/h3zkgt/problems/countthevowels)
+- [Dice Cup](https://open.kattis.com/contests/h3zkgt/problems/dicecup)
+- [Building Pyramids](https://open.kattis.com/contests/h3zkgt/problems/pyramids)
+- [Stopwatch](https://open.kattis.com/contests/h3zkgt/problems/stopwatch)
+- [Jumbled Compass](https://open.kattis.com/contests/h3zkgt/problems/compass)
+- [Proofs](https://open.kattis.com/contests/h3zkgt/problems/proofs)
+- [Aa](https://open.kattis.com/contests/h3zkgt/problems/aa)
+- [Closeness Queries](https://open.kattis.com/contests/h3zkgt/problems/closenessqueries)
+- [Bazaar](https://open.kattis.com/contests/h3zkgt/problems/bazaar)
+- [Adding Up the Votes](https://open.kattis.com/contests/h3zkgt/problems/addingupthevotes)
+- [Evading a Monster](https://open.kattis.com/contests/h3zkgt/problems/evadingamonster)
