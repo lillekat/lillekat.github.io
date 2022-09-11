@@ -518,3 +518,8 @@
 - [Diagonals](https://open.kattis.com/problems/diagonals)
 - [Dorm Room Divide](https://open.kattis.com/problems/dormroomdivide)
 
+## 09 Sep 2022
+
+![09 Sep 2022](images/20220909fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/h3zkgt).
