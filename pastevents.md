@@ -522,7 +522,7 @@
 
 ![09 Sep 2022](images/20220909fb.png)
 
-[*Kattis event*](https://open.kattis.com/contests/h3zkgt).
+[*Kattis event*](https://open.kattis.com/contests/h3zkgt)
 
 - [FYI](https://open.kattis.com/contests/h3zkgt/problems/fyi)
 - [Turn It Up!](https://open.kattis.com/contests/h3zkgt/problems/skruop)
@@ -537,3 +537,27 @@
 - [Bazaar](https://open.kattis.com/contests/h3zkgt/problems/bazaar)
 - [Adding Up the Votes](https://open.kattis.com/contests/h3zkgt/problems/addingupthevotes)
 - [Evading a Monster](https://open.kattis.com/contests/h3zkgt/problems/evadingamonster)
+
+## 23 Sep 2022
+
+![23 Sep 2022](images/20220923fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/hviosv)
+
+-- [echoechoecho](https://open.kattis.com/problems/echoechoecho)
+-- [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
+-- [oddecho](https://open.kattis.com/problems/oddecho)
+-- [laptopsticker](https://open.kattis.com/problems/laptopsticker)
+-- [babybites](https://open.kattis.com/problems/babybites)
+-- [flipflow](https://open.kattis.com/problems/flipflow)
+-- [adolescentarchitecture](https://open.kattis.com/problems/adolescentarchitecture)
+-- [mixtapemanagement](https://open.kattis.com/problems/mixtapemanagement)
+-- [confinedcatching](https://open.kattis.com/problems/confinedcatching)
+-- [bookshelfbuilding](https://open.kattis.com/problems/bookshelfbuilding)
+-- [gravitygrid](https://open.kattis.com/problems/gravitygrid)
+-- [decorativedominoes](https://open.kattis.com/problems/decorativedominoes)
+-- [impressiveintegers](https://open.kattis.com/problems/impressiveintegers)
+-- [lexiographiclecturing](https://open.kattis.com/problems/lexiographiclecturing)
+-- [jeopardisedjourney](https://open.kattis.com/problems/jeopardisedjourney)
+-- [exhaustingerrands](https://open.kattis.com/problems/exhaustingerrands)
+-- [hecticharbour](https://open.kattis.com/problems/hecticharbour)
