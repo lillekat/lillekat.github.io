@@ -561,3 +561,22 @@
 - [jeopardisedjourney](https://open.kattis.com/problems/jeopardisedjourney)
 - [exhaustingerrands](https://open.kattis.com/problems/exhaustingerrands)
 - [hecticharbour](https://open.kattis.com/problems/hecticharbour)
+
+![07.10.2022](images/20221007fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/vrszoe)
+
+- [twosum](https://open.kattis.com/problems/twosum)
+- [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone)
+- [timeloop](https://open.kattis.com/problems/timeloop)
+- [stopwatch](https://open.kattis.com/problems/stopwatch)
+- [knotknowledge](https://open.kattis.com/problems/knotknowledge)
+- [haughtycuisine](https://open.kattis.com/problems/haughtycuisine)
+- [jigsaw](https://open.kattis.com/problems/jigsaw)
+- [elevatorpitch](https://open.kattis.com/problems/elevatorpitch)
+- [generators](https://open.kattis.com/problems/generators)
+- [incompletesort](https://open.kattis.com/problems/incompletesort)
+- [bidirectionalcode](https://open.kattis.com/problems/bidirectionalcode)
+- [aquarium](https://open.kattis.com/problems/aquarium)
+- [familyfares](https://open.kattis.com/problems/familyfares)
+- [kleptocrat](https://open.kattis.com/problems/kleptocrat)
