@@ -20,7 +20,7 @@ Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up 
 The dates for Lille Kat 2022 autumn are as follows:
 
 - **Lille Kat 2022.10** - 28.10.2022 [Facebook
-  event](https://fb.me/e/3ARJMPB4a). [Kattis event](TBA).
+  event](https://fb.me/e/3ARJMPB4a). [Kattis event](https://open.kattis.com/contests/pdimvb).
 - **[Will Code For Drinks](https://thorehusfeldt.github.io/wcfd/)** - 11.11.2022
 - **Lille Kat 2022.11** - 02.12.2022 SEMESTERFINALE
 
