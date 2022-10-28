@@ -580,3 +580,23 @@
 - [aquarium](https://open.kattis.com/problems/aquarium)
 - [familyfares](https://open.kattis.com/problems/familyfares)
 - [kleptocrat](https://open.kattis.com/problems/kleptocrat)
+
+![28.10.2022](images/20221028fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/pdimvb)
+
+- [isithalloween](https://open.kattis.com/problems/isithalloween)
+- [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
+- [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers)
+- [nsum](https://open.kattis.com/problems/nsum)
+- [coffeecupcombo](https://open.kattis.com/problems/coffeecupcombo)
+- [acearbiter](https://open.kattis.com/problems/acearbiter)
+- [discdistrict](https://open.kattis.com/problems/discdistrict)
+- [highesthill](https://open.kattis.com/problems/highesthill)
+- [junkjourney](https://open.kattis.com/problems/junkjourney)
+- [berrybattle](https://open.kattis.com/problems/berrybattle)
+- [graduationguarantee](https://open.kattis.com/problems/graduationguarantee)
+- [enigmaticenumeration](https://open.kattis.com/problems/enigmaticenumeration)
+- [foreignfootball](https://open.kattis.com/problems/foreignfootball)
+- [icyitinerary](https://open.kattis.com/problems/icyitinerary)
+- [keyboardqueries](https://open.kattis.com/problems/keyboardqueries)
