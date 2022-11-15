@@ -600,3 +600,17 @@
 - [foreignfootball](https://open.kattis.com/problems/foreignfootball)
 - [icyitinerary](https://open.kattis.com/problems/icyitinerary)
 - [keyboardqueries](https://open.kattis.com/problems/keyboardqueries)
+
+![11.11.2022](images/WCFD_material/WCFD_ReadIT2022.png)
+
+[*Kattis event*](https://wcfd22.kattis.com/contests/wcfd22)
+
+- [alcoholfreealternative](https://open.kattis.com/problems/wcfd22.alcoholfreealternative)
+- [brainfuck](https://open.kattis.com/problems/wcfd22.brainfuck)
+- [champagneoverflow](https://open.kattis.com/problems/wcfd22.champagneoverflow)
+- [drinkmenu](https://open.kattis.com/problems/wcfd22.drinkmenu)
+- [equalizingdebt](https://open.kattis.com/problems/wcfd22.equalizingdebt)
+- [fillingcrates](https://open.kattis.com/problems/wcfd22.fillingcrates)
+- [ginfizz](https://open.kattis.com/problems/wcfd22.ginfizz)
+- [hairofthedog](https://open.kattis.com/problems/wcfd22.hairofthedog)
+- [incrediblebartender](https://open.kattis.com/problems/wcfd22.incrediblebartender)

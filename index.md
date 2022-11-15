@@ -17,10 +17,7 @@ Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up 
 
 ### Upcoming events
 
-The dates for Lille Kat 2022 autumn are as follows:
-
-- **[Will Code For Drinks](https://thorehusfeldt.github.io/wcfd/)** - 11.11.2022
-- **Lille Kat 2022.11** - 02.12.2022 SEMESTERFINALE
+There are no more Lille Kat events for the autumn 2022 semester. We're looking forward to seeing you again in the spring semester! The dates for the spring semester 2023 will be announced on this site in start February.
 
 Please note that dates may be changed throughout the semester,
 depending on special events that might occour. To keep yourself updated,
