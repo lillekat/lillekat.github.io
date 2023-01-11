@@ -65,16 +65,15 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 - **ReadIT**: Readit har en hånd deadline om **onsdagen** ugen inden ReadIT sendes ud.
   - Se evt. ældre ReadIT opslag i ReadIT Archive
   - Billede: 1000 x 500 px
-  - https://itustudent.itu.dk/campus-life/got-something-to-say/readit
+  - [Link til ReadIT](https://itustudent.itu.dk/campus-life/got-something-to-say/readit)
 - **Billboard**: Gør det gerne tidligt, det kan godt tage dem op til en uge at registrere nye opslag.
   - Lille Kat Billboard GIF til dette
     - 1280 x 1080 px
-  - https://itustudent.itu.dk/Campus-Life/Got-Something-to-Say/Submit-to-ITU-Billboard
+  - [Link til billboard](https://itustudent.itu.dk/Campus-Life/Got-Something-to-Say/Submit-to-ITU-Billboard)
 
 ### 1 uge før / et par dage før
 
-- **Køb snacks!** Man kan typisk regne med at der kommer 10-20% flere end der er tilmeldt på facebook. Pre-corona var snacks dele pizzaer og store flasker sodavand (+ engangsservice), men nu er det dåsesodavand og enkeltpakkede slik og chips. Jeg har brugt føtex og fået dem til at levere samme fredag hvor eventet er mellem kl. 14 - 15.
-  - https://hjem.foetex.dk
+- **Køb snacks!** Man kan typisk regne med at der kommer 10-20% flere end der er tilmeldt på facebook. Pre-corona var snacks dele pizzaer og store flasker sodavand (+ engangsservice), men nu er det dåsesodavand og enkeltpakkede slik og chips. Jeg har brugt [føtex](https://hjem.foetex.dk) og fået dem til at levere samme fredag hvor eventet er mellem kl. 14 - 15.
 - **Bestil evt. pizza** Jeg har brugt Cavallino.
 - **Gem kvitteringen!** Tag et billed af den med det samme.
 
@@ -95,7 +94,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
   - Upload kvitteringer for udlæg + billede af deltagerliste
 - Opdater Hjemmeside: tilføj opgaver under *past events* & fjern event fra *upcoming*
   - Brug gerne [Kat toolet](https://github.com/Duckapple/Kat)
-    - command: kat contest [link-to-kattis] --dump
+    - command: kat contest link-to-kattis --dump
 
 *På Ibistic: "Travel/expenses document archive" = gamle udlægsrapporter du selv har oprettet, hvis du nogensinde skulle have behov for at se dem igen*
 
