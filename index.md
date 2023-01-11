@@ -54,7 +54,7 @@ Ask questions and join the conversation at the [Lille Kat channel on ITU’s Tea
 
 The people behind Lille Kat are
 
-- Rakul Maria Hjalmarsdóttir Tórgarð (organizer)
+- Viktor Bello Thomsen (organizer)
 - Thore Husfeldt (chair of problem committee)
 - Troels Lund
 - Martin Aumüller
