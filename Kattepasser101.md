@@ -74,6 +74,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 ### 1 uge før / et par dage før
 
 - **Køb snacks!** Man kan typisk regne med at der kommer 10-20% flere end der er tilmeldt på facebook. Pre-corona var snacks dele pizzaer og store flasker sodavand (+ engangsservice), men nu er det dåsesodavand og enkeltpakkede slik og chips. Jeg har brugt føtex og fået dem til at levere samme fredag hvor eventet er mellem kl. 14 - 15.
+  - https://hjem.foetex.dk
 - **Bestil evt. pizza** Jeg har brugt Cavallino.
 - **Gem kvitteringen!** Tag et billed af den med det samme.
 
@@ -87,7 +88,16 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 ### Efter
 
 - Tilføj udlægsrapport i Ibistic
+  - Log in med din bruger
+  - "Register settlement"
+  - 1412 (CS department)
+  - Vælg Forplejning på ITU
+  - Upload kvitteringer for udlæg + billede af deltagerliste
 - Opdater Hjemmeside: tilføj opgaver under *past events* & fjern event fra *upcoming*
+  - Brug gerne [Kat toolet](https://github.com/Duckapple/Kat)
+    - command: kat contest [link-to-kattis] --dump
+
+*På Ibistic: "Travel/expenses document archive" = gamle udlægsrapporter du selv har oprettet, hvis du nogensinde skulle have behov for at se dem igen*
 
 ## Andre events
 
