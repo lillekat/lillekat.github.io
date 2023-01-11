@@ -46,21 +46,34 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 - PROSA, godt til små summer
   - Amanda Christiansen: ach@prosa.dk
 - DDSA
+- Troels Bjerre Lund
+  - troels@google.com
+- Klaus S. Madsen, IT-direktør
+  - ksm@jobindex.dk
+  - Står for forplejning til DTU's Lille Kat
 
 ## Fra gang til gang
 
 ### 2 uger før
 
-- Mandag / Tirsdag = prep-day
+- **Mandag / Tirsdag = prep-day**
 - **Kattis**: Få Thore til at oprette event og vælge opgaver.
 - **Facebook**: Ny event og evt. ping i ITU students gruppen.
+  - Se evt. ældre begivenheder og copy-paste.
+  - Billede: 1920 x 1080 px
 - **Teams**: Send links til fb og Kattis i *General*.
 - **ReadIT**: Readit har en hånd deadline om **onsdagen** ugen inden ReadIT sendes ud.
+  - Se evt. ældre ReadIT opslag i ReadIT Archive
+  - Billede: 1000 x 500 px
+  - https://itustudent.itu.dk/campus-life/got-something-to-say/readit
 - **Billboard**: Gør det gerne tidligt, det kan godt tage dem op til en uge at registrere nye opslag.
+  - Lille Kat Billboard GIF til dette
+    - 1280 x 1080 px
+  - https://itustudent.itu.dk/Campus-Life/Got-Something-to-Say/Submit-to-ITU-Billboard
 
 ### 1 uge før / et par dage før
 
-- **Køb snacks!** Man kan typisk regne med at der kommer 10-20% flere end der er tilmeldt på facebook. Pre-corona var snacks dele pizzaer og store flasker sodavand (+ engangsservice), men nu er det dåsesodavand og enkeltpakkede slik og chips. Jeg har brugt føtex-levering.
+- **Køb snacks!** Man kan typisk regne med at der kommer 10-20% flere end der er tilmeldt på facebook. Pre-corona var snacks dele pizzaer og store flasker sodavand (+ engangsservice), men nu er det dåsesodavand og enkeltpakkede slik og chips. Jeg har brugt føtex og fået dem til at levere samme fredag hvor eventet er mellem kl. 14 - 15.
 - **Bestil evt. pizza** Jeg har brugt Cavallino.
 - **Gem kvitteringen!** Tag et billed af den med det samme.
 
