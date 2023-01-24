@@ -17,13 +17,12 @@ Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up 
 
 ### Upcoming events
 
-We are happy to announce that Lillekat is back for the 2023 Spring semester. Here are the planned dates for Lillekat and related events. 
+We are happy to announce that Lillekat is back for the 2023 Spring semester. Here are the planned dates for Lillekat. 
 
 - **Lille Kat 2022.01** - 10.02.2023 [Facebook event](https://fb.me/e/2yhGTWTUU). [Kattis event](https://open.kattis.com/contests/ymferh).
 - **Lille Kat 2022.02** - 24.02.2023
 - **Lille Kat 2022.03** - 10.03.2023
 - **Lille Kat 2022.04** - 24.03.2023
-- **[Will Code For Drinks](https://thorehusfeldt.github.io/wcfd/)** - Most likely in April
 - **Lille Kat 2022.05** - 12.05.2023
 
 Please note that dates may be changed throughout the semester,
