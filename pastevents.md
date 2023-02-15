@@ -614,3 +614,23 @@
 - [ginfizz](https://open.kattis.com/problems/wcfd22.ginfizz)
 - [hairofthedog](https://open.kattis.com/problems/wcfd22.hairofthedog)
 - [incrediblebartender](https://open.kattis.com/problems/wcfd22.incrediblebartender)
+
+![10.02.2023](images/20230210fb.pngy)
+
+[*Kattis event*](https://open.kattis.com/contests/ymferh)
+
+- [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
+- [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers)
+- [nsum](https://open.kattis.com/problems/nsum)
+- [fizzbuzz](https://open.kattis.com/problems/fizzbuzz)
+- [fizzbuzz2](https://open.kattis.com/problems/fizzbuzz2)
+- [interviewquestion](https://open.kattis.com/problems/interviewquestion)
+- [delimitersoup](https://open.kattis.com/problems/delimitersoup)
+- [delftdistance](https://open.kattis.com/problems/delftdistance)
+- [bottleflip](https://open.kattis.com/problems/bottleflip)
+- [circularcaramelcookie](https://open.kattis.com/problems/circularcaramelcookie)
+- [goingincircles](https://open.kattis.com/problems/goingincircles)
+- [highqualitytree](https://open.kattis.com/problems/highqualitytree)
+- [lastguess](https://open.kattis.com/problems/lastguess)
+- [fasterthanlight](https://open.kattis.com/problems/fasterthanlight)
+- [eta](https://open.kattis.com/problems/eta)
