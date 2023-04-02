@@ -61,6 +61,8 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 - **Facebook**: Ny event og evt. ping i ITU students gruppen.
   - Se evt. ældre begivenheder og copy-paste.
   - Billede: 1920 x 1080 px
+
+- **reservér Thore** Lav et møde på teams og inviter Thore 
 - **Teams**: Send links til fb og Kattis i *General*.
 - **ReadIT**: Readit har en hånd deadline om **onsdagen** ugen inden ReadIT sendes ud.
   - Se evt. ældre ReadIT opslag i ReadIT Archive
