@@ -23,7 +23,8 @@ We are happy to announce that Lillekat is back for the 2023 Spring semester. Her
 - **Lille Kat 2022.03** - 10.03.2023 [Facebook event](https://fb.me/e/2tPeN5mSL). ̈́̈́̈́[Kattis event](https://open.kattis.com/contests/wtrjwe).
 - **Lille Kat 2023.04** - 24.03.2023 [Facebook event](https://fb.me/e/4o5VvI3cu). [Kattis event](https://open.kattis.com/contests/k2p4ws).
 - **Lille Kat joins DPOP** - 26.04.2023 (Wednesday) [Website](https://d-pop.github.io/). [Kattis event](https://dpop23.kattis.com/contests/dpop-23-1).
-- **Lille Kat 2023.05** - 12.05.2023
+- **Lille Kat 2023.05** - 12.05.2023 [Facebook event](https://fb.me/e/VqTtM3Lt). [Kattis event](https://open.kattis.com/contests/kxbd2s).  
+
 
 Please note that dates may be changed throughout the semester,
 depending on special events that might occour. To keep yourself updated,
