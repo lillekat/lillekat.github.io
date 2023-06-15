@@ -17,17 +17,10 @@ Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up 
 
 ### Upcoming events
 
-We are happy to announce that Lillekat is back for the 2023 Spring semester. Here are the planned dates for Lillekat. 
+After a successful Spring 2023 semester, Lille Kat has found a sunny spot and relaxes for the summer.
 
-- **Lille Kat 2023.02** - 24.02.2023 [Facebook event](https://fb.me/e/40jeIvt3n). [Kattis event](https://open.kattis.com/contests/tacyp6).
-- **Lille Kat 2022.03** - 10.03.2023 [Facebook event](https://fb.me/e/2tPeN5mSL). ̈́̈́̈́[Kattis event](https://open.kattis.com/contests/wtrjwe).
-- **Lille Kat 2023.04** - 24.03.2023 [Facebook event](https://fb.me/e/4o5VvI3cu). [Kattis event](https://open.kattis.com/contests/k2p4ws).
-- **Lille Kat joins DPOP** - 26.04.2023 (Wednesday) [Website](https://d-pop.github.io/). [Kattis event](https://dpop23.kattis.com/contests/dpop-23-1).
-- **Lille Kat 2023.05** - 12.05.2023 [Facebook event](https://fb.me/e/VqTtM3Lt). [Kattis event](https://open.kattis.com/contests/kxbd2s).  
-
-
-Please note that dates may be changed throughout the semester,
-depending on special events that might occour. To keep yourself updated,
+Expect Lille Kat 2023:06 to take place one of the first Fridays of the Fall semester (we don’t want to collide with various parties that you totally *also* should attend!)
+To keep yourself updated,
 join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU)
 
 [Past Lille Kat events](pastevents.md)
