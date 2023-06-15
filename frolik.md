@@ -9,10 +9,7 @@ Lille Kat itself aims to be harmless, accessible, social, and cute.
 The other events range in atmosphere from loud and silly to ultra-competitive and serious.
 Some of them we arrange ourselves, others we participate in jointly.
 
-## Events
-
-
-### [NCPC – Nordic Collegiate Programming Contest](https://nordic.icpc.io)
+## [NCPC – Nordic Collegiate Programming Contest](https://nordic.icpc.io)
 
 
 NPCP, sometimes known as _Danmarksmesterskaberne i programmering_, is the “official” yearly Nordic programming contest for universities with a few hundred participants in the Nordic countries.
@@ -22,14 +19,14 @@ NCPC is five hours of programming in teams of three, registration required (to b
 
 * Next event: 7 October 2023, 10:00–19:00. The Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held at the KU Science Campus (“Nørre campus”) at Biocenter Kantine, Ole Maaløes Vej 5, 2200 København N. More information at the website for [NCPC](https://nordic.icpc.io/ncpc2023/). 
 
-### [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
+## [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
 
 Held in the ITU Scrollbar, typically in November. Difficulty comparable to Lille Kat; but even more focussed on having fun. By now, one of the largest programming events in Scandinavia.
 Atmosphere is crazy. 
 
 * Next event: November-ish 2023, depending on Scrollbar.
 
-### [NWERC –  Northwestern European Regional Contest](https://nwerc.eu)
+## [NWERC –  Northwestern European Regional Contest](https://nwerc.eu)
 
 NWERC is a highly competitive annual event – the next next step above NCPC, and a qualifier for the World finals.
 ITU typically sponsors two or three teams to participate (travel and lodgings).
@@ -38,7 +35,7 @@ ITU typically sponsors two or three teams to participate (travel and lodgings).
 
 Team selection and coaching for NWERC is done by FroLiK.
 
-### [Advent of Code](https://adventofcode.com)
+## [Advent of Code](https://adventofcode.com)
 
 AoC is a world-wide daily _julekalender_ in December; ITU participants maintain 
 * a shared leaderboard (code 968368-7136f90c) and 
