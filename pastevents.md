@@ -623,7 +623,7 @@
 
 ## 10 Feb 2023
 
-![10.02.2023](images/20230210fb.pngy)
+![10.02.2023](images/20230210fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/ymferh)
 
