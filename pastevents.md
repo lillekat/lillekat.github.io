@@ -627,22 +627,22 @@
 
 [*Kattis event*](https://open.kattis.com/contests/ymferh)
 
-- [addtwonumbers](https://open.kattis.com/problems/addtwonumbers)
-- [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers)
-- [nsum](https://open.kattis.com/problems/nsum)
-- [fizzbuzz](https://open.kattis.com/problems/fizzbuzz)
-- [fizzbuzz2](https://open.kattis.com/problems/fizzbuzz2)
-- [interviewquestion](https://open.kattis.com/problems/interviewquestion)
-- [delimitersoup](https://open.kattis.com/problems/delimitersoup)
-- [delftdistance](https://open.kattis.com/problems/delftdistance)
-- [bottleflip](https://open.kattis.com/problems/bottleflip)
-- [circularcaramelcookie](https://open.kattis.com/problems/circularcaramelcookie)
-- [goingincircles](https://open.kattis.com/problems/goingincircles)
-- [highqualitytree](https://open.kattis.com/problems/highqualitytree)
-- [lastguess](https://open.kattis.com/problems/lastguess)
-- [fasterthanlight](https://open.kattis.com/problems/fasterthanlight)
-- [eta](https://open.kattis.com/problems/eta)
-
+- [Add Two Numbers](https://open.kattis.com/contests/ymferh/problems/addtwonumbers)
+- [Sort Two Numbers](https://open.kattis.com/contests/ymferh/problems/sorttwonumbers)
+- [N-sum](https://open.kattis.com/contests/ymferh/problems/nsum)
+- [FizzBuzz](https://open.kattis.com/contests/ymferh/problems/fizzbuzz)
+- [FizzBuzz](https://open.kattis.com/contests/ymferh/problems/fizzbuzz2)
+- [Interview Question](https://open.kattis.com/contests/ymferh/problems/interviewquestion)
+- [Delimiter Soup](https://open.kattis.com/contests/ymferh/problems/delimitersoup)
+- [Delft Distance](https://open.kattis.com/contests/ymferh/problems/delftdistance)
+- [Bottle Flip](https://open.kattis.com/contests/ymferh/problems/bottleflip)
+- [Circular Caramel Cookie](https://open.kattis.com/contests/ymferh/problems/circularcaramelcookie)
+- [Going in Circles](https://open.kattis.com/contests/ymferh/problems/goingincircles)
+- [High-quality Tree](https://open.kattis.com/contests/ymferh/problems/highqualitytree)
+- [Last Guess](https://open.kattis.com/contests/ymferh/problems/lastguess)
+- [Faster Than Light](https://open.kattis.com/contests/ymferh/problems/fasterthanlight)
+- [ETA](https://open.kattis.com/contests/ymferh/problems/eta)
+- 
 ## 24 Feb 2023
 
 ![24.02.2023](images/20230224fb.png)
