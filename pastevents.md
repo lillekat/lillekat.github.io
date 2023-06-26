@@ -667,6 +667,21 @@
 
 [*Kattis event*](https://open.kattis.com/contests/wtrjwe)
 
+- [Add Two Numbers](https://open.kattis.com/contests/wtrjwe/problems/addtwonumbers)
+- [N-sum](https://open.kattis.com/contests/wtrjwe/problems/nsum)
+- [Metronome](https://open.kattis.com/contests/wtrjwe/problems/metronome)
+- [Blueberry Waffle](https://open.kattis.com/contests/wtrjwe/problems/blueberrywaffle)
+- [Streets Ahead](https://open.kattis.com/contests/wtrjwe/problems/streetsahead)
+- [Repetitive Song](https://open.kattis.com/contests/wtrjwe/problems/repetitivesong)
+- [Sun and Moon](https://open.kattis.com/contests/wtrjwe/problems/sunandmoon)
+- [Fading Wind](https://open.kattis.com/contests/wtrjwe/problems/fadingwind)
+- [Cuckoo Hashing](https://open.kattis.com/contests/wtrjwe/problems/cuckoo)
+- [Three Dice](https://open.kattis.com/contests/wtrjwe/problems/threedice)
+- [Three Digits](https://open.kattis.com/contests/wtrjwe/problems/threedigits)
+- [Chocolate Chip Fabrication](https://open.kattis.com/contests/wtrjwe/problems/chocolatechipfabrication)
+- [Bog of Eternal Stench](https://open.kattis.com/contests/wtrjwe/problems/bogofeternalstench)
+- [Funny Games](https://open.kattis.com/contests/wtrjwe/problems/funnygames)
+
 
 ## 24 Mar 2023
 
@@ -674,8 +689,42 @@
 
 [*Kattis event*](https://open.kattis.com/contests/k2p4ws)
 
+- [Add Two Numbers](https://open.kattis.com/contests/k2p4ws/problems/addtwonumbers)
+- [Sort Two Numbers](https://open.kattis.com/contests/k2p4ws/problems/sorttwonumbers)
+- [N-sum](https://open.kattis.com/contests/k2p4ws/problems/nsum)
+- [Ghost Leg](https://open.kattis.com/contests/k2p4ws/problems/ghostleg)
+- [Class Field Trip](https://open.kattis.com/contests/k2p4ws/problems/classfieldtrip)
+- [Smallest Calculated Value](https://open.kattis.com/contests/k2p4ws/problems/smallestcalculatedvalue)
+- [MazeMan](https://open.kattis.com/contests/k2p4ws/problems/mazeman)
+- [Restaurant Opening](https://open.kattis.com/contests/k2p4ws/problems/restaurantopening)
+- [Hunt the Wumpus](https://open.kattis.com/contests/k2p4ws/problems/huntthewumpus)
+- [I Could Have Won](https://open.kattis.com/contests/k2p4ws/problems/icouldhavewon)
+- [Everything Is A Nail](https://open.kattis.com/contests/k2p4ws/problems/everythingisanail)
+- [Champernowne Count](https://open.kattis.com/contests/k2p4ws/problems/champernownecount)
+- [Mars-DNA](https://open.kattis.com/contests/k2p4ws/problems/martiandna)
+- [DNA](https://open.kattis.com/contests/k2p4ws/problems/dna)
+- [Copying DNA](https://open.kattis.com/contests/k2p4ws/problems/copyingdna)
+
 ## 12 May 2023
 
 ![12.05.2023](images/20230512fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/kxbd2s)
+
+- [Echo Echo Echo](https://open.kattis.com/contests/kxbd2s/problems/echoechoecho)
+- [Odd Echo](https://open.kattis.com/contests/kxbd2s/problems/oddecho)
+- [Add Two Numbers](https://open.kattis.com/contests/kxbd2s/problems/addtwonumbers)
+- [Sticky Keys](https://open.kattis.com/contests/kxbd2s/problems/stickykeys)
+- [International Dates](https://open.kattis.com/contests/kxbd2s/problems/internationaldates)
+- [Adding Trouble](https://open.kattis.com/contests/kxbd2s/problems/addingtrouble)
+- [Mean Words](https://open.kattis.com/contests/kxbd2s/problems/meanwords)
+- [Alien Math](https://open.kattis.com/contests/kxbd2s/problems/alienmath)
+- [Mirror Strings](https://open.kattis.com/contests/kxbd2s/problems/mirrorstrings)
+- [Card Counting Club](https://open.kattis.com/contests/kxbd2s/problems/cardcountingclub)
+- [Precarious Stacks](https://open.kattis.com/contests/kxbd2s/problems/precariousstacks)
+- [Graduation Table](https://open.kattis.com/contests/kxbd2s/problems/graduationtable)
+- [Lefties vs. Righties](https://open.kattis.com/contests/kxbd2s/problems/leftiesvsrighties)
+- [Maddison's Square Garden](https://open.kattis.com/contests/kxbd2s/problems/maddisonssquaregarden)
+- [Sneaky Exploration](https://open.kattis.com/contests/kxbd2s/problems/sneakyexploration)
+- [Shopping Bags](https://open.kattis.com/contests/kxbd2s/problems/shoppingbags)
+- [Central String](https://open.kattis.com/contests/kxbd2s/problems/centralstring)
