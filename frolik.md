@@ -24,7 +24,7 @@ NCPC is five hours of programming in teams of three, registration required (to b
 Held in the ITU Scrollbar, typically in November. Difficulty comparable to Lille Kat; but even more focussed on having fun. By now, one of the largest programming events in Scandinavia.
 Atmosphere is crazy. 
 
-* Next event: November-ish 2023, depending on Scrollbar.
+* Next event is planned for 10 November 2023 in the ITU Scrollbar.
 
 ## [NWERC –  Northwestern European Regional Contest](https://nwerc.eu)
 

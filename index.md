@@ -23,6 +23,15 @@ Expect Lille Kat 2023:06 to take place one of the first Fridays of the Fall seme
 To keep yourself updated,
 join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU)
 
+
+Very tentative dates for Fall 2023:
+
+* Friday, 8 September 2023, 16:15–18:45: Lille Kat 2023:6, possibly with a “welcome to complete and utter newcomers who’ve never done anything like this before” workshop (before?).
+* Friday, 22 September 2023: Lille Kat 2023:7
+* Friday, 6 October 2023: Lille Kat 2023:8. Good warm-up for NCPC 2023 the day after.
+* ...
+* Friday, 10 November 2023, 16:00-19:00: Lille Kat joins *Will Code for Drinks 2023*
+
 [Past Lille Kat events](pastevents.md)
 
 ## Why?
