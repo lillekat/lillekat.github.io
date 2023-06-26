@@ -645,23 +645,25 @@
 
 ## 24 Feb 2023
 
+![24.02.2023](images/20230224fb.png)
+
 [*Kattis event*](https://open.kattis.com/contests/tacyp6)
 
 ## 10 Mar 2023
+
+![10.03.2023](images/20230310fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/wtrjwe)
 
 
 ## 24 Mar 2023
 
+![24.03.2023](images/20230324fb.png)
+
 [*Kattis event*](https://open.kattis.com/contests/k2p4ws)
 
-## 26 Apr 2023
-
-**Lille Kat joins D-Pop!**. 
-[Website](https://d-pop.github.io/). 
-[Kattis event](https://dpop23.kattis.com/contests/dpop-23-1).
-
 ## 12 May 2023
+
+![12.05.2023](images/20230512fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/kxbd2s)
