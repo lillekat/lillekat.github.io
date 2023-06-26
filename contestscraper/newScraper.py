@@ -2,7 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 url = input()
-page = requests.get(url)
+tempUrl = url+"/problems"
+page = requests.get(tempUrl)
 
 soup = BeautifulSoup(page.content, "html.parser")
 
@@ -16,6 +17,6 @@ for t in table.findAll('a'):
     name = t.string.strip()
     link = t['href']
 
-    print(list_elem.format(name, "https://open.kattis.com/"+link))
+    print(list_elem.format(name, "https://open.kattis.com"+link))
 
 print("\n")

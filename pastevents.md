@@ -647,7 +647,19 @@
 
 ![24.02.2023](images/20230224fb.png)
 
-[*Kattis event*](https://open.kattis.com/contests/tacyp6)
+[*Kattis event*](https://open.kattis.com/contests/tacyp6) 
+
+- [Add Two Numbers](https://open.kattis.com/contests/tacyp6/problems/addtwonumbers)
+- [N-sum](https://open.kattis.com/contests/tacyp6/problems/nsum)
+- [Metronome](https://open.kattis.com/contests/tacyp6/problems/metronome)
+- [Class Field Trip](https://open.kattis.com/contests/tacyp6/problems/classfieldtrip)
+- [Basic Programming 2](https://open.kattis.com/contests/tacyp6/problems/basicprogramming2)
+- [Ghost Leg](https://open.kattis.com/contests/tacyp6/problems/ghostleg)
+- [Smallest Calculated Value](https://open.kattis.com/contests/tacyp6/problems/smallestcalculatedvalue)
+- [MazeMan](https://open.kattis.com/contests/tacyp6/problems/mazeman)
+- [Platform Placing](https://open.kattis.com/contests/tacyp6/problems/platformplacing)
+- [Birthday Gift](https://open.kattis.com/contests/tacyp6/problems/birthdaygift)
+- [Room Evacuation](https://open.kattis.com/contests/tacyp6/problems/roomevacuation)
 
 ## 10 Mar 2023
 
