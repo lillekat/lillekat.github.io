@@ -31,7 +31,7 @@ Atmosphere is crazy.
 NWERC is a highly competitive annual event – the next next step above NCPC, and a qualifier for the World finals.
 ITU typically sponsors two or three teams to participate (travel and lodgings).
 
-* Next event: Late November – early December 2023, Delft, Netherlands.
+* Next event: 24–26 November 2023, Delft, Netherlands.
 
 Team selection and coaching for NWERC is done by FroLiK.
 
