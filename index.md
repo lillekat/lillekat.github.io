@@ -11,26 +11,22 @@ There are free snacks and sodas at each event, and – depending on third-party 
 
 ## When and where?
 
-Lille Kat take place at the 2nd floor Atrium tables in the (main) RLV building of ITU.
+Lille Kat takes place at the 2nd floor Atrium tables in the (main) RLV building of ITU.
 There is usually a snack station on one of these tables.
-Typically, a Lille Kat session lasts from 16:00 till 19:00; but you can show up or leave at any time.
+Lille Kat takes place on various Fridays throughout the semester. A session lasts from 16:15 till 19:00; but you can show up or leave at any time.
 
 ### Upcoming events
 
-After a successful Spring 2023 semester, Lille Kat has found a sunny spot and relaxes for the summer.
+Lille Kat will take place at the following Fridays throughout the fall semester. Make sure to mark these dates!
 
-Expect Lille Kat 2023:06 to take place one of the first Fridays of the Fall semester (we don’t want to collide with various parties that you totally *also* should attend!)
-To keep yourself updated,
-join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU)
+* **08.09.2023 - Lille Kat 2023.06** - Introduction to Kattis
+* **22.09.2023 - Lille Kat 2023.07**
+* **06.10.2023 - Lille Kat 2023.08**
+* **10.11.2023 -** [**Will Code For Drinks**](https://thorehusfeldt.github.io/wcfd/)
+* **24.11.2023 - Lille Kat 2023.09**
+* **08.12.2023 - Lille Kat 2023.10** - Semester Finale
 
-
-Very tentative dates for Fall 2023:
-
-* Friday, 8 September 2023, 16:15–18:45: Lille Kat 2023:6, possibly with a “welcome to complete and utter newcomers who’ve never done anything like this before” workshop (before?).
-* Friday, 22 September 2023: Lille Kat 2023:7
-* Friday, 6 October 2023: Lille Kat 2023:8. Good warm-up for NCPC 2023 the day after.
-* ...
-* Friday, 10 November 2023, 16:00-19:00: Lille Kat joins *Will Code for Drinks 2023*
+To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU).
 
 [Past Lille Kat events](pastevents.md)
 
@@ -63,7 +59,7 @@ Ask questions and join the conversation at the [Lille Kat channel on ITU’s Tea
 
 The people behind Lille Kat are
 
-- Viktor Bello Thomsen (organizer)
+- Rakul Maria Hjalmarsdóttir Tórgarð (organizer)
 - Thore Husfeldt (chair of problem committee)
 - Troels Lund
 - Martin Aumüller
