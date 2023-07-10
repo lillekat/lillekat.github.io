@@ -2,12 +2,12 @@
 
 En Kattepasser kan passe på Lille Kat lige som de selv vil, men her er et par råd fra en Kattepasser til en anden.
 
-## TODO til Viktor
+## TODO
 
 - [ ] ibistic: skriv til finance@itu.dk
 - [ ] mtime: skriv til mtime@itu.dk
 - Efter 1. event
-  - [ ] kat-tool (eller lav din egen? Poppy havde scraper)
+  - [ ] scraper
   - [ ] ibistic
 
 ## Platforme
