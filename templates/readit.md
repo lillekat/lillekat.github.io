@@ -12,6 +12,8 @@ When and where: February 10, 16:00 - 19:00.
 
 ---
 
+ITU's social programming initiative is back!
+
 Lille Kat is an event aimed at students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. 
 
 The Lille Kat events aim to be fun and challenging for programmers of every skill level. Students who are just learning programming are particularly welcome! 
