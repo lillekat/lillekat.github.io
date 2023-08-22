@@ -91,7 +91,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 - Tilføj udlægsrapport i Ibistic
   - Log in med din bruger
   - "Register settlement"
-  - 1412 (CS department)
+  - 133906 (CS department)
   - Vælg Forplejning på ITU
   - Upload kvitteringer for udlæg + billede af deltagerliste
 - Opdater Hjemmeside: tilføj opgaver under *past events* & fjern event fra *upcoming*
