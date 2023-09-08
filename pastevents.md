@@ -728,3 +728,23 @@
 - [Sneaky Exploration](https://open.kattis.com/contests/kxbd2s/problems/sneakyexploration)
 - [Shopping Bags](https://open.kattis.com/contests/kxbd2s/problems/shoppingbags)
 - [Central String](https://open.kattis.com/contests/kxbd2s/problems/centralstring)
+
+## 08 Sep 2023
+
+![08.09.2023](images/20230908fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/p3d3fe) 
+
+- [Echo Echo Echo](https://open.kattis.com/contests/p3d3fe/problems/echoechoecho)
+- [Odd Echo](https://open.kattis.com/contests/p3d3fe/problems/oddecho)
+- [Sort Two Numbers](https://open.kattis.com/contests/p3d3fe/problems/sorttwonumbers)
+- [Add Two Numbers](https://open.kattis.com/contests/p3d3fe/problems/addtwonumbers)
+- [Reverse](https://open.kattis.com/contests/p3d3fe/problems/ofugsnuid)
+- [SMIL](https://open.kattis.com/contests/p3d3fe/problems/smil)
+- [Messy lists](https://open.kattis.com/contests/p3d3fe/problems/stokigalistor)
+- [Who wins?](https://open.kattis.com/contests/p3d3fe/problems/vemvinner)
+- [Triolingo Push](https://open.kattis.com/contests/p3d3fe/problems/triolingopush)
+- [Ice Cream Machines](https://open.kattis.com/contests/p3d3fe/problems/icecreammachines)
+- [Inflation](https://open.kattis.com/contests/p3d3fe/problems/inflation2)
+- [Find the Box](https://open.kattis.com/contests/p3d3fe/problems/findthebox)
+- [Bikes vs Cars](https://open.kattis.com/contests/p3d3fe/problems/bikesvscars)

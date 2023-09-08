@@ -19,7 +19,6 @@ Lille Kat takes place on various Fridays throughout the semester. A session last
 
 Lille Kat will take place at the following Fridays throughout the fall semester. Make sure to mark these dates!
 
-* 08.09.2023 - Lille Kat 2023:06 - Introduction to Kattis [Facebook event](https://fb.me/e/33ukjWGSN). [Kattis event](https://open.kattis.com/contests/p3d3fe).
 * 22.09.2023 - Lille Kat 2023:07
 * 06.10.2023 - Lille Kat 2023:08 @ Novo Nordisk Digital Innovation Hub
 * 10.11.2023 - [Will Code For Drinks](https://thorehusfeldt.github.io/wcfd/)
