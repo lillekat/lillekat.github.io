@@ -748,3 +748,19 @@
 - [Inflation](https://open.kattis.com/contests/p3d3fe/problems/inflation2)
 - [Find the Box](https://open.kattis.com/contests/p3d3fe/problems/findthebox)
 - [Bikes vs Cars](https://open.kattis.com/contests/p3d3fe/problems/bikesvscars)
+
+
+[*Kattis event*](https://open.kattis.com/contests/pvrsc5) 
+
+- [Velkomin!](https://open.kattis.com/contests/pvrsc5/problems/velkomin)
+- [Leggja saman](https://open.kattis.com/contests/pvrsc5/problems/leggjasaman)
+- [Úllen dúllen doff](https://open.kattis.com/contests/pvrsc5/problems/ullendullendoff)
+- [Bannorð](https://open.kattis.com/contests/pvrsc5/problems/bannord)
+- [Pizzubestun](https://open.kattis.com/contests/pvrsc5/problems/pizzubestun)
+- [Gangur](https://open.kattis.com/contests/pvrsc5/problems/gangur)
+- [Almennir Borgarar](https://open.kattis.com/contests/pvrsc5/problems/almennirborgarar)
+- [Talnalás](https://open.kattis.com/contests/pvrsc5/problems/talnalas)
+- [Teningakast](https://open.kattis.com/contests/pvrsc5/problems/teningakast)
+- [Nafnagift](https://open.kattis.com/contests/pvrsc5/problems/nafnagift)
+- [Hraðskrif](https://open.kattis.com/contests/pvrsc5/problems/hradskrif)
+- [Frumtölutalning](https://open.kattis.com/contests/pvrsc5/problems/frumtolutalning)
