@@ -768,3 +768,24 @@
 - [Nafnagift](https://open.kattis.com/contests/pvrsc5/problems/nafnagift)
 - [Hraðskrif](https://open.kattis.com/contests/pvrsc5/problems/hradskrif)
 - [Frumtölutalning](https://open.kattis.com/contests/pvrsc5/problems/frumtolutalning)
+
+## 06 Oct 2023
+
+![06.10.2023](images/20231006fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/dsxtx4) 
+
+- [Echo Echo Echo](https://open.kattis.com/contests/dsxtx4/problems/echoechoecho)
+- [Hraðgreining](https://open.kattis.com/contests/dsxtx4/problems/hradgreining)
+- [Amerískur vinnustaður](https://open.kattis.com/contests/dsxtx4/problems/ameriskur)
+- [Viðsnúningur](https://open.kattis.com/contests/dsxtx4/problems/vidsnuningur)
+- [Hvert Skal Mæta?](https://open.kattis.com/contests/dsxtx4/problems/hvertskalmaeta)
+- [Atlögur](https://open.kattis.com/contests/dsxtx4/problems/atlogur)
+- [Deildajöfnuður](https://open.kattis.com/contests/dsxtx4/problems/deildajofnudur)
+- [Majór Skýrsla](https://open.kattis.com/contests/dsxtx4/problems/majorskyrsla)
+- [Töskupökkun](https://open.kattis.com/contests/dsxtx4/problems/toskupokkun)
+- [Hittast](https://open.kattis.com/contests/dsxtx4/problems/hittast)
+- [Kaffiskömmtun](https://open.kattis.com/contests/dsxtx4/problems/kaffiskommtun)
+- [DNA](https://open.kattis.com/contests/dsxtx4/problems/dna)
+
+
