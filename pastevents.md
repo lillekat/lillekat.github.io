@@ -788,4 +788,3 @@
 - [Kaffiskömmtun](https://open.kattis.com/contests/dsxtx4/problems/kaffiskommtun)
 - [DNA](https://open.kattis.com/contests/dsxtx4/problems/dna)
 
-
