@@ -787,4 +787,3 @@
 - [Hittast](https://open.kattis.com/contests/dsxtx4/problems/hittast)
 - [Kaffiskömmtun](https://open.kattis.com/contests/dsxtx4/problems/kaffiskommtun)
 - [DNA](https://open.kattis.com/contests/dsxtx4/problems/dna)
-
