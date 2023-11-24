@@ -787,3 +787,22 @@
 - [Hittast](https://open.kattis.com/contests/dsxtx4/problems/hittast)
 - [Kaffiskömmtun](https://open.kattis.com/contests/dsxtx4/problems/kaffiskommtun)
 - [DNA](https://open.kattis.com/contests/dsxtx4/problems/dna)
+
+## 24 Nov 2023
+
+![24.11.2023](images/20231124fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/seog3x) 
+
+- [Tölvunarfræðingar telja](https://open.kattis.com/contests/seog3x/problems/tolvunarfraedingartelja)
+- [Millifærsla](https://open.kattis.com/contests/seog3x/problems/millifaersla)
+- [Flatbökuveisla](https://open.kattis.com/contests/seog3x/problems/flatbokuveisla)
+- [Attendance](https://open.kattis.com/contests/seog3x/problems/attendance)
+- [Guess Who](https://open.kattis.com/contests/seog3x/problems/guesswho)
+- [Anti-Palindrome](https://open.kattis.com/contests/seog3x/problems/antipalindrome)
+- [Don't Be Fake](https://open.kattis.com/contests/seog3x/problems/dontbefake)
+- [Modified Gray Code](https://open.kattis.com/contests/seog3x/problems/modifiedgraycode)
+- [Gas Station](https://open.kattis.com/contests/seog3x/problems/gasstation)
+- [A Complex Problem](https://open.kattis.com/contests/seog3x/problems/acomplexproblem)
+- [Add or Multiply](https://open.kattis.com/contests/seog3x/problems/addormultiply)
+
