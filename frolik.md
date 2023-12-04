@@ -38,7 +38,7 @@ Team selection and coaching for NWERC is done by FroLiK.
 ## [Advent of Code](https://adventofcode.com)
 
 AoC is a world-wide daily _julekalender_ in December; ITU participants maintain 
-* a shared leaderboard (code 968368-7136f90c) and 
+* a shared leaderboard (code 968368-95cb0c63) and 
 * an [Advent of Code channel on ITU Teams](https://teams.microsoft.com/l/channel/19%3a35ac58a2e8344a80b326c01f3fab6ded%40thread.tacv2/Advent%2520of%2520Code?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) to talk about today’s problem. 
 
 Quite difficult on some days.
