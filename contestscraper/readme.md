@@ -7,7 +7,7 @@ pip3 install BeautifulSoup4
 pip3 install requests
 ```
 
-Then run the script and enter the full url of the contest in question. Make sure you're using the URL from 
+Then run the script and enter the full url of the contest in question. See example below
 
 ```
 python3 scraper.py
