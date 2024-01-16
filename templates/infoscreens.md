@@ -1,2 +1,0 @@
-# Templates for info-screens
-

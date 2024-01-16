@@ -4,7 +4,7 @@
 
 ### 7 Feb 2020
 
-![2020 FEB 07](images/20200207.jpg)
+![2020 FEB 07](images/2020/20200207.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/ncvy89)
 
@@ -21,7 +21,7 @@
 
 ### 6 Mar 2020
 
-![6 Mar 2020](images/20200306.jpg)
+![6 Mar 2020](images/2020/20200306.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/j6b33t)
 
@@ -36,7 +36,7 @@
 
 ### 27 Mar 2020
 
-![27 Mar 2020](images/20200327.jpg)
+![27 Mar 2020](images/2020/20200327.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/oj3c3u)
 
@@ -50,7 +50,7 @@
 
 ### 24 Apr 2020
 
-![24 Apr 2020](images/20200424.jpg)
+![24 Apr 2020](images/2020/20200424.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/bwarvf)
 
@@ -66,7 +66,7 @@
 
 ### 4 Sep 2020
 
-![4 Sep 2020](images/20200904.jpg)
+![4 Sep 2020](images/2020/20200904.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/mhyj7h)
 
@@ -85,7 +85,7 @@
 
 ### 18 Sep 2020
 
-![18 Sep 2020](images/20200918.jpg)
+![18 Sep 2020](images/2020/20200918.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/dbup4b)
 
@@ -103,7 +103,7 @@
 
 ### 2 Oct 2020
 
-![2 Oct 2020](images/20201002.jpg)
+![2 Oct 2020](images/2020/20201002.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/g6grqf)
 
@@ -120,7 +120,7 @@
 
 ### 30 Oct 2020
 
-![30 Oct 2020](images/20201030.jpg)
+![30 Oct 2020](images/2020/20201030.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/zpsg5t)
 
@@ -156,7 +156,7 @@
 
 ### 13 Nov 2020
 
-![13 Nov 2020](images/20201113.jpg)
+![13 Nov 2020](images/2020/20201113.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/n5c57y)
 
@@ -172,7 +172,7 @@
 
 ### 27 Nov 2020
 
-![27 Nov 2020](images/20201127.png)
+![27 Nov 2020](images/2020/20201127.png)
 
 [*Kattis event*](https://open.kattis.com/contests/jebstc/)
 
@@ -193,7 +193,7 @@
 
 ### 12 Feb 2021
 
-![12 feb 2021](images/20210212.png)
+![12 feb 2021](images/2021/20210212.png)
 
 [*Kattis event*](https://open.kattis.com/contests/acv2uq)
 
@@ -212,7 +212,7 @@
 
 ### 26 Feb 2021
 
-![26 feb 2021](images/20210226.png)
+![26 feb 2021](images/2021/20210226.png)
 
 [*Kattis event*](https://open.kattis.com/contests/ebyjzj)
 
@@ -232,7 +232,7 @@
 
 ## 12 Mar 2021
 
-![12 mar 2021](images/20210312.jpg)
+![12 mar 2021](images/2021/20210312.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/gp2uo8)
 
@@ -249,7 +249,7 @@
 
 ## 26 Mar 2021
 
-![26 mar 2021](images/20210326.png)
+![26 mar 2021](images/2021/20210326.png)
 
 [*Kattis event*](https://open.kattis.com/contests/rxd4tt)
 
@@ -266,7 +266,7 @@
 
 ## 9 Apr 2021
 
-![9 apr 2021](images/20210409.png)
+![9 apr 2021](images/2021/20210409.png)
 
 [*Kattis event*](https://open.kattis.com/contests/edxm23)
 
@@ -287,7 +287,7 @@
 
 ## 7 May 2021
 
-![7 may 2021](images/20210507.png)
+![7 may 2021](images/2021/20210507.png)
 
 [*Kattis event*](https://open.kattis.com/contests/vxp2yh)
 
@@ -305,7 +305,7 @@
 
 ## 10 September 2021
 
-![10 september 2021](images/20210910.png)
+![10 september 2021](images/2021/20210910.png)
 
 [*Kattis event*](https://open.kattis.com/contests/wnc9sa)
 
@@ -321,7 +321,7 @@
 
 ## 24 September 2021
 
-![24 september 2021](images/20210924.png)
+![24 september 2021](images/2021/20210924.png)
 
 [*Kattis event*](https://open.kattis.com/contests/ckdb8z)
 
@@ -337,7 +337,7 @@
 
 ## 8 October 2021
 
-![8 October 2021](images/20211008.png)
+![8 October 2021](images/2021/20211008.png)
 
 [*Kattis event*](https://open.kattis.com/contests/msvksy)
 > Note that the event simply uses the problems from NCPC 2017
@@ -388,7 +388,7 @@
 
 ## 26 Nov 2021
 
-![26 November 2021](images/20211126.png)
+![26 November 2021](images/2021/20211126.png)
 
 [*Kattis event*](https://open.kattis.com/contests/g5r8pu)
 
@@ -407,7 +407,7 @@
 
 ## 10 Dec 2021
 
-![10 December 2021](images/20211210.png)
+![10 December 2021](images/2021/20211210.png)
 
 
 [*Kattis event*](https://open.kattis.com/contests/qtqoc4/)
@@ -426,7 +426,7 @@
 
 ## 11 Feb 2022
 
-![11 Februar 2022](images/20220211fb.png)
+![11 Februar 2022](images/2022/20220211fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/xagu76) 
 
@@ -445,7 +445,7 @@
 
 ## 25 Feb 2022
 
-![25 Februar 2022](images/20220225fb.png)
+![25 Februar 2022](images/2022/20220225fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/rspo2h) 
 
@@ -460,7 +460,7 @@
 
 ## 11 Mar 2022
 
-![11 March 2022](images/20220311fb.png)
+![11 March 2022](images/2022/20220311fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/fc9wgt) 
 
@@ -479,7 +479,7 @@
 
 ## 25 Mar 2022
 
-![25 Mar 2022](images/20220325fb.png)
+![25 Mar 2022](images/2022/20220325fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/radfdp) 
 
@@ -501,7 +501,7 @@
 
 ## 06 May 2022
 
-![06 May 2022](images/20220506fb.png)
+![06 May 2022](images/2022/20220506fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/sqdq7r) 
 
@@ -520,7 +520,7 @@
 
 ## 09 Sep 2022
 
-![09 Sep 2022](images/20220909fb.png)
+![09 Sep 2022](images/2022/20220909fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/h3zkgt)
 
@@ -540,7 +540,7 @@
 
 ## 23 Sep 2022
 
-![23 Sep 2022](images/20220923fb.png)
+![23 Sep 2022](images/2022/20220923fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/hviosv)
 
@@ -564,7 +564,7 @@
 
 ## 7 Oct 2022
 
-![07.10.2022](images/20221007fb.png)
+![07.10.2022](images/2022/20221007fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/vrszoe)
 
@@ -585,7 +585,7 @@
 
 ## 28 Oct 2022
 
-![28.10.2022](images/20221028fb.png)
+![28.10.2022](images/2022/20221028fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/pdimvb)
 
@@ -623,7 +623,7 @@
 
 ## 10 Feb 2023
 
-![10.02.2023](images/20230210fb.png)
+![10.02.2023](images/2023/20230210fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/ymferh)
 
@@ -645,7 +645,7 @@
 - 
 ## 24 Feb 2023
 
-![24.02.2023](images/20230224fb.png)
+![24.02.2023](images/2023/20230224fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/tacyp6) 
 
@@ -663,7 +663,7 @@
 
 ## 10 Mar 2023
 
-![10.03.2023](images/20230310fb.png)
+![10.03.2023](images/2023/20230310fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/wtrjwe)
 
@@ -685,7 +685,7 @@
 
 ## 24 Mar 2023
 
-![24.03.2023](images/20230324fb.png)
+![24.03.2023](images/2023/20230324fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/k2p4ws)
 
@@ -707,7 +707,7 @@
 
 ## 12 May 2023
 
-![12.05.2023](images/20230512fb.png)
+![12.05.2023](images/2023/20230512fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/kxbd2s)
 
@@ -731,7 +731,7 @@
 
 ## 08 Sep 2023
 
-![08.09.2023](images/20230908fb.png)
+![08.09.2023](images/2023/20230908fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/p3d3fe) 
 
@@ -751,7 +751,7 @@
 
 ## 22 Sep 2023
 
-![22.09.2023](images/20230922fb.png)
+![22.09.2023](images/2023/20230922fb.png)
 
 
 [*Kattis event*](https://open.kattis.com/contests/pvrsc5) 
@@ -771,7 +771,7 @@
 
 ## 06 Oct 2023
 
-![06.10.2023](images/20231006fb.png)
+![06.10.2023](images/2023/20231006fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/dsxtx4) 
 
@@ -790,7 +790,7 @@
 
 ## 24 Nov 2023
 
-![24.11.2023](images/20231124fb.png)
+![24.11.2023](images/2023/20231124fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/seog3x) 
 
