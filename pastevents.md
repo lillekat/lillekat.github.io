@@ -806,3 +806,21 @@
 - [A Complex Problem](https://open.kattis.com/contests/seog3x/problems/acomplexproblem)
 - [Add or Multiply](https://open.kattis.com/contests/seog3x/problems/addormultiply)
 
+## 08 Dec 2023
+
+![08.12.2023](images/2023/20231208fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/cihtfc) 
+
+- [Á leið í bíó](https://open.kattis.com/contests/cihtfc/problems/aleidibio)
+- [Óvissa](https://open.kattis.com/contests/cihtfc/problems/ovissa)
+- [Kiki Boba](https://open.kattis.com/contests/cihtfc/problems/kikiboba)
+- [Prjónamynstur](https://open.kattis.com/contests/cihtfc/problems/prjonamynstur)
+- [Ekki dauði opna inni](https://open.kattis.com/contests/cihtfc/problems/ekkidaudi)
+- [ASCII kassi](https://open.kattis.com/contests/cihtfc/problems/asciikassi)
+- [Island Alliances](https://open.kattis.com/contests/cihtfc/problems/islandalliances)
+- [A Pivotal Question](https://open.kattis.com/contests/cihtfc/problems/apivotalquestion)
+- [Negative Graph](https://open.kattis.com/contests/cihtfc/problems/negativegraph)
+- [Candy](https://open.kattis.com/contests/cihtfc/problems/candy)
+- [ChatNOI](https://open.kattis.com/contests/cihtfc/problems/chatnoi)
+- [A Tree and Two Edges](https://open.kattis.com/contests/cihtfc/problems/atreeandtwoedges)
