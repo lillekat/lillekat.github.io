@@ -32,12 +32,12 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 - **Plan**
   - Du vælger datoerne med 2 ugers mellemrum (hvis muligt).
     - vær obs på ferier og itu LAN.
+    - Skriv i Organisation kanalen i Teams og få GO for datoer fra Thore
   - Skriv til Facilities Management (FM) for at booke borde
     - fm@itu.dk
   - **Reservér Thore** 
     - Lav et møde på teams og inviter Thore
   - Lav billeder i FIGMA
-  - Skriv i Organisation kanalen i Teams
 - **Penge**
   - Check budget fra CS afdeling (Peter Sestoft)
   - 2023 var budgettet 20.000
