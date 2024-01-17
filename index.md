@@ -17,7 +17,9 @@ Lille Kat takes place on various Fridays throughout the semester. A session last
 
 ### Upcoming events
 
-The dates for Lille Kat during this spring semester will be announced here on this website soon. To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU).
+The dates for Lille Kat during this spring semester will be announced here on this website soon. 
+
+To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU).
 
 [Past Lille Kat events](pastevents.md)
 
@@ -50,9 +52,11 @@ Ask questions and join the conversation at the [Lille Kat channel on ITU’s Tea
 
 The people behind Lille Kat are
 
-- Rakul Maria Hjalmarsdóttir Tórgarð (organizer)
+- Felicia Violeta Sørensen (organizer)
 - Thore Husfeldt (chair of problem committee)
 - Troels Lund
 - Martin Aumüller
 
 The [Friends of Lille Kat](/frolik.html) arrange many related events.
+
+testigen
