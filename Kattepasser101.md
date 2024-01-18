@@ -46,7 +46,8 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 ### Sponsorer
 
 - Novo Nordisk Hub, hoster hele eventet
-  - Anna Juan Viderø: avid@itu.dk
+  - Chiara Calio: hcrc@novonordisk.com
+
 - PROSA, godt til små summer
   - Amanda Christiansen: ach@prosa.dk
 - DDSA
