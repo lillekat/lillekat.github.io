@@ -58,5 +58,3 @@ The people behind Lille Kat are
 - Martin Aumüller
 
 The [Friends of Lille Kat](/frolik.html) arrange many related events.
-
-testigen
