@@ -25,6 +25,7 @@ For Spring 2024, Lille Kat happens on the following Fridays through the Spring s
 * 15 March 2024, 16-19 - Lille Kat 2024:03.
 * 5 April 2024, 16-19 - Lille Kat 2024:04.
 * 19 April 2024, 16-19 - Lille Kat joins D-Pop.
+* 3 May 2024, 16-19 - Lille Kat 2024:05. 
 
 
 To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU).
