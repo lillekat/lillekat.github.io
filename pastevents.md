@@ -824,3 +824,20 @@
 - [Candy](https://open.kattis.com/contests/cihtfc/problems/candy)
 - [ChatNOI](https://open.kattis.com/contests/cihtfc/problems/chatnoi)
 - [A Tree and Two Edges](https://open.kattis.com/contests/cihtfc/problems/atreeandtwoedges)
+
+## 09 February 2024
+
+![09.02.2024](images/2024/09.02.2024fb.png)
+[*Kattis Event*](https://open.kattis.com/contests/ygc556) 
+
+- [Echo Echo Echo](https://open.kattis.com/contests/ygc556/problems/echoechoecho)
+- [Add Two Numbers](https://open.kattis.com/contests/ygc556/problems/addtwonumbers)
+- [Sort Two Numbers](https://open.kattis.com/contests/ygc556/problems/sorttwonumbers)
+- [Reduplication](https://open.kattis.com/contests/ygc556/problems/reduplikation)
+- [Lost Lineup](https://open.kattis.com/contests/ygc556/problems/lostlineup)
+- [Graduation](https://open.kattis.com/contests/ygc556/problems/skolavslutningen)
+- [Message](https://open.kattis.com/contests/ygc556/problems/meddelande)
+- [Three in a Row](https://open.kattis.com/contests/ygc556/problems/treirad)
+- [Cutting Proteins](https://open.kattis.com/contests/ygc556/problems/klippaprotein)
+- [Pickle Clicker](https://open.kattis.com/contests/ygc556/problems/pickleclicker)
+- [Cristian's Piano](https://open.kattis.com/contests/ygc556/problems/pianot)
