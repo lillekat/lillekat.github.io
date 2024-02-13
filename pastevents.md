@@ -136,7 +136,7 @@
 
 ### 7 Nov 2020
 
-![NCPC 2020](images/NCPC-2020-1920x1080px.jpg)
+![NCPC 2020](images/NCPC/NCPC-2020-1920x1080px.jpg)
 
 [Nordic Collegiate Programming Championships at ITU](ncpc2020.md).
 
@@ -828,6 +828,7 @@
 ## 09 February 2024
 
 ![09.02.2024](images/2024/09.02.2024fb.png)
+
 [*Kattis Event*](https://open.kattis.com/contests/ygc556) 
 
 - [Echo Echo Echo](https://open.kattis.com/contests/ygc556/problems/echoechoecho)
