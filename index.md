@@ -20,7 +20,6 @@ A session typically lasts from 16:00 to 19:00; but you can show up or leave at a
 
 For Spring 2024, Lille Kat happens on the following Fridays through the Spring semester:
 
-* 9 February 2024, 16–19 - Lille Kat 2024:01. [Kattis event](https://open.kattis.com/contests/ygc556).
 * 23 February 2024, 16-19 - Lille Kat 2024:02.
 * 15 March 2024, 16-19 - Lille Kat 2024:03.
 * 5 April 2024, 16-19 - Lille Kat 2024:04.
