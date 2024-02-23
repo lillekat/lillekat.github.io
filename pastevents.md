@@ -842,3 +842,21 @@
 - [Cutting Proteins](https://open.kattis.com/contests/ygc556/problems/klippaprotein)
 - [Pickle Clicker](https://open.kattis.com/contests/ygc556/problems/pickleclicker)
 - [Cristian's Piano](https://open.kattis.com/contests/ygc556/problems/pianot)
+
+## 23 February 2024
+
+![23.02.2024](images/2024/23.02.2024fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/ock4c2) 
+
+- [Bitte ein Bit](https://open.kattis.com/contests/ock4c2/problems/bitteeinbit)
+- [Shandy](https://open.kattis.com/contests/ock4c2/problems/shandy)
+- [Kiki Boba](https://open.kattis.com/contests/ock4c2/problems/kikiboba)
+- [Bracket Matching](https://open.kattis.com/contests/ock4c2/problems/bracketmatching)
+- [Illuminated City](https://open.kattis.com/contests/ock4c2/problems/stadiljus)
+- [Map of Sweden](https://open.kattis.com/contests/ock4c2/problems/sverigekartan)
+- [Join Strings](https://open.kattis.com/contests/ock4c2/problems/joinstrings)
+- [Segment Monitoring](https://open.kattis.com/contests/ock4c2/problems/segmentovervakning)
+- [Fake Snowflake](https://open.kattis.com/contests/ock4c2/problems/falskflinga)
+- [Trafikverket's Plan](https://open.kattis.com/contests/ock4c2/problems/trafikverketsplan)
+- [Fire Hydrant](https://open.kattis.com/contests/ock4c2/problems/brandpost)
