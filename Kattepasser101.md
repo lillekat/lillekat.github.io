@@ -18,7 +18,8 @@ Lille Kat har sider/logins på følgende platforme
   - `index.md`
   - `pastevents.md` lister alle tidligere opgaver (Både fra lk, ncpc, og wcfd)
   - andre sider kan tilføjes løbende ved at tilføje flere .md filer, men det tager ofte et par minutter for github at oprette/opdatere dem
-- Teams
+- Teams:
+  - gør til medejer på Lille Kat-kanalen   
 - Facebook
 - ~~Discord~~
   - ~~Blev brugt til Lockdown Lille Kat~~
