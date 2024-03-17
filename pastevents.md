@@ -860,3 +860,22 @@
 - [Fake Snowflake](https://open.kattis.com/contests/ock4c2/problems/falskflinga)
 - [Trafikverket's Plan](https://open.kattis.com/contests/ock4c2/problems/trafikverketsplan)
 - [Fire Hydrant](https://open.kattis.com/contests/ock4c2/problems/brandpost)
+
+
+## 23 February 2024
+
+![23.02.2024](images/2024/15.03.2024fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/ukxors)
+
+- [Tölvunarfræðingar telja](https://open.kattis.com/contests/ukxors/problems/tolvunarfraedingartelja)
+- [Flatbökuveisla](https://open.kattis.com/contests/ukxors/problems/flatbokuveisla)
+- [Champernowne Verification](https://open.kattis.com/contests/ukxors/problems/champernowneverification)
+- [Tag](https://open.kattis.com/contests/ukxors/problems/jage)
+- [Getting Gold](https://open.kattis.com/contests/ukxors/problems/gold)
+- [Faulty Robot](https://open.kattis.com/contests/ukxors/problems/faultyrobot)
+- [Pick up sticks](https://open.kattis.com/contests/ukxors/problems/pickupsticks)
+- [A Cappella Recording](https://open.kattis.com/contests/ukxors/problems/acappellarecording)
+- [ABC String](https://open.kattis.com/contests/ukxors/problems/abcstring)
+- [Candy Factory](https://open.kattis.com/contests/ukxors/problems/candyfactory)
+- [Avalanche](https://open.kattis.com/contests/ukxors/problems/laviner)
