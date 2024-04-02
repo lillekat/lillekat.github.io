@@ -862,9 +862,9 @@
 - [Fire Hydrant](https://open.kattis.com/contests/ock4c2/problems/brandpost)
 
 
-## 23 February 2024
+## 15 March 2024
 
-![23.02.2024](images/2024/15.03.2024fb.png)
+![15.03.2024](images/2024/15.03.2024fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/ukxors)
 

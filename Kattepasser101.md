@@ -6,6 +6,8 @@ En Kattepasser kan passe på Lille Kat lige som de selv vil, men her er et par r
 
 - [ ] ibistic: skriv til finance@itu.dk
 - [ ] mtime: skriv til mtime@itu.dk
+- få adgang til kontor (der hvor Lille Kat tingene står) efter klokken 19
+  - få Thore til at skrive til FM 
 - Efter 1. event
   - [ ] scraper
   - [ ] ibistic
