@@ -879,3 +879,21 @@
 - [ABC String](https://open.kattis.com/contests/ukxors/problems/abcstring)
 - [Candy Factory](https://open.kattis.com/contests/ukxors/problems/candyfactory)
 - [Avalanche](https://open.kattis.com/contests/ukxors/problems/laviner)
+
+
+## 5 April 2024
+
+![05.04.2024](images/2024/05.04.2024fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/eipbxq)
+
+- [Keys, Phone, Wallet](https://open.kattis.com/contests/eipbxq/problems/keysphonewallet)
+- [Candy Store](https://open.kattis.com/contests/eipbxq/problems/candystore)
+- [Pencil Crayons](https://open.kattis.com/contests/eipbxq/problems/pencilcrayons)
+- [Birthday Candles](https://open.kattis.com/contests/eipbxq/problems/birthdaycandles)
+- [Dinner Time](https://open.kattis.com/contests/eipbxq/problems/dinnertime)
+- [Triangle Trees](https://open.kattis.com/contests/eipbxq/problems/triangletrees)
+- [Rerouting Rapids](https://open.kattis.com/contests/eipbxq/problems/reroutingrapids)
+- [Evacuation](https://open.kattis.com/contests/eipbxq/problems/evacuation)
+- [Ray Chasing](https://open.kattis.com/contests/eipbxq/problems/raychasing)
+- [Lines of X](https://open.kattis.com/contests/eipbxq/problems/linesofx)

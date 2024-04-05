@@ -23,7 +23,7 @@ Lille Kat har sider/logins på følgende platforme
 - Teams:
   - gør til medejer på Lille Kat-kanalen   
 - Facebook
-- Basecamp
+- Basecamp (student council hjemmesiden)
 - ~~Discord~~
   - ~~Blev brugt til Lockdown Lille Kat~~
 - Advent of Code
