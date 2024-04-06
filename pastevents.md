@@ -355,7 +355,7 @@
 
 ## 9 October 2021
 
-![NCPC 2021](images/NCPC-2021-1920x1080px.jpg)
+![NCPC 2021](images/NCPC/NCPC-2021-1920x1080px.jpg)
 
 [*Kattis event*](https://ncpc21.kattis.com/standings)
 
@@ -607,8 +607,6 @@
 
 ## 11 Nov 2022
 
-![11.11.2022](images/WCFD_material/WCFD_ReadIT2022.png)
-
 [*Kattis event*](https://wcfd22.kattis.com/contests/wcfd22)
 
 - [alcoholfreealternative](https://open.kattis.com/problems/wcfd22.alcoholfreealternative)
@@ -620,6 +618,8 @@
 - [ginfizz](https://open.kattis.com/problems/wcfd22.ginfizz)
 - [hairofthedog](https://open.kattis.com/problems/wcfd22.hairofthedog)
 - [incrediblebartender](https://open.kattis.com/problems/wcfd22.incrediblebartender)
+
+# 2023
 
 ## 10 Feb 2023
 
@@ -681,7 +681,6 @@
 - [Chocolate Chip Fabrication](https://open.kattis.com/contests/wtrjwe/problems/chocolatechipfabrication)
 - [Bog of Eternal Stench](https://open.kattis.com/contests/wtrjwe/problems/bogofeternalstench)
 - [Funny Games](https://open.kattis.com/contests/wtrjwe/problems/funnygames)
-
 
 ## 24 Mar 2023
 
@@ -825,6 +824,8 @@
 - [ChatNOI](https://open.kattis.com/contests/cihtfc/problems/chatnoi)
 - [A Tree and Two Edges](https://open.kattis.com/contests/cihtfc/problems/atreeandtwoedges)
 
+# 2024
+
 ## 09 February 2024
 
 ![09.02.2024](images/2024/09.02.2024fb.png)
@@ -861,7 +862,6 @@
 - [Trafikverket's Plan](https://open.kattis.com/contests/ock4c2/problems/trafikverketsplan)
 - [Fire Hydrant](https://open.kattis.com/contests/ock4c2/problems/brandpost)
 
-
 ## 15 March 2024
 
 ![15.03.2024](images/2024/15.03.2024fb.png)
@@ -879,7 +879,6 @@
 - [ABC String](https://open.kattis.com/contests/ukxors/problems/abcstring)
 - [Candy Factory](https://open.kattis.com/contests/ukxors/problems/candyfactory)
 - [Avalanche](https://open.kattis.com/contests/ukxors/problems/laviner)
-
 
 ## 5 April 2024
 
