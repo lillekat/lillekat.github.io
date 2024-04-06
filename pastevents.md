@@ -642,7 +642,7 @@
 - [Last Guess](https://open.kattis.com/contests/ymferh/problems/lastguess)
 - [Faster Than Light](https://open.kattis.com/contests/ymferh/problems/fasterthanlight)
 - [ETA](https://open.kattis.com/contests/ymferh/problems/eta)
-- 
+
 ## 24 Feb 2023
 
 ![24.02.2023](images/2023/20230224fb.png)
