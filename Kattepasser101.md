@@ -46,6 +46,8 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
   - Check budget fra CS afdeling (Peter Sestoft)
   - 2023 var budgettet 20.000
   - Tag gerne fat i sponsorer
+- **Basecamp**
+  - når datoerne og posters er blevet lavet opret events på basecamp (student coucil website) 
 
 ### Sponsorer
 

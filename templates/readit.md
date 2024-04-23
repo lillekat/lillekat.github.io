@@ -68,7 +68,7 @@ Join us on Friday, Febuary 25 from 16:00-19:00 by the 2nd floor atrium tables.
 Time for the Lille Kat semester finale
 Come join the semester finale of Lille Kat. We will be ready with nice warm pizza and a delightful selection of problems. 
 
-The exam preparations are always tough, so take a well deserved break with your friends, some good snacks and pizza.
+The exam preparations are always tough, so take a well-deserved break with your friends, some good snacks, and pizza.
 
 ---
 
