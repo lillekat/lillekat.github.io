@@ -896,3 +896,25 @@
 - [Evacuation](https://open.kattis.com/contests/eipbxq/problems/evacuation)
 - [Ray Chasing](https://open.kattis.com/contests/eipbxq/problems/raychasing)
 - [Lines of X](https://open.kattis.com/contests/eipbxq/problems/linesofx)
+
+## 3 May 2024
+
+![03.05.2024](images/2024/03.05.2024fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/uqi4p2) 
+
+- [Hipp Hipp](https://open.kattis.com/contests/uqi4p2/problems/hipphipp)
+- [Stórafmæli](https://open.kattis.com/contests/uqi4p2/problems/storafmaeli)
+- [Besta gjöfin](https://open.kattis.com/contests/uqi4p2/problems/bestagjofin)
+- [Raðgreining 1](https://open.kattis.com/contests/uqi4p2/problems/radgreining1)
+- [Peningar](https://open.kattis.com/contests/uqi4p2/problems/peningar)
+- [Bergur](https://open.kattis.com/contests/uqi4p2/problems/bergur)
+- [Veggja Kalli](https://open.kattis.com/contests/uqi4p2/problems/veggjakalli)
+- [Gini Stuðull](https://open.kattis.com/contests/uqi4p2/problems/ginistudull)
+- [Leiðangur](https://open.kattis.com/contests/uqi4p2/problems/leidangur)
+- [Terraces](https://open.kattis.com/contests/uqi4p2/problems/terraces)
+- [A Feast For Cats](https://open.kattis.com/contests/uqi4p2/problems/cats)
+- [Raðgreining 2](https://open.kattis.com/contests/uqi4p2/problems/radgreining2)
+- [Fibonacci Gjöf](https://open.kattis.com/contests/uqi4p2/problems/fibonaccigjof)
+
+
