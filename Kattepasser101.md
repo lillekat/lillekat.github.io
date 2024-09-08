@@ -61,6 +61,11 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
   - ksm@jobindex.dk
   - Står for forplejning til DTU's Lille Kat
 
+#### DDSA Grant
+- post events on DDSA website 
+- save documentation for all payments made (excel sheet)
+- send out participant evaluation at the last event 29 November 
+
 ## Fra gang til gang
 
 ### 2 uger før
