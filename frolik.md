@@ -17,7 +17,7 @@ NCPC is the first step on a series of events culminating in the ICPC world final
 
 NCPC is five hours of programming in teams of three, registration required (to be announced at the NCPC website). The problem quality is extremely high; the easiest problems are like easy Lille Kat, the atmosphere is super, so _everybody_ should participate.
 
-* Next event: 5 October 2024, 10:00–19:00. The Copenhagen event is organised by _Netcompany_ and held at the KU Science Campus (“Nørre campus”) at Biocenter Kantine, Ole Maaløes Vej 5, 2200 København N. More information at the website for [NCPC](https://nordic.icpc.io/ncpc2023/) or [Netcompany’s page](https://netcompany.com/dm-i-programmering-2024/). 
+* Next event: 5 October 2024, 10:00–19:00. The Copenhagen event is organised by _Netcompany_ and held at the KU Science Campus (“Nørre campus”) at Biocenter Kantine, Ole Maaløes Vej 5, 2200 København N. More information at the website for [NCPC](https://nordic.icpc.io/ncpc2023/) or [Netcompany’s page](https://netcompany.com/dm/). 
 
 
 ## [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
