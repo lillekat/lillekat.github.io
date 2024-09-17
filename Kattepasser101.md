@@ -76,6 +76,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
   - Se evt. ældre begivenheder og copy-paste.
   - Billede: 1920 x 1080 px
 - **Teams**: opret teams meeting og inviter gruppen.
+      - sørg for at inviter hele team kanalen og thore 
 - **ReadIT**: Readit har en hånd deadline om **onsdagen** ugen inden ReadIT sendes ud.
   - Se evt. ældre ReadIT opslag under `templates/readit.md`
   - Billede: 1000 x 500 px
