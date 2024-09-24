@@ -22,7 +22,8 @@ For Fall 2024, Lille Kat happens on the following Fridays through the Fall semes
 
 * 20 September 2024, 16.15-18.45 - Lille Kat 2024:06. [Kattis event](https://open.kattis.com/contests/v3f9y3)
     * Introduction session to Kattis: Java: 15-16, Python: 16-17 [Introduction session](https://open.kattis.com/contests/c8usrk)
-* 27 September 2024, 16.15-18.45 - Lille Kat 2024:07. 
+* 27 September 2024, 16.15-18.45 - Lille Kat 2024:07 
+[[Kattis event](https://open.kattis.com/contests/fxfj4t)].
 * Saturday 5 October, Lille Kat joins [Nordic Collegiate Programming Contest 2024](https://nordic.icpc.io/ncpc2024/), also known as *Danmarksmesterskaberne i programmering*. Organised by Netcompany on Nørre Campus [details](https://netcompany.com/dm/). Lots of pizza, drinks, etc., registration required, deadline Wednesday 2 October 2024.
 * 11 October 2024, 16.15-18.45 - Lille Kat 2024:08.
 * 25 October 2024, 16.15-18.45 - Lille Kat 2024:09.
