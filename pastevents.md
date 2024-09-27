@@ -917,4 +917,9 @@
 - [Raðgreining 2](https://open.kattis.com/contests/uqi4p2/problems/radgreining2)
 - [Fibonacci Gjöf](https://open.kattis.com/contests/uqi4p2/problems/fibonaccigjof)
 
+## 20 September 2024
+
+![03.05.2024](images/2024/03.05.2024fb.png)
+
+
 
