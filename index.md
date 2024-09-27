@@ -1,6 +1,6 @@
 # Lille Kat
 
-Lille Kat events are held every two to three weeks on Friday afternoons at [ITU](http://www.itu.dk) and aimed at students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat is held in a friendly and relaxed environment for practicing collaborative problem solving; 
+Lille Kat events are held every 2–3 weeks on Friday afternoons at [ITU](http://www.itu.dk) and aimed at students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat is held in a friendly and relaxed environment for practicing collaborative problem solving; 
 participants are encouraged to help each other and have fun.
 
 The events aim to be fun and challenging for programmers of every skill level.
