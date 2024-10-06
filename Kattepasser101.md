@@ -83,7 +83,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
   - [Link til ReadIT](https://itustudent.itu.dk/campus-life/got-something-to-say/readit)
 - **Billboard**: Gør det gerne tidligt, det kan godt tage dem op til en uge at registrere nye opslag.
   - Lille Kat Billboard GIF til dette
-    - 1920 x 1080 px
+  - Billede: 1920 x 1080 px
   - [Link til billboard](https://itustudent.itu.dk/Campus-Life/Got-Something-to-Say/Submit-to-ITU-Billboard)
 
 ### 1 uge før / et par dage før
@@ -121,6 +121,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 
 - Nemlig.com:
   - Brug ITU's nemlig account 
+  - email: departmentsupport@itu.dk
 
 ## Andre events
 
@@ -128,6 +129,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 - NCPC & NWERC (fall semester)
 - Advent of Code (fall semester)
 - Introdagene (fall semester)
+- Annual party (fall semester) 
 
 ### Gamle events
 
