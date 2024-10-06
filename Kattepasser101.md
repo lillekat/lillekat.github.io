@@ -114,10 +114,10 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 
 *På Ibistic: "Travel/expenses document archive" = gamle udlægsrapporter du selv har oprettet, hvis du nogensinde skulle have behov for at se dem igen*
 
-- Expense settlement form for non-employees:
+- Expense settlement form for non-employees: [expense settlement form](templates/Expense_settlement_form.pdf)
   - ITU contact person: Sarah Grant 
   - Notes for ITU contact person: if DDSA grant, name the alias number
-  - remember participation list
+  - remember participation list 
 
 - Nemlig.com:
   - Brug ITU's nemlig account 
