@@ -919,7 +919,45 @@
 
 ## 20 September 2024
 
-![03.05.2024](images/2024/03.05.2024fb.png)
+![20.09.2024](images/2024/20.09.2024fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/v3f9y3)
+
+- [Hipp Hipp](https://open.kattis.com/contests/v3f9y3/problems/hipphipp)
+- [Odd Echo](https://open.kattis.com/contests/v3f9y3/problems/oddecho)
+- [Reduplication](https://open.kattis.com/contests/v3f9y3/problems/reduplikation)
+- [Eye of Sauron](https://open.kattis.com/contests/v3f9y3/problems/eyeofsauron)
+- [Farmer's Field](https://open.kattis.com/contests/v3f9y3/problems/farmersfield)
+- [Trik](https://open.kattis.com/contests/v3f9y3/problems/trik)
+- [Falling Snow](https://open.kattis.com/contests/v3f9y3/problems/fallingsnow2)
+- [Number Squistem](https://open.kattis.com/contests/v3f9y3/problems/numbersquistem)
+- [Infinite Race](https://open.kattis.com/contests/v3f9y3/problems/infiniterace2)
+- [Coloring Socks](https://open.kattis.com/contests/v3f9y3/problems/color)
+- [Map of Sweden](https://open.kattis.com/contests/v3f9y3/problems/sverigekartan)
+- [Walrus Weights](https://open.kattis.com/contests/v3f9y3/problems/walrusweights)
+- [Bouquet](https://open.kattis.com/contests/v3f9y3/problems/bouquet)
+- [Team Coding](https://open.kattis.com/contests/v3f9y3/problems/teamcoding)
+
+## 27 September 2024
+
+![27.09.2024](images/2024/27.09.2024fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/fxfj4t) 
+
+- [Leggja saman](https://open.kattis.com/contests/fxfj4t/problems/leggjasaman)
+- [Hipp Hipp Húrra](https://open.kattis.com/contests/fxfj4t/problems/hipphipphurra)
+- [Nasty Hacks](https://open.kattis.com/contests/fxfj4t/problems/nastyhacks)
+- [Jamboree](https://open.kattis.com/contests/fxfj4t/problems/jamboree)
+- [Die Hard](https://open.kattis.com/contests/fxfj4t/problems/diehard)
+- [Converting Romans](https://open.kattis.com/contests/fxfj4t/problems/convertingromans)
+- [Heroes of Velmar](https://open.kattis.com/contests/fxfj4t/problems/heroesofvelmar)
+- [Card Trick](https://open.kattis.com/contests/fxfj4t/problems/cardtrick2)
+- [Karl Coder](https://open.kattis.com/contests/fxfj4t/problems/karlcoder)
+- [Honeycomb Walk](https://open.kattis.com/contests/fxfj4t/problems/honey)
+- [Aperiodic Appointments](https://open.kattis.com/contests/fxfj4t/problems/aperiodicappointments)
+- [Factor-Full Tree](https://open.kattis.com/contests/fxfj4t/problems/factorfulltree)
+- [Electronic Components](https://open.kattis.com/contests/fxfj4t/problems/electroniccomponents)
+- [Groups of Strangers](https://open.kattis.com/contests/fxfj4t/problems/groupsofstrangers)
 
 
 
