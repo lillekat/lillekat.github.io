@@ -959,5 +959,24 @@
 - [Electronic Components](https://open.kattis.com/contests/fxfj4t/problems/electroniccomponents)
 - [Groups of Strangers](https://open.kattis.com/contests/fxfj4t/problems/groupsofstrangers)
 
+## 11 October 2024
+
+![11.10.2024](images/2024/11.10.2024fb.png)
+
+[*Kattis event*](https://open.kattis.com/contests/preqa4) 
+
+- [Kveðja](https://open.kattis.com/contests/preqa4/problems/kvedja)
+- [Millifærsla](https://open.kattis.com/contests/preqa4/problems/millifaersla)
+- [Blaðra](https://open.kattis.com/contests/preqa4/problems/bladra)
+- [Mumble Rap](https://open.kattis.com/contests/preqa4/problems/mumblerap)
+- [Ferskasta Jarmið](https://open.kattis.com/contests/preqa4/problems/ferskastajarmid)
+- [The Clock](https://open.kattis.com/contests/preqa4/problems/klockan2)
+- [Superyatzy](https://open.kattis.com/contests/preqa4/problems/superyatzy)
+- [The Last Pizza](https://open.kattis.com/contests/preqa4/problems/sistapizzan)
+- [Duck Journey](https://open.kattis.com/contests/preqa4/problems/andvag)
+- [Circle Passing](https://open.kattis.com/contests/preqa4/problems/circlepassing)
+- [Whiteboard Space](https://open.kattis.com/contests/preqa4/problems/tavelutrymme)
+- [Whiteboard](https://open.kattis.com/contests/preqa4/problems/whiteboard)
+
 
 
