@@ -20,8 +20,6 @@ A session typically lasts from 16:00 to 19:00; but you can show up or leave at a
 
 For Fall 2024, Lille Kat happens on the following Fridays through the Fall semester:
 
-* Saturday 5 October, Lille Kat joins [Nordic Collegiate Programming Contest 2024](https://nordic.icpc.io/ncpc2024/), also known as *Danmarksmesterskaberne i programmering*. Organised by Netcompany on Nørre Campus [details](https://netcompany.com/dm/). Lots of pizza, drinks, etc., registration required, deadline Wednesday 2 October 2024.
-* 11 October 2024, 16.15-18.45 - Lille Kat 2024:08. [Kattis event](https://open.kattis.com/contests/preqa4/)
 * 25 October 2024, 16.15-18.45 - Lille Kat 2024:09.
 * 29 November 2024, 16.15-18.45 - Lille Kat 2024:10. 
 
