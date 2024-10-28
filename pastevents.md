@@ -978,5 +978,24 @@
 - [Whiteboard Space](https://open.kattis.com/contests/preqa4/problems/tavelutrymme)
 - [Whiteboard](https://open.kattis.com/contests/preqa4/problems/whiteboard)
 
+## 25 October 2024
+
+[*Kattis event*](https://open.kattis.com/contests/wmimo3) 
+
+- [Takk fyrir mig](https://open.kattis.com/contests/wmimo3/problems/takkfyrirmig)
+- [IsItHalloween.com](https://open.kattis.com/contests/wmimo3/problems/isithalloween)
+- [Digit Swap](https://open.kattis.com/contests/wmimo3/problems/digitswap)
+- [Mæting](https://open.kattis.com/contests/wmimo3/problems/maeting)
+- [Skák](https://open.kattis.com/contests/wmimo3/problems/skak)
+- [Call for Problems](https://open.kattis.com/contests/wmimo3/problems/callforproblems)
+- [Dishonest Lottery](https://open.kattis.com/contests/wmimo3/problems/dishonestlottery)
+- [Bikes and Barricades](https://open.kattis.com/contests/wmimo3/problems/bikesandbarricades)
+- [Light Up](https://open.kattis.com/contests/wmimo3/problems/lightup)
+- [Gears and Axles](https://open.kattis.com/contests/wmimo3/problems/gearsandaxles)
+- [Rhythm Flow](https://open.kattis.com/contests/wmimo3/problems/rhythmflow)
+- [Menger Sponge](https://open.kattis.com/contests/wmimo3/problems/mengersponge)
+- [Snake](https://open.kattis.com/contests/wmimo3/problems/snake)
+- [Colorful Trees](https://open.kattis.com/contests/wmimo3/problems/colorfultrees)
+
 
 
