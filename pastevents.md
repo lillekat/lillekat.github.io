@@ -997,5 +997,21 @@
 - [Snake](https://open.kattis.com/contests/wmimo3/problems/snake)
 - [Colorful Trees](https://open.kattis.com/contests/wmimo3/problems/colorfultrees)
 
+## 29 November 2024
+
+[*Kattis event*](https://open.kattis.com/contests/qwb7eb) 
+
+- [Dagatal](https://open.kattis.com/contests/qwb7eb/problems/dagatal)
+- [Count the Vowels](https://open.kattis.com/contests/qwb7eb/problems/countthevowels)
+- [Hair of the Dog](https://open.kattis.com/contests/qwb7eb/problems/hairofthedog)
+- [Gin Fizz](https://open.kattis.com/contests/qwb7eb/problems/ginfizz)
+- [Drink Menu](https://open.kattis.com/contests/qwb7eb/problems/drinkmenu)
+- [Equalizing Debt](https://open.kattis.com/contests/qwb7eb/problems/equalizingdebt)
+- [Filling Crates](https://open.kattis.com/contests/qwb7eb/problems/fillingcrates)
+- [Champagne Overflow](https://open.kattis.com/contests/qwb7eb/problems/champagneoverflow)
+- [Brainfuck](https://open.kattis.com/contests/qwb7eb/problems/brainfuck)
+- [Incredible Bartender](https://open.kattis.com/contests/qwb7eb/problems/incrediblebartender)
+- [Alcohol-Free Alternative](https://open.kattis.com/contests/qwb7eb/problems/alcoholfreealternative)
+
 
 
