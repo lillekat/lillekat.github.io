@@ -1,6 +1,7 @@
 # Lille Kat
 
-Lille Kat events are held every 2–3 weeks on Friday afternoons at [ITU](http://www.itu.dk) and aimed at students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. Lille Kat is held in a friendly and relaxed environment for practicing collaborative problem solving; 
+Lille Kat events are held every 2–3 weeks on Friday afternoons at [ITU](http://www.itu.dk) and aimed at students from all study programmes who want to spend time solving problems, improving their programming skills, and hanging out with friends. 
+Lille Kat is held in a friendly and relaxed environment for practicing collaborative problem solving; 
 participants are encouraged to help each other and have fun.
 
 The events aim to be fun and challenging for programmers of every skill level.
@@ -18,8 +19,14 @@ A session typically lasts from 16:00 to 19:00; but you can show up or leave at a
 
 ### Upcoming events
 
-For spring 2025, Lille Kat happens on the following Fridays through the spring semester:
-- TBD
+For spring 2025, Lille Kat happens on the following Fridays through the spring semester, always 16–19:
+
+* 7 February 2025
+* 21 February 2025
+* 7 March 2025
+* 21 March 2025
+* 4 April 2025 
+* 2 May 2025
 
 To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU).
 
@@ -56,7 +63,6 @@ The people behind Lille Kat are
 
 - Felicia Violeta Sørensen (organizer)
 - Thore Husfeldt (chair of problem committee)
-- Troels Lund
 - Martin Aumüller
 
 The [Friends of Lille Kat](/frolik.html) arrange many related events.
