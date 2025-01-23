@@ -15,11 +15,11 @@ There are free snacks and sodas at each event, and – depending on third-party 
 Lille Kat takes place at the 2nd floor Atrium tables in the (main) RLV building of ITU.
 There is usually a snack station on one of these tables.
 Lille Kat takes place on various Fridays throughout the semester. 
-A session typically lasts from 16:00 to 19:00; but you can show up or leave at any time.
+A session typically lasts from 16:15 to 19:00; but you can show up or leave at any time.
 
 ### Upcoming events
 
-For spring 2025, Lille Kat happens on the following Fridays through the spring semester, always 16–19:
+For spring 2025, Lille Kat happens on the following Fridays through the spring semester, always 16:15–19:
 
 * 7 February 2025. [Kattis event](https://open.kattis.com/contests/cf4n27)
 * 21 February 2025. [Kattis event](https://open.kattis.com/contests/owh5nz) 
