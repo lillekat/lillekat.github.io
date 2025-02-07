@@ -21,7 +21,8 @@ A session typically lasts from 16:15 to 19:00; but you can show up or leave at a
 
 For spring 2025, Lille Kat happens on the following Fridays through the spring semester, always 16:15–19:
 
-* 7 February 2025. [Kattis event](https://open.kattis.com/contests/cf4n27)
+* 7 February 2025. [Kattis event](https://open.kattis.com/contests/cf4n27).
+ Javascript warmup [session](https://open.kattis.com/contests/g64yxx/), [setup description](javascript-intro.md).
 * 21 February 2025. [Kattis event](https://open.kattis.com/contests/owh5nz) 
 * 7 March 2025. [Kattis event](https://open.kattis.com/contests/mr6axs)
 * 21 March 2025. [Kattis event](https://open.kattis.com/contests/t7geuo)
