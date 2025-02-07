@@ -16,10 +16,11 @@ You also need an editor to write (and save) code on your machine.
 
 Most Kattis problems ask you to write a program that transforms input (say, `2 2`) to output (say, `4`). 
 
-Output in javascript is printed using `console.log(string)`, so that’s easy
+Output in javascript is printed using `console.log(string)`, so that’s easy.
+Try to solve `hello`.
 
 
-Input is a little bit trickier in Javascript and uses some advanced topics like event hander.
+Input is a little bit trickier in Javascript and uses some advanced topics like event handlers.
 Here’s a few lines of code that abstracts away all of these higher-order concepts and just puts all of input into an array of strings:
 
 ```javascript
@@ -34,10 +35,10 @@ function solve(input) {
 }
 ```
 
+The input is now in the array of strings `input`.
 
 ### Kvedja
 
-The input is now in the array of strings `input`.
 For instance, here is a solution to 
 `open.kattis.com/problems/kvedja`:
 
@@ -58,7 +59,7 @@ function solve(input) {
 
 To solve `open.kattis.com/problems/addtwonumbers`, change the `solve` function to
 
-```
+```javascript
 function solve(input) {
     let tokens = input[0].split(" ")
     let a = parseInt(tokens[0])
@@ -77,12 +78,6 @@ The `parseInt` function turns that into an integer `3`.
 Here’s `nsum`:
 
 ```javascript
-const readline = require('readline');
-const rl = readline.createInterface({ input: process.stdin, });
-const input = []
-rl.on('line', (line) => { input.push(line); });
-rl.on('close', () => { solve(input) });
-
 function solve(input) {
   let tokens = input[1].split(" ")
   let sum = 0;
