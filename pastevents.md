@@ -1013,5 +1013,38 @@
 - [Incredible Bartender](https://open.kattis.com/contests/qwb7eb/problems/incrediblebartender)
 - [Alcohol-Free Alternative](https://open.kattis.com/contests/qwb7eb/problems/alcoholfreealternative)
 
+## 7 February 2025
 
+[*Kattis event*](https://open.kattis.com/contests/cf4n27)
 
+- [Leggja saman]()
+- [Sort Two Numbers]()
+- [Telja]()
+- [The Triangle Factory]()
+- [Barcelona]()
+- [Virus Replication]()
+- [Alien Attack 2]()
+- [Taking Out the Trash]()
+- [Kitten of Chaos]()
+- [The Wizard Theodor]()
+- [Laundry]()
+- [Theodor the Wizard]()
+
+## 21 February 2025
+
+[*Kattis event*](https://open.kattis.com/contests/owh5nz)
+
+- [Echo Echo Echo]()
+- [Add Two Numbers]()
+- [Champernowne Subsequence]()
+- [FizzBuzz]()
+- [Generalized FizzBuzz]()
+- [Threes and Fives]()
+- [Intuitive Elements]()
+- [Firefly]()
+- [Bus Assignment]()
+- [Sleeping on the Train]()
+- [Big Integers]()
+- [Auto-Coin-o-Matic]()
+- [Big Factoring]()
+- [Danish]()
