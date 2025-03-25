@@ -1067,3 +1067,20 @@
 - [Homework Help](https://open.kattis.com/contests/mr6axs/problems/homeworkhelp)
 - [Nested Dolls](https://open.kattis.com/contests/mr6axs/problems/nesteddolls)
 - [Tic Tac Toe](https://open.kattis.com/contests/mr6axs/problems/tictactoe)
+
+## 21 March 2025
+
+[*Kattis event*](https://open.kattis.com/contests/t7geuo)
+
+- [Simon Says](https://open.kattis.com/contests/t7geuo/problems/simonsays)
+- [Is Y a Vowel?](https://open.kattis.com/contests/t7geuo/problems/isyavowel)
+- [Aldur](https://open.kattis.com/contests/t7geuo/problems/aldur)
+- [Fimmtudagstilboð](https://open.kattis.com/contests/t7geuo/problems/fimmtudagstilbod)
+- [Completing the Square](https://open.kattis.com/contests/t7geuo/problems/completingthesquare)
+- [Memory Match](https://open.kattis.com/contests/t7geuo/problems/memorymatch)
+- [Block Game](https://open.kattis.com/contests/t7geuo/problems/blockgame2)
+- [Hopscotch](https://open.kattis.com/contests/t7geuo/problems/hopscotch)
+- [Rock Band](https://open.kattis.com/contests/t7geuo/problems/rockband)
+- [Chess Tournament](https://open.kattis.com/contests/t7geuo/problems/chesstournament)
+- [Dominos](https://open.kattis.com/contests/t7geuo/problems/dominos)
+- [Translators' Dinner](https://open.kattis.com/contests/t7geuo/problems/translatorsdinner)
