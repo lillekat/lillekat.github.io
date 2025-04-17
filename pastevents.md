@@ -1084,3 +1084,22 @@
 - [Chess Tournament](https://open.kattis.com/contests/t7geuo/problems/chesstournament)
 - [Dominos](https://open.kattis.com/contests/t7geuo/problems/dominos)
 - [Translators' Dinner](https://open.kattis.com/contests/t7geuo/problems/translatorsdinner)
+
+## 04 April 2025
+
+[*Kattis event*](https://open.kattis.com/contests/hoe2ak)
+
+-[Draga Frá](https://open.kattis.com/contests/hoe2ak/problems/dragafra)
+-[Decimal deletion](https://open.kattis.com/contests/hoe2ak/problems/decimaldeletion)
+-[Baby Bites](https://open.kattis.com/contests/hoe2ak/problems/babybites)
+-[Translation](https://open.kattis.com/contests/hoe2ak/problems/translation)
+-[Revision Control](https://open.kattis.com/contests/hoe2ak/problems/revisionskontroll)
+-[Hanging Out on the Terrace](https://open.kattis.com/contests/hoe2ak/problems/hangingout)
+-[Not Amused](https://open.kattis.com/contests/hoe2ak/problems/notamused)
+-[Connectedness](https://open.kattis.com/contests/hoe2ak/problems/connectedness)
+-[Block Crusher](https://open.kattis.com/contests/hoe2ak/problems/blockcrusher)
+-[Cuckoo Hashing](https://open.kattis.com/contests/hoe2ak/problems/cuckoo)
+-[Discoveries](https://open.kattis.com/contests/hoe2ak/problems/discoveries)
+-[Up and Down](https://open.kattis.com/contests/hoe2ak/problems/upanddown)
+-[Intelligence Infection](https://open.kattis.com/contests/hoe2ak/problems/intelligenceinfection)
+-[Knight's Marathon](https://open.kattis.com/contests/hoe2ak/problems/knightsmarathon)
