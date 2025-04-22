@@ -62,7 +62,7 @@ Ask questions and join the conversation at the [Lille Kat channel on ITU’s Tea
 
 The people behind Lille Kat are
 
-- Felicia Violeta Sørensen (organizer)
+- Sigrid Lind (organizer)
 - Thore Husfeldt (chair of problem committee)
 - Martin Aumüller
 
