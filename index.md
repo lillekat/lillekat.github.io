@@ -19,17 +19,10 @@ A session typically lasts from 16:15 to 19:00; but you can show up or leave at a
 
 ### Upcoming events
 
-For spring 2025, Lille Kat happens on the following Fridays through the spring semester, always 16:15–19:
+Lille Kat will return in the autumn semester!
+We haven't picked the exact dates yet, but the events will take place on Fridays during the semester, always 16:15–19.
 
-* 7 February 2025. [Kattis event](https://open.kattis.com/contests/cf4n27).
- Javascript warmup [session](https://open.kattis.com/contests/g64yxx/), [setup description](javascript-intro.md).
-* 21 February 2025. [Kattis event](https://open.kattis.com/contests/owh5nz) 
-* 7 March 2025. [Kattis event](https://open.kattis.com/contests/mr6axs)
-* 21 March 2025. [Kattis event](https://open.kattis.com/contests/t7geuo)
-* 4 April 2025. [Kattis event](https://open.kattis.com/contests/hoe2ak)
-* 2 May 2025. [Kattis event](https://open.kattis.com/contests/rddudb)
-
-To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) or follow our [facebook site](https://www.facebook.com/LilleKatITU).
+To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb).
 
 [Past Lille Kat events](pastevents.md)
 
