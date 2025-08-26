@@ -17,7 +17,7 @@ NCPC is the first step on a series of events culminating in the ICPC world final
 
 NCPC is five hours of programming in teams of three, registration required (to be announced at the NCPC website). The problem quality is extremely high; the easiest problems are like easy Lille Kat, the atmosphere is super, so _everybody_ should participate.
 
-* Next event: 5 October 2024, 10:00–19:00. The Copenhagen event is organised by _Netcompany_ and held at the KU Science Campus (“Nørre campus”) at Biocenter Kantine, Ole Maaløes Vej 5, 2200 København N. More information at the website for [NCPC](https://nordic.icpc.io/ncpc2023/) or [Netcompany’s page](https://netcompany.com/dm/). 
+* Next event: 4 October 2025, 10:00–19:00. The Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held at ITU, in the Atrium; students from all IT educations in Copenhagen are welcome. More information and registration at the website for [NCPC](https://nordic.icpc.io/ncpc2025/). Registration is open since 26 August 2025.
 
 
 ## [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
@@ -25,14 +25,14 @@ NCPC is five hours of programming in teams of three, registration required (to b
 Held in the ITU Scrollbar, typically in November. Difficulty comparable to Lille Kat; but even more focussed on having fun. By now, one of the largest programming events in Scandinavia.
 Atmosphere is crazy. 
 
-* Next event is planned for 10 November 2023 in the ITU Scrollbar.
+* Next event is planned for 14 November 2025 in the ITU Scrollbar.
 
 ## [NWERC –  Northwestern European Regional Contest](https://nwerc.eu)
 
 NWERC is a highly competitive annual event – the next next step above NCPC, and a qualifier for the World finals.
 ITU typically sponsors two or three teams to participate (travel and lodgings).
 
-* Next event: 24–26 November 2023, Delft, Netherlands.
+* Next event: 28–30 November 2025, Karlsruhe, Germany. Web page: [NWERC 2025](https://2025.nwerc.eu)
 
 Team selection and coaching for NWERC is done by FroLiK.
 
@@ -42,5 +42,5 @@ AoC is a world-wide daily _julekalender_ in December; ITU participants maintain
 * a shared leaderboard (code 968368-95cb0c63) and 
 * an [Advent of Code channel on ITU Teams](https://teams.microsoft.com/l/channel/19%3a35ac58a2e8344a80b326c01f3fab6ded%40thread.tacv2/Advent%2520of%2520Code?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb) to talk about today’s problem. 
 
-Quite difficult on some days.
+AOC is quite difficult on some days.
 
