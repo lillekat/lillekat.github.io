@@ -17,7 +17,11 @@ NCPC is the first step on a series of events culminating in the ICPC world final
 
 NCPC is five hours of programming in teams of three, registration required (to be announced at the NCPC website). The problem quality is extremely high; the easiest problems are like easy Lille Kat, the atmosphere is super, so _everybody_ should participate.
 
-* Next event: 4 October 2025, 10:00–19:00. The Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held at ITU, in the Atrium; students from all IT educations in Copenhagen are welcome. More information and registration at the website for [NCPC](https://nordic.icpc.io/ncpc2025/). Registration is open since 26 August 2025.
+**Next event: 4 October 2025, 10:00–19:00.**
+
+The Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held at ITU, in the Atrium; students from all IT educations in Copenhagen are welcome. More information and registration:
+* website for [NCPC](https://nordic.icpc.io/ncpc2025/), including link to registration. Registration is open since 26 August 2025.
+* Netcompany’s webpage for [DM i Programmering](https://netcompany.com/dm-i-programmering-2025/), [Danish Programming Champtionship]([https://netcompany.com/dm-i-programmering-2025/](https://netcompany.com/danish-programming-championship-2025/))
 
 
 ## [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
