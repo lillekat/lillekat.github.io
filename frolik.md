@@ -28,7 +28,7 @@ NCPC is five hours of programming in teams of three, registration required (to b
 
 The 2025 Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held at ITU, in the Atrium; students from all IT educations in Copenhagen are welcome. More information and registration:
 * website for [NCPC](https://nordic.icpc.io/ncpc2025/), including link to registration. Registration is open since 26 August 2025.
-* Netcompany’s webpage for [DM i Programmering](https://netcompany.com/dm-i-programmering-2025/), [Danish Programming Champtionship]([https://netcompany.com/dm-i-programmering-2025/](https://netcompany.com/danish-programming-championship-2025/))
+* Netcompany’s webpage for [DM i Programmering](https://netcompany.com/dm-i-programmering-2025/), [Danish Programming Champtionship](https://netcompany.com/dm-i-programmering-2025/](https://netcompany.com/danish-programming-championship-2025/))
 
 
 ## [Will Code for Drinks](https://thorehusfeldt.github.io/wcfd/)
