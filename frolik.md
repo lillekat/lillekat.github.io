@@ -19,7 +19,14 @@ NCPC is five hours of programming in teams of three, registration required (to b
 
 **Next event: 4 October 2025, 10:00–19:00.**
 
-The Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held at ITU, in the Atrium; students from all IT educations in Copenhagen are welcome. More information and registration:
+### Road to NCPC
+
+
+* **Fri 19 Sep, 16-19**.  [Lille Kat 2025:08](https://open.kattis.com/contests/mke9to). Normal Lille Kat (with pizza!), but we’ve put all of NCPC 2024 on the task list, so you can revisit last year’s NCPC
+* **Wed 24 Sep, 16**. How to NCPC. ITU students who participated in earlier years (and proceeded to the Northwest European Championships) will share a bunch of best practices for serious competition.
+* **Wed 1 Oct**. Registration closes. You _must_ register your by this date, see the [NCPC Website](https://nordic.icpc.io/ncpc2025/).
+
+The 2025 Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held at ITU, in the Atrium; students from all IT educations in Copenhagen are welcome. More information and registration:
 * website for [NCPC](https://nordic.icpc.io/ncpc2025/), including link to registration. Registration is open since 26 August 2025.
 * Netcompany’s webpage for [DM i Programmering](https://netcompany.com/dm-i-programmering-2025/), [Danish Programming Champtionship]([https://netcompany.com/dm-i-programmering-2025/](https://netcompany.com/danish-programming-championship-2025/))
 
