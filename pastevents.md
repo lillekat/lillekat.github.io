@@ -1123,3 +1123,20 @@
 - [Eye Spy](https://open.kattis.com/contests/rddudb/problems/eyespy)
 - [Free the End](https://open.kattis.com/contests/rddudb/problems/freetheend)
 - [Remote Getaway](https://open.kattis.com/contests/rddudb/problems/remotegetaway)
+
+## 05 September 2025
+
+[*Kattis event*](https://open.kattis.com/contests/ukkxnk)
+
+- [Bitte ein Bit](https://open.kattis.com/contests/ukkxnk/problems/bitteeinbit)
+- [Shandy](https://open.kattis.com/contests/ukkxnk/problems/shandy)
+- [Cat in a Box](https://open.kattis.com/contests/ukkxnk/problems/catinabox)
+- [Generating Cool Passwords Company](https://open.kattis.com/contests/ukkxnk/problems/generatingcoolpasswordscompany)
+- [Labour Laws](https://open.kattis.com/contests/ukkxnk/problems/labourlaws)
+- [Cut in Line](https://open.kattis.com/contests/ukkxnk/problems/cutinline)
+- [Fishmongers](https://open.kattis.com/contests/ukkxnk/problems/fishmongers)
+- [Happy Hookup](https://open.kattis.com/contests/ukkxnk/problems/happyhookup)
+- [Karlsruhe Skyline](https://open.kattis.com/contests/ukkxnk/problems/karlsruheskyline)
+- [Demand for Cycling](https://open.kattis.com/contests/ukkxnk/problems/demandforcycling)
+- [Free Weights](https://open.kattis.com/contests/ukkxnk/problems/freeweights)
+- [Engineering Excellence](https://open.kattis.com/contests/ukkxnk/problems/engineeringexcellence)
