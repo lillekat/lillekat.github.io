@@ -19,7 +19,6 @@ A session typically lasts from 16:15 to 18:45; but you can show up or leave at a
 
 ### Upcoming events
 
-* Friday 5 September 2025, [Lille Kat 2025:07](https://open.kattis.com/contests/ukkxnk)
 * Friday 19 September 2025, [Lille Kat 2025:08](https://open.kattis.com/contests/mke9to)
 * Friday 24 October 2025, [Lille Kat 2025:09](https://open.kattis.com/contests/xobvcg)
 * Friday 7 November 2025, [Lille Kat 2025:10](https://open.kattis.com/contests/bge4kp)
@@ -29,6 +28,7 @@ A session typically lasts from 16:15 to 18:45; but you can show up or leave at a
 To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb).
 
 [Past Lille Kat events](pastevents.md)
+* Friday 5 September 2025, [Lille Kat 2025:07](https://open.kattis.com/contests/ukkxnk)
 
 ## Why?
 
