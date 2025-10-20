@@ -36,7 +36,7 @@ The 2025 Copenhagen event is organised by _Netcompany_ and _Jobindex_ and held a
 Held in the ITU Scrollbar, typically in November. Difficulty comparable to Lille Kat; but even more focussed on having fun. By now, one of the largest programming events in Scandinavia.
 Atmosphere is crazy. 
 
-* Next event is planned for 14 November 2025 in the ITU Scrollbar.
+* Next event is planned for February 2026 in the ITU Scrollbar.
 
 ## [NWERC –  Northwestern European Regional Contest](https://nwerc.eu)
 
