@@ -1140,3 +1140,41 @@
 - [Demand for Cycling](https://open.kattis.com/contests/ukkxnk/problems/demandforcycling)
 - [Free Weights](https://open.kattis.com/contests/ukkxnk/problems/freeweights)
 - [Engineering Excellence](https://open.kattis.com/contests/ukkxnk/problems/engineeringexcellence)
+
+## 19 September 2025
+
+[*Kattis event*](https://open.kattis.com/contests/mke9to)
+
+- [Class Photo](https://open.kattis.com/contests/mke9to/problems/classphoto)
+- [Pop Count](https://open.kattis.com/contests/mke9to/problems/popcount)
+- [Stuck In A Time Loop](https://open.kattis.com/contests/mke9to/problems/timeloop)
+- [13 Floors](https://open.kattis.com/contests/mke9to/problems/13floors)
+- [Composed Rhythms](https://open.kattis.com/contests/mke9to/problems/composedrhythms)
+- [Sum of the Year](https://open.kattis.com/contests/mke9to/problems/sumoftheyear)
+- [Undo](https://open.kattis.com/contests/mke9to/problems/undo)
+- [Knitting Pattern](https://open.kattis.com/contests/mke9to/problems/knittingpattern)
+- [Avoiding the Abyss](https://open.kattis.com/contests/mke9to/problems/avoidingtheabyss)
+- [Jungle Game](https://open.kattis.com/contests/mke9to/problems/junglegame)
+- [Fence Fee](https://open.kattis.com/contests/mke9to/problems/fencefee)
+- [Hotfix](https://open.kattis.com/contests/mke9to/problems/hotfix)
+- [Infinite Cash](https://open.kattis.com/contests/mke9to/problems/infinitecash)
+- [Double Deck](https://open.kattis.com/contests/mke9to/problems/doubledeck)
+
+## 24 October 2025
+
+[*Kattis event*](https://open.kattis.com/contests/xobvcg)
+
+- [Add Two Numbers](https://open.kattis.com/contests/xobvcg/problems/addtwonumbers)
+- [Bijele](https://open.kattis.com/contests/xobvcg/problems/bijele)
+- [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/contests/xobvcg/problems/jackolanternjuxtaposition)
+- [Flatter Land](https://open.kattis.com/contests/xobvcg/problems/flatterland)
+- [Human Pyramid](https://open.kattis.com/contests/xobvcg/problems/humanpyramid)
+- [Dialling Digits](https://open.kattis.com/contests/xobvcg/problems/diallingdigits)
+- [Battle of Nieuwpoort](https://open.kattis.com/contests/xobvcg/problems/battleofnieuwpoort)
+- [Expected Error](https://open.kattis.com/contests/xobvcg/problems/expectederror)
+- [Lawful Limits](https://open.kattis.com/contests/xobvcg/problems/lawfullimits)
+- [Giganotosaurus Game](https://open.kattis.com/contests/xobvcg/problems/giganotosaurusgame)
+- [Awkward Auction](https://open.kattis.com/contests/xobvcg/problems/awkwardauction)
+- [Investment Investigation](https://open.kattis.com/contests/xobvcg/problems/investmentinvestigation)
+- [Joppiesaus Jailbreak](https://open.kattis.com/contests/xobvcg/problems/joppiesausjailbreak)
+- [Fractal Area](https://open.kattis.com/contests/xobvcg/problems/fractalarea)
