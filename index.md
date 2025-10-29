@@ -19,8 +19,6 @@ A session typically lasts from 16:15 to 18:45; but you can show up or leave at a
 
 ### Upcoming events
 
-* Friday 19 September 2025, [Lille Kat 2025:08](https://open.kattis.com/contests/mke9to)
-* Friday 24 October 2025, [Lille Kat 2025:09](https://open.kattis.com/contests/xobvcg)
 * Friday 7 November 2025, [Lille Kat 2025:10](https://open.kattis.com/contests/bge4kp)
 * Friday 14 November 2025, [Lille Kat 2025:10.5]. (Note: no Will Code for Drinks, just normal Lille Kat.)
 * Friday 28 November 2025, [Lille Kat 2025:11](https://open.kattis.com/contests/fc3t9c)
