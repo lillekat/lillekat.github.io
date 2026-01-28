@@ -1178,3 +1178,24 @@
 - [Investment Investigation](https://open.kattis.com/contests/xobvcg/problems/investmentinvestigation)
 - [Joppiesaus Jailbreak](https://open.kattis.com/contests/xobvcg/problems/joppiesausjailbreak)
 - [Fractal Area](https://open.kattis.com/contests/xobvcg/problems/fractalarea)
+
+
+## 7 November 2025
+
+[*Kattis event*](https://open.kattis.com/contests/bge4kp)
+
+- [Add Two Numbers](https://open.kattis.com/contests/bge4kp/problems/addtwonumbers)
+- [Vandalism](https://open.kattis.com/contests/bge4kp/problems/vandalism)
+- [Testing LEDs](https://open.kattis.com/contests/bge4kp/problems/testingleds)
+- [Search Wizard](https://open.kattis.com/contests/bge4kp/problems/searchwizard)
+- [Sort of Sort](https://open.kattis.com/contests/bge4kp/problems/sortofsort)
+- [Island Exploration](https://open.kattis.com/contests/bge4kp/problems/islandexploration)
+- [of in the cold food of out hot eat the food](https://open.kattis.com/contests/bge4kp/problems/ofinthecoldfoodofouthoteatthefood)
+- [Tracing (Laser) Pointers](https://open.kattis.com/contests/bge4kp/problems/tracinglaserpointers)
+- [Nearest Nice Numbers](https://open.kattis.com/contests/bge4kp/problems/nearestnicenumbers)
+- [Coin Exchange](https://open.kattis.com/contests/bge4kp/problems/coinexchange)
+- [Underspecified Ultrametrics](https://open.kattis.com/contests/bge4kp/problems/ultrametric)
+- [Generator Dream](https://open.kattis.com/contests/bge4kp/problems/generatordream)
+- [Strange Light Switches](https://open.kattis.com/contests/bge4kp/problems/strangelightswitches)
+- [Separating Enemies](https://open.kattis.com/contests/bge4kp/problems/separatingenemies)
+- [One Nail / One Hole](https://open.kattis.com/contests/bge4kp/problems/onenailonehole)
