@@ -1199,3 +1199,39 @@
 - [Strange Light Switches](https://open.kattis.com/contests/bge4kp/problems/strangelightswitches)
 - [Separating Enemies](https://open.kattis.com/contests/bge4kp/problems/separatingenemies)
 - [One Nail / One Hole](https://open.kattis.com/contests/bge4kp/problems/onenailonehole)
+
+
+## 14 November 2025
+
+[*Kattis event*](https://open.kattis.com/contests/gizqrp)
+
+- [Reduplication](https://open.kattis.com/contests/gizqrp/problems/reduplikation)
+- [Gluttonous George](https://open.kattis.com/contests/gizqrp/problems/goggi)
+- [Compound Words](https://open.kattis.com/contests/gizqrp/problems/compoundwords)
+- [Snowfall](https://open.kattis.com/contests/gizqrp/problems/snowfall)
+- [Melting Snow](https://open.kattis.com/contests/gizqrp/problems/meltingsnow)
+- [Handheld Fan](https://open.kattis.com/contests/gizqrp/problems/handheldfan)
+- [A Little to the Right](https://open.kattis.com/contests/gizqrp/problems/alittletotheright)
+- [Uniform Variation](https://open.kattis.com/contests/gizqrp/problems/uniformvariation)
+- [Slippery Floor](https://open.kattis.com/contests/gizqrp/problems/slipperyfloor)
+- [Speedy Slopes](https://open.kattis.com/contests/gizqrp/problems/speedyslopes)
+- [Alpine Agility](https://open.kattis.com/contests/gizqrp/problems/alpineagility)
+- [Four Questions](https://open.kattis.com/contests/gizqrp/problems/fourquestions)
+- [Hockey Fans](https://open.kattis.com/contests/gizqrp/problems/hockeyfans)
+- [Wrapping Snowballs](https://open.kattis.com/contests/gizqrp/problems/wrappingsnowballs)
+
+## 28 November 2025
+
+[*Kattis event*](https://open.kattis.com/contests/fc3t9c)
+
+- [Cold-puter Science](https://open.kattis.com/contests/fc3t9c/problems/cold)
+- [Early Winter](https://open.kattis.com/contests/fc3t9c/problems/earlywinter)
+- [Mr. Plow King](https://open.kattis.com/contests/fc3t9c/problems/plowking)
+- [Exam](https://open.kattis.com/contests/fc3t9c/problems/exam)
+- [Santa Klas](https://open.kattis.com/contests/fc3t9c/problems/santaklas)
+- [Unique Snowflakes](https://open.kattis.com/contests/fc3t9c/problems/snowflakes)
+- [Cocoa Coalition](https://open.kattis.com/contests/fc3t9c/problems/cocoacoalition)
+- [Breaking Bars](https://open.kattis.com/contests/fc3t9c/problems/breakingbars)
+- [Secret Santa Cycles](https://open.kattis.com/contests/fc3t9c/problems/secretsantacycles)
+- [Catmas Gifts](https://open.kattis.com/contests/fc3t9c/problems/catmasgifts)
+- [Shovelling Snow](https://open.kattis.com/contests/fc3t9c/problems/shovelling)
