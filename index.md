@@ -22,8 +22,10 @@ A session typically lasts from 16:15 to 18:45; but you can show up or leave at a
 * [Friday 13 February 2026](https://open.kattis.com/contests/f6p5uw)
 * [Friday 27 February 2026](https://open.kattis.com/contests/tp7hsi)
 * [Friday 13 March 2026](https://open.kattis.com/contests/xapbdt)
+* Saturday 14 March 2026, 11-16. (Doors open at 10.) Lille Kat joins _IDI Open_. Registration required by 11 March 2026 23:59 at 
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfGA4hZIxjZ_ZHKDqs8nwdNzajHsVlnsvu_r6QxKNDOy2mWeA/viewform). Select Denmark and ITU. Lille Kat provides lunch (pizza? sushi? who knows) around 1pm.
 * [Friday 27 March 2026](https://open.kattis.com/contests/wowjki)
-* [Friday 17 April 2026](https://open.kattis.com/contests/yb54dx)
+* Friday 17 April 2026. Lille Kat joins _Will Code for Drinks_ 2026!
 
 To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb).
 
