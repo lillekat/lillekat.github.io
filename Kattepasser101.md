@@ -20,10 +20,7 @@ Lille Kat har sider/logins på følgende platforme
   - andre sider kan tilføjes løbende ved at tilføje flere .md filer, men det tager ofte et par minutter for github at oprette/opdatere dem
 - Teams:
   - gør til medejer på Lille Kat-kanalen   
-- Facebook
 - Basecamp (student council hjemmesiden)
-- ~~Discord~~
-  - ~~Blev brugt til Lockdown Lille Kat~~
 - Advent of Code
 - Gmail (pt kun brugt til AoC login)
 
@@ -33,7 +30,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 
 - **Plan**
   - Du vælger datoerne med 2 ugers mellemrum (hvis muligt).
-    - vær obs på ferier og itu LAN.
+    - vær obs på ferier, itu LAN og store fester.
     - Skriv i Organisation kanalen i Teams og få GO for datoer fra Thore
   - Skriv til Facilities Management (FM) for at booke borde
     - fm@itu.dk
@@ -88,7 +85,7 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 
 ### 1 uge før / et par dage før
 
-- **Tjek at der er snacks!** Man kan typisk regne med at der kommer 10-20% flere end der er tilmeldt på facebook. Snacks har været dele pizzaer, dåse sodavand og enkeltpakkede slik og chips. Jeg bar brugt [Nemlig](https://nemlig.com) og fået dem til at levere samme fredag hvor eventet er mellem kl. 14 - 15.
+- **Tjek at der er snacks!** Snacks har været dele pizzaer, dåse sodavand og enkeltpakkede slik og chips. Jeg bar brugt [Nemlig](https://nemlig.com) og fået dem til at levere dagen inden så sodavand kan stå på køl natten over.
 - **Bestil evt. pizza** Jeg har brugt Cavallino.
 - **Gem kvitteringen!** Tag et billede af den med det samme - du skal bruge det til udlægsrapporten.
 
@@ -102,17 +99,11 @@ Få gerne styr på følgende et par uger inden semesteret går i gang:
 
 ### Efter (Under)
 
-- Tilføj udlægsrapport i Ibistic
-  - Log in med din bruger
-  - "Register settlement"
-  - 133906 (CS department)
-  - Vælg Forplejning på ITU
-  - Upload kvitteringer for udlæg + billede af deltagerliste
+- Udfyld expense settlement form
+  - Send expense settlement form, kvitteringer for udlæg + billede af deltagerliste til Department support
 - Opdater Hjemmeside: tilføj opgaver under *past events* & fjern event fra *upcoming*
   - Brug gerne contestcraper fra terminalen, se guide under `contestcraper/readme.md`
 - Registrer timer i mTime
-
-*På Ibistic: "Travel/expenses document archive" = gamle udlægsrapporter du selv har oprettet, hvis du nogensinde skulle have behov for at se dem igen*
 
 - Expense settlement form for non-employees: [expense settlement form](templates/Expense_settlement_form.pdf)
   - ITU contact person: Sarah Grant 
