@@ -1235,3 +1235,75 @@
 - [Secret Santa Cycles](https://open.kattis.com/contests/fc3t9c/problems/secretsantacycles)
 - [Catmas Gifts](https://open.kattis.com/contests/fc3t9c/problems/catmasgifts)
 - [Shovelling Snow](https://open.kattis.com/contests/fc3t9c/problems/shovelling)
+
+## 13 February 2026
+
+[*Kattis event*](https://open.kattis.com/contests/f6p5uw)
+
+- [Add Two Numbers](https://open.kattis.com/contests/f6p5uw/problems/addtwonumbers)
+- [Above Sea Level](https://open.kattis.com/contests/f6p5uw/problems/abovesealevel)
+- [Echo Echo Echo](https://open.kattis.com/contests/f6p5uw/problems/echoechoecho)
+- [Reduplication](https://open.kattis.com/contests/f6p5uw/problems/reduplikation)
+- [Lost Lineup](https://open.kattis.com/contests/f6p5uw/problems/lostlineup)
+- [Graduation](https://open.kattis.com/contests/f6p5uw/problems/skolavslutningen)
+- [Message](https://open.kattis.com/contests/f6p5uw/problems/meddelande)
+- [Three in a Row](https://open.kattis.com/contests/f6p5uw/problems/treirad)
+- [Bracket Matching](https://open.kattis.com/contests/f6p5uw/problems/bracketmatching)
+- [Dungeon Equilibrium](https://open.kattis.com/contests/f6p5uw/problems/dungeonequilibrium)
+- [Expansion Plan 2](https://open.kattis.com/contests/f6p5uw/problems/expansionplan2)
+- [Factory Table](https://open.kattis.com/contests/f6p5uw/problems/factorytable)
+- [Jewels Building](https://open.kattis.com/contests/f6p5uw/problems/jewelsbuilding)
+- [Hyper Smawk Bros](https://open.kattis.com/contests/f6p5uw/problems/hypersmawkbros)
+
+## 27 February 2026
+
+[*Kattis event*](https://open.kattis.com/contests/tp7hsi)
+
+- [Add Two Numbers](https://open.kattis.com/contests/tp7hsi/problems/addtwonumbers)
+- [Baby Shark](https://open.kattis.com/contests/tp7hsi/problems/babyshark)
+- [Building Pyramids](https://open.kattis.com/contests/tp7hsi/problems/pyramids)
+- [Falling Apart](https://open.kattis.com/contests/tp7hsi/problems/fallingapart)
+- [Delimiter Soup](https://open.kattis.com/contests/tp7hsi/problems/delimitersoup)
+- [Ferry Loading III](https://open.kattis.com/contests/tp7hsi/problems/ferryloading3)
+- [Room Painting](https://open.kattis.com/contests/tp7hsi/problems/roompainting)
+- [Battle Bots](https://open.kattis.com/contests/tp7hsi/problems/battlebots)
+- [Compressing Commands](https://open.kattis.com/contests/tp7hsi/problems/compressingcommands)
+- [Democratic Naming](https://open.kattis.com/contests/tp7hsi/problems/democraticnaming)
+- [Exam Study Planning](https://open.kattis.com/contests/tp7hsi/problems/examstudyplanning)
+- [Funicular Frenzy](https://open.kattis.com/contests/tp7hsi/problems/funicularfrenzy)
+- [Hidden Art](https://open.kattis.com/contests/tp7hsi/problems/hiddenart)
+- [Locking Doors](https://open.kattis.com/contests/tp7hsi/problems/lockingdoors)
+
+## 13 March 2026
+
+[*Kattis event*](https://open.kattis.com/contests/xapbdt)
+
+- [Add Two Numbers](https://open.kattis.com/contests/xapbdt/problems/addtwonumbers)
+- [Bijele](https://open.kattis.com/contests/xapbdt/problems/bijele)
+- [Stuck In A Time Loop](https://open.kattis.com/contests/xapbdt/problems/timeloop)
+- [Finding Forks](https://open.kattis.com/contests/xapbdt/problems/findingforks)
+- [Better Dice](https://open.kattis.com/contests/xapbdt/problems/betterdice)
+- [Just a Joystick](https://open.kattis.com/contests/xapbdt/problems/justajoystick)
+- [King's Keep](https://open.kattis.com/contests/xapbdt/problems/kingskeep)
+- [Anti-Tetris](https://open.kattis.com/contests/xapbdt/problems/antitetris)
+- [Idle Terminal](https://open.kattis.com/contests/xapbdt/problems/idleterminal)
+- [Sheba's Amoebas](https://open.kattis.com/contests/xapbdt/problems/amoebas)
+- [Horror List](https://open.kattis.com/contests/xapbdt/problems/horror)
+- [Hacky Ordering](https://open.kattis.com/contests/xapbdt/problems/hackyordering)
+- [Losing Leaves](https://open.kattis.com/contests/xapbdt/problems/losingleaves)
+
+## 27 March 2026
+
+[*Kattis event*](https://open.kattis.com/contests/wowjki)
+
+- [Ready, Set, Go!](https://open.kattis.com/contests/wowjki/problems/readysetgo)
+- [Spell it Out](https://open.kattis.com/contests/wowjki/problems/spellitout)
+- [Just a Bit](https://open.kattis.com/contests/wowjki/problems/justabit)
+- [Source to Sink](https://open.kattis.com/contests/wowjki/problems/sourcetosink)
+- [Periodic Encryption](https://open.kattis.com/contests/wowjki/problems/periodicencryption)
+- [Router](https://open.kattis.com/contests/wowjki/problems/router)
+- [Daily Playlist](https://open.kattis.com/contests/wowjki/problems/dailyplaylist)
+- [Icarus](https://open.kattis.com/contests/wowjki/problems/icarus)
+- [Circular Walk](https://open.kattis.com/contests/wowjki/problems/circularwalk)
+- [Brass Section](https://open.kattis.com/contests/wowjki/problems/brasssection)
+- [Metro Lines](https://open.kattis.com/contests/wowjki/problems/metrolines)
