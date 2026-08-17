@@ -18,7 +18,11 @@ Lille Kat takes place on various Fridays throughout the semester.
 A session typically lasts from 16:15 to 18:45; but you can show up or leave at any time.
 
 ### Upcoming events
-* Friday 17 April 2026. Lille Kat joins _Will Code for Drinks_ 2026!
+* Friday 18 September, with welcome event 15-16.
+* Friday 2 October, NCPC warm-up! 
+* Friday 6 November.
+* Friday 20 November. 
+* Friday 11 December, Christmas edition.
 
 To keep yourself updated, join our [Lille Kat channel on ITU's Teams](https://teams.microsoft.com/l/team/19%3a3f1ac4a2adf040f1892cfe2ec12006c1%40thread.tacv2/conversations?groupId=f8d37a29-5c53-44fd-b2c9-bed005d1aee9&tenantId=bea229b6-7a08-4086-b44c-71f57f716bdb).
 
