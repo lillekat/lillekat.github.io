@@ -53,7 +53,7 @@ Ask questions and join the conversation at the [Lille Kat channel on ITU’s Tea
 
 The people behind Lille Kat are
 
-- Sigrid Lind (organizer)
+- Sofie Lundholm Andersen (organizer)
 - Thore Husfeldt (chair of problem committee)
 - Martin Aumüller
 
