@@ -19,7 +19,7 @@ A session typically lasts from 16:15 to 18:45; but you can show up or leave at a
 
 ### Upcoming events
 * Friday 18 September. [Lille Kat intro for newcomers](https://open.kattis.com/contests/r6pc8i) 15:15-16:00. Java (3A54). Python (Aud 3), C++ (Aud 4), F# (3A07).
-* Friday 18 September, 16:15–18:45 [https://open.kattis.com/contests/upvyet](Lille Kat 2026:06).
+* Friday 18 September, 16:15–18:45. [Lille Kat 2026:06](https://open.kattis.com/contests/upvyet). R2 Atrium tables. Sponsored by Accenture and the Danish Data Science Academy DDSA.
 * Friday 2 October, NCPC warm-up! 
 * Friday 6 November.
 * Friday 20 November. 
