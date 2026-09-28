@@ -19,6 +19,7 @@ A session typically lasts from 16:15 to 18:45; but you can show up or leave at a
 
 ### Upcoming events
 * Friday 2 October, 16:15–18:45 [Lille Kat 2026:06](https://open.kattis.com/contests/vnaguu). Great Warmup for NCPC the next day, but everybody is welcome! 
+* Saturday 3 Oct, 10:30-17. [NCPC 2026](https://nordic.icpc.io/ncpc2026/), aka DM i Programmering. Register by 30 Sep!
 * Friday 6 November.
 * Friday 20 November. 
 * Friday 11 December, Christmas edition.
