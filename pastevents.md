@@ -1307,3 +1307,21 @@
 - [Circular Walk](https://open.kattis.com/contests/wowjki/problems/circularwalk)
 - [Brass Section](https://open.kattis.com/contests/wowjki/problems/brasssection)
 - [Metro Lines](https://open.kattis.com/contests/wowjki/problems/metrolines)
+
+## 18 September 2026 
+[*Kattis event*] (https://open.kattis.com/contests/upvyet)
+
+- [Snake Hiss](https://open.kattis.com/contests/upvyet/problems/snakehiss)
+- [Baby Bites](https://open.kattis.com/contests/upvyet/problems/babybites)
+- [Shandy](https://open.kattis.com/contests/upvyet/problems/shandy)
+- [Kanelbullar](https://open.kattis.com/contests/upvyet/problems/kanelbullar)
+- [Colorful Outfits](https://open.kattis.com/contests/upvyet/problems/colorfuloutfits)
+- [Six Seven](https://open.kattis.com/contests/upvyet/problems/sixseven)
+- [Mailing Projects](https://open.kattis.com/contests/upvyet/problems/mailingprojects)
+- [Ernest's Endeavour](https://open.kattis.com/contests/upvyet/problems/ernestsendeavour)
+- [Intensive Sleep](https://open.kattis.com/contests/upvyet/problems/intensivesleep)
+- [Taking Out The Trash](https://open.kattis.com/contests/upvyet/problems/takingoutthetrash)
+- [Christmas Lights](https://open.kattis.com/contests/upvyet/problems/christmaslights)
+- [Monotone Travel](https://open.kattis.com/contests/upvyet/problems/monotonetravel)
+- [Chasing Butterflies](https://open.kattis.com/contests/upvyet/problems/chasingbutterflies)
+- [Crossword](https://open.kattis.com/contests/upvyet/problems/crossword2)
