@@ -4,8 +4,6 @@
 
 ### 7 Feb 2020
 
-![2020 FEB 07](images/2020/20200207.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/ncvy89)
 
 - [Tri](https://open.kattis.com/problems/tri)
@@ -21,8 +19,6 @@
 
 ### 6 Mar 2020
 
-![6 Mar 2020](images/2020/20200306.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/j6b33t)
 
 - [Erase Securely](https://open.kattis.com/problems/erase)
@@ -36,8 +32,6 @@
 
 ### 27 Mar 2020
 
-![27 Mar 2020](images/2020/20200327.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/oj3c3u)
 
 - [Aaah!](https://open.kattis.com/problems/aaah)
@@ -49,8 +43,6 @@
 - [Avoiding the Apocalypse](https://open.kattis.com/problems/avoidingtheapocalypse)
 
 ### 24 Apr 2020
-
-![24 Apr 2020](images/2020/20200424.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/bwarvf)
 
@@ -65,8 +57,6 @@
 - [Subway Map](https://open.kattis.com/problems/subwaymap)
 
 ### 4 Sep 2020
-
-![4 Sep 2020](images/2020/20200904.jpg)
 
 [*Kattis event*](https://open.kattis.com/contests/mhyj7h)
 
@@ -85,8 +75,6 @@
 
 ### 18 Sep 2020
 
-![18 Sep 2020](images/2020/20200918.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/dbup4b)
 
 - [Tower Construction](https://open.kattis.com/problems/tornbygge)
@@ -103,8 +91,6 @@
 
 ### 2 Oct 2020
 
-![2 Oct 2020](images/2020/20201002.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/g6grqf)
 
 - [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
@@ -120,8 +106,6 @@
 
 ### 30 Oct 2020
 
-![30 Oct 2020](images/2020/20201030.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/zpsg5t)
 
 - [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
@@ -135,8 +119,6 @@
 - [Witch Dance](https://open.kattis.com/problems/witchdance)
 
 ### 7 Nov 2020
-
-![NCPC 2020](images/NCPC/NCPC-2020-1920x1080px.jpg)
 
 [Nordic Collegiate Programming Championships at ITU](ncpc2020.md).
 
@@ -156,8 +138,6 @@
 
 ### 13 Nov 2020
 
-![13 Nov 2020](images/2020/20201113.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/n5c57y)
 
 - [Greetings!](https://open.kattis.com/problems/greetings2)
@@ -172,8 +152,6 @@
 
 ### 27 Nov 2020
 
-![27 Nov 2020](images/2020/20201127.png)
-
 [*Kattis event*](https://open.kattis.com/contests/jebstc/)
 
 - [Cold-puter Science](https://open.kattis.com/problems/cold)
@@ -187,13 +165,9 @@
 - [Catmas Gifts](https://open.kattis.com/problems/catmasgifts)
 - [Shovelling Snow](https://open.kattis.com/problems/shovellingcost)
 
-- 12 February 2021 - [Kattis](https://open.kattis.com/contests/acv2uq) - [Facebook](https://fb.me/e/1bEzip9i9)
-
 ## 2021
 
 ### 12 Feb 2021
-
-![12 feb 2021](images/2021/20210212.png)
 
 [*Kattis event*](https://open.kattis.com/contests/acv2uq)
 
@@ -211,8 +185,6 @@
 - [Blacksmith Training](https://open.kattis.com/problems/blacksmithtraining)
 
 ### 26 Feb 2021
-
-![26 feb 2021](images/2021/20210226.png)
 
 [*Kattis event*](https://open.kattis.com/contests/ebyjzj)
 
@@ -232,8 +204,6 @@
 
 ## 12 Mar 2021
 
-![12 mar 2021](images/2021/20210312.jpg)
-
 [*Kattis event*](https://open.kattis.com/contests/gp2uo8)
 
 - [Reverse](https://open.kattis.com/problems/ofugsnuid)
@@ -249,8 +219,6 @@
 
 ## 26 Mar 2021
 
-![26 mar 2021](images/2021/20210326.png)
-
 [*Kattis event*](https://open.kattis.com/contests/rxd4tt)
 
 - [Arrangement](https://open.kattis.com/problems/upprodun)
@@ -265,8 +233,6 @@
 - [Wurmprobleme](https://open.kattis.com/problems/worm)
 
 ## 9 Apr 2021
-
-![9 apr 2021](images/2021/20210409.png)
 
 [*Kattis event*](https://open.kattis.com/contests/edxm23)
 
@@ -287,8 +253,6 @@
 
 ## 7 May 2021
 
-![7 may 2021](images/2021/20210507.png)
-
 [*Kattis event*](https://open.kattis.com/contests/vxp2yh)
 
 - [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)  
@@ -305,8 +269,6 @@
 
 ## 10 September 2021
 
-![10 september 2021](images/2021/20210910.png)
-
 [*Kattis event*](https://open.kattis.com/contests/wnc9sa)
 
 - [Aaah!](https://open.kattis.com/problems/aaah)
@@ -321,8 +283,6 @@
 
 ## 24 September 2021
 
-![24 september 2021](images/2021/20210924.png)
-
 [*Kattis event*](https://open.kattis.com/contests/ckdb8z)
 
 - [Sok](https://open.kattis.com/problems/sok)
@@ -336,8 +296,6 @@
 - [3-Sided Dice](https://open.kattis.com/problems/3sideddice)
 
 ## 8 October 2021
-
-![8 October 2021](images/2021/20211008.png)
 
 [*Kattis event*](https://open.kattis.com/contests/msvksy)
 > Note that the event simply uses the problems from NCPC 2017
@@ -354,8 +312,6 @@
 - [Hubtown](https://open.kattis.com/problems/hubtown)
 
 ## 9 October 2021
-
-![NCPC 2021](images/NCPC/NCPC-2021-1920x1080px.jpg)
 
 [*Kattis event*](https://ncpc21.kattis.com/standings)
 
@@ -388,8 +344,6 @@
 
 ## 26 Nov 2021
 
-![26 November 2021](images/2021/20211126.png)
-
 [*Kattis event*](https://open.kattis.com/contests/g5r8pu)
 
 - [Digit Swap](https://open.kattis.com/problems/digitswap)
@@ -407,9 +361,6 @@
 
 ## 10 Dec 2021
 
-![10 December 2021](images/2021/20211210.png)
-
-
 [*Kattis event*](https://open.kattis.com/contests/qtqoc4/)
 
 - [Odd Echo](https://open.kattis.com/problems/oddecho)
@@ -425,8 +376,6 @@
 # 2022
 
 ## 11 Feb 2022
-
-![11 Februar 2022](images/2022/20220211fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/xagu76) 
 
@@ -445,8 +394,6 @@
 
 ## 25 Feb 2022
 
-![25 Februar 2022](images/2022/20220225fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/rspo2h) 
 
 - [Skru op!](https://open.kattis.com/problems/skruop)
@@ -459,8 +406,6 @@
 - [Gule gummistøvler](https://open.kattis.com/problems/gulegummistoevler)
 
 ## 11 Mar 2022
-
-![11 March 2022](images/2022/20220311fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/fc9wgt) 
 
@@ -478,8 +423,6 @@
 - [Prospecting](https://open.kattis.com/problems/prospecting)
 
 ## 25 Mar 2022
-
-![25 Mar 2022](images/2022/20220325fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/radfdp) 
 
@@ -501,8 +444,6 @@
 
 ## 06 May 2022
 
-![06 May 2022](images/2022/20220506fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/sqdq7r) 
 
 - [Which is Greater?](https://open.kattis.com/problems/whichisgreater)
@@ -519,8 +460,6 @@
 - [Dorm Room Divide](https://open.kattis.com/problems/dormroomdivide)
 
 ## 09 Sep 2022
-
-![09 Sep 2022](images/2022/20220909fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/h3zkgt)
 
@@ -539,8 +478,6 @@
 - [Evading a Monster](https://open.kattis.com/contests/h3zkgt/problems/evadingamonster)
 
 ## 23 Sep 2022
-
-![23 Sep 2022](images/2022/20220923fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/hviosv)
 
@@ -564,8 +501,6 @@
 
 ## 7 Oct 2022
 
-![07.10.2022](images/2022/20221007fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/vrszoe)
 
 - [twosum](https://open.kattis.com/problems/twosum)
@@ -584,8 +519,6 @@
 - [kleptocrat](https://open.kattis.com/problems/kleptocrat)
 
 ## 28 Oct 2022
-
-![28.10.2022](images/2022/20221028fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/pdimvb)
 
@@ -623,8 +556,6 @@
 
 ## 10 Feb 2023
 
-![10.02.2023](images/2023/20230210fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/ymferh)
 
 - [Add Two Numbers](https://open.kattis.com/contests/ymferh/problems/addtwonumbers)
@@ -645,8 +576,6 @@
 
 ## 24 Feb 2023
 
-![24.02.2023](images/2023/20230224fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/tacyp6) 
 
 - [Add Two Numbers](https://open.kattis.com/contests/tacyp6/problems/addtwonumbers)
@@ -662,8 +591,6 @@
 - [Room Evacuation](https://open.kattis.com/contests/tacyp6/problems/roomevacuation)
 
 ## 10 Mar 2023
-
-![10.03.2023](images/2023/20230310fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/wtrjwe)
 
@@ -684,8 +611,6 @@
 
 ## 24 Mar 2023
 
-![24.03.2023](images/2023/20230324fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/k2p4ws)
 
 - [Add Two Numbers](https://open.kattis.com/contests/k2p4ws/problems/addtwonumbers)
@@ -705,8 +630,6 @@
 - [Copying DNA](https://open.kattis.com/contests/k2p4ws/problems/copyingdna)
 
 ## 12 May 2023
-
-![12.05.2023](images/2023/20230512fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/kxbd2s)
 
@@ -730,8 +653,6 @@
 
 ## 08 Sep 2023
 
-![08.09.2023](images/2023/20230908fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/p3d3fe) 
 
 - [Echo Echo Echo](https://open.kattis.com/contests/p3d3fe/problems/echoechoecho)
@@ -750,9 +671,6 @@
 
 ## 22 Sep 2023
 
-![22.09.2023](images/2023/20230922fb.png)
-
-
 [*Kattis event*](https://open.kattis.com/contests/pvrsc5) 
 
 - [Velkomin!](https://open.kattis.com/contests/pvrsc5/problems/velkomin)
@@ -769,8 +687,6 @@
 - [Frumtölutalning](https://open.kattis.com/contests/pvrsc5/problems/frumtolutalning)
 
 ## 06 Oct 2023
-
-![06.10.2023](images/2023/20231006fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/dsxtx4) 
 
@@ -789,8 +705,6 @@
 
 ## 24 Nov 2023
 
-![24.11.2023](images/2023/20231124fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/seog3x) 
 
 - [Tölvunarfræðingar telja](https://open.kattis.com/contests/seog3x/problems/tolvunarfraedingartelja)
@@ -806,8 +720,6 @@
 - [Add or Multiply](https://open.kattis.com/contests/seog3x/problems/addormultiply)
 
 ## 08 Dec 2023
-
-![08.12.2023](images/2023/20231208fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/cihtfc) 
 
@@ -828,8 +740,6 @@
 
 ## 09 February 2024
 
-![09.02.2024](images/2024/09.02.2024fb.png)
-
 [*Kattis Event*](https://open.kattis.com/contests/ygc556) 
 
 - [Echo Echo Echo](https://open.kattis.com/contests/ygc556/problems/echoechoecho)
@@ -845,8 +755,6 @@
 - [Cristian's Piano](https://open.kattis.com/contests/ygc556/problems/pianot)
 
 ## 23 February 2024
-
-![23.02.2024](images/2024/23.02.2024fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/ock4c2) 
 
@@ -864,8 +772,6 @@
 
 ## 15 March 2024
 
-![15.03.2024](images/2024/15.03.2024fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/ukxors)
 
 - [Tölvunarfræðingar telja](https://open.kattis.com/contests/ukxors/problems/tolvunarfraedingartelja)
@@ -882,8 +788,6 @@
 
 ## 5 April 2024
 
-![05.04.2024](images/2024/05.04.2024fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/eipbxq)
 
 - [Keys, Phone, Wallet](https://open.kattis.com/contests/eipbxq/problems/keysphonewallet)
@@ -898,8 +802,6 @@
 - [Lines of X](https://open.kattis.com/contests/eipbxq/problems/linesofx)
 
 ## 3 May 2024
-
-![03.05.2024](images/2024/03.05.2024fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/uqi4p2) 
 
@@ -918,8 +820,6 @@
 - [Fibonacci Gjöf](https://open.kattis.com/contests/uqi4p2/problems/fibonaccigjof)
 
 ## 20 September 2024
-
-![20.09.2024](images/2024/20.09.2024fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/v3f9y3)
 
@@ -940,8 +840,6 @@
 
 ## 27 September 2024
 
-![27.09.2024](images/2024/27.09.2024fb.png)
-
 [*Kattis event*](https://open.kattis.com/contests/fxfj4t) 
 
 - [Leggja saman](https://open.kattis.com/contests/fxfj4t/problems/leggjasaman)
@@ -960,8 +858,6 @@
 - [Groups of Strangers](https://open.kattis.com/contests/fxfj4t/problems/groupsofstrangers)
 
 ## 11 October 2024
-
-![11.10.2024](images/2024/11.10.2024fb.png)
 
 [*Kattis event*](https://open.kattis.com/contests/preqa4) 
 
@@ -1012,6 +908,8 @@
 - [Brainfuck](https://open.kattis.com/contests/qwb7eb/problems/brainfuck)
 - [Incredible Bartender](https://open.kattis.com/contests/qwb7eb/problems/incrediblebartender)
 - [Alcohol-Free Alternative](https://open.kattis.com/contests/qwb7eb/problems/alcoholfreealternative)
+
+# 2025
 
 ## 7 February 2025
 
@@ -1236,6 +1134,8 @@
 - [Catmas Gifts](https://open.kattis.com/contests/fc3t9c/problems/catmasgifts)
 - [Shovelling Snow](https://open.kattis.com/contests/fc3t9c/problems/shovelling)
 
+# 2026
+
 ## 13 February 2026
 
 [*Kattis event*](https://open.kattis.com/contests/f6p5uw)
@@ -1325,3 +1225,22 @@
 - [Monotone Travel](https://open.kattis.com/contests/upvyet/problems/monotonetravel)
 - [Chasing Butterflies](https://open.kattis.com/contests/upvyet/problems/chasingbutterflies)
 - [Crossword](https://open.kattis.com/contests/upvyet/problems/crossword2)
+
+## 2 October 2026
+[*Kattis event*](https://open.kattis.com/contests/vnaguu)
+- [The Cube](https://open.kattis.com/contests/vnaguu/problems/cube)
+- [Bijele](https://open.kattis.com/contests/vnaguu/problems/bijele)
+- [Odd Echo](https://open.kattis.com/contests/vnaguu/problems/oddecho)
+- [Countdown](https://open.kattis.com/contests/vnaguu/problems/countdown2)
+- [FYI](https://open.kattis.com/contests/vnaguu/problems/fyi)
+- [Inverse Case](https://open.kattis.com/contests/vnaguu/problems/inversecase)
+- [km/h](https://open.kattis.com/contests/vnaguu/problems/kmh)
+- [Arithmetic Adaption](https://open.kattis.com/contests/vnaguu/problems/arithmeticadaptation)
+- [Crochet Competition](https://open.kattis.com/contests/vnaguu/problems/crochetcompetition)
+- [Instagraph](https://open.kattis.com/contests/vnaguu/problems/instagraph)
+- [Gotta Trade Some of 'Em](https://open.kattis.com/contests/vnaguu/problems/gottatradesomeofem)
+- [Eqyptian Equality](https://open.kattis.com/contests/vnaguu/problems/egyptianequality)
+- [Dune Dash](https://open.kattis.com/contests/vnaguu/problems/dunedash)
+- [Bohemian Bookshelf](https://open.kattis.com/contests/vnaguu/problems/bohemianbookshelf)
+- [Follower Forensics](https://open.kattis.com/contests/vnaguu/problems/followerforensics)
+- [Jump](https://open.kattis.com/contests/vnaguu/problems/jump)
