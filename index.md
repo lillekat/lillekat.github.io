@@ -18,7 +18,6 @@ Lille Kat takes place on various Fridays throughout the semester.
 A session typically lasts from 16:15 to 18:45; but you can show up or leave at any time.
 
 ### Upcoming events
-* Friday 2 October, NCPC warm-up! 
 * Friday 6 November.
 * Friday 20 November. 
 * Friday 11 December, Christmas edition.
