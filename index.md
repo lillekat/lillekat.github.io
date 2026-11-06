@@ -18,7 +18,7 @@ Lille Kat takes place on various Fridays throughout the semester.
 A session typically lasts from 16:15 to 18:45; but you can show up or leave at any time.
 
 ### Upcoming events
-* Friday 6 November.
+* Friday 6 November. [https://open.kattis.com/contests/pkregp](https://open.kattis.com/contests/pkregp)
 * Friday 20 November. 
 * Friday 11 December, Christmas edition.
 
